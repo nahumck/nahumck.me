@@ -35,7 +35,7 @@ For entries or even quick hits, I have several shortcuts which can add data to m
 
 Along with the data, I can add a few other file types that might be relevant for me: audio recordings, photos, and files. These don't save the files into Drafts, which does not support them, but rather provides Markdown-formatted links to the files for use later. I occasionally will do an audio file to capture something that's more nuanced than text. Similarly, I might need to reference a file later and having the option here helps as well. It may seem weird that I have files linked to a journal, but, well… it's _my_ journal.
 
-\[caption id="attachment\_1872" align="aligncenter" width="1024"\][![](/images/Journal-and-PDF-SbS-1024x747.png)](https://www.nahumck.me/wp-content/uploads/2020/06/Journal-and-PDF-SbS.png) A journal entry in Drafts on the left, as a PDF in Shortcuts on the right.\[/caption\]
+[![](/images/Journal-and-PDF-SbS-1024x747.png "A journal entry in Drafts on the left, as a PDF in Shortcuts on the right.")](https://www.nahumck.me/wp-content/uploads/2020/06/Journal-and-PDF-SbS.png) 
 
 Now that I have everything in place, rather than save the text, I realized I just want to be able to view the final product after it's completed for the day. For a while, I was saving plain text and viewing it later via a quick look action, but I ultimately just want the rendered journal entry. This sent me down the path to creating a way to save a PDF of the document, along with rendered images and links to the audio recordings and files for later consumption.
 

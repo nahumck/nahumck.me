@@ -23,7 +23,7 @@ After a bit of sifting, I ended up finding the [Travelon Anti-Theft Urban Sling 
 
 There are a lot of anti-theft details of this bag: there are locking zippers to keep the compartments secure as you are moving around; the bag and straps have reinforced, anti-slash materials to keep the bag from being cut off my body; and the area for cards/passports are RFID shielded. These features make it a great bag for going around town, traveling to a big city via plane, train, or bicycle. I can even put a water bottle or [Yeti tumbler](http://www.amazon.com/dp/B073WJX9ZV/?tag=nahumck-20) on either side for travel.
 
-\[caption id="attachment\_1528" align="aligncenter" width="840"\][![EDC Bag 2019](/images/5156A67A-79D3-4D22-B157-27EBD4E75F15-1024x768.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/01/5156A67A-79D3-4D22-B157-27EBD4E75F15.jpeg) This bag holds more than I thought it would.\[/caption\]
+\[![EDC (/images/5156A67A-79D3-4D22-B157-27EBD4E75F15-1024x768.jpeg "Bag 2019]")](https://www.nahumck.me/wp-content/uploads/2019/01/5156A67A-79D3-4D22-B157-27EBD4E75F15.jpeg) This bag holds more than I thought it would.\[/caption\]
 
 With this bag, I'm able to fit most of what I carry on a normal basis. In the bag, I have:
 

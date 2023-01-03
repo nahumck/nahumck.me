@@ -23,31 +23,31 @@ Blue is fine. Blue is ok. But blue is used by so many others. Just take a look a
 
 I have had a dragon fruit sport loop band since Christmas. It is my favorite Apple Watch band that I own because it was a gift from my partner (she's amazing) and it's just a solid color choice.[1](#fn-1843-pride) I cannot tell you how often I wear this because it pairs so well with the grayscale pallet, from white to gray to charcoal to black. So I put that color against a light and dark background that came from some [Drafts](https://apps.apple.com/us/app/drafts/id1236254471?uo=4&at=1001l4VZ) theme colors, and was instantly in love. Pair that with a nice mid-gray which works for both, and I had my palette.
 
-\[caption id="attachment\_1853" align="aligncenter" width="450"\][![](/images/site_color_palette-450x90.png)](https://www.nahumck.me/wp-content/uploads/2020/06/site_color_palette.png) My site's color palette.\[/caption\]
+[![](/images/site_color_palette-450x90.png "My site's color palette.")](https://www.nahumck.me/wp-content/uploads/2020/06/site_color_palette.png) 
 
 This is where the logo journey started. I wanted something different, something new. The same day that I thought about a site redesign and a new logo, I saw a post from another Jeff – [Jeff Perry](https://jeffperry.blog). He was offering to do some work to help others, and boy did I need it. There were a lot of back and forth discussions and directions with him about the logo. Too many. And all of that my fault, as I didn't exactly know where I wanted to go with all of it.
 
-\[caption id="attachment\_1836" align="aligncenter" width="450"\][![](/images/logo_original-450x450.png)](https://www.nahumck.me/wp-content/uploads/2020/06/logo_original.png) My original logo.\[/caption\]
+[![](/images/logo_original-450x450.png "My original logo.")](https://www.nahumck.me/wp-content/uploads/2020/06/logo_original.png)
 
 There were multiple iterations of a design. I enjoyed the first logo a lot. I liked the whole idea of having a vague looking `N` surrounding an homage to Drafts. The idea was clean, but ultimately decided not to go this path because I thought it looked a bit too much like a business card and not something I would want for a website.
 
-\[caption id="attachment\_1832" align="aligncenter" width="450"\][![](/images/logo_iteration_1-450x450.png)](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_1.png) Iteration 1: all business.\[/caption\]
+[![](/images/logo_iteration_1-450x450.png "Iteration 1: all business")](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_1.png)
 
 Then I went to another extreme: what if I created a design of glyphs to show what my site is about (most of the time). I liked this idea a lot too. But it looked more like an infographic than a logo. It would be a chunky item to put at the top of the page. I do still like this a lot, and might incorporate some of the design aesthetic into posts in the future, but I ultimately didn't pursue this direction further.
 
-\[caption id="attachment\_1833" align="aligncenter" width="450"\][![](/images/logo_iteration_2-450x283.png)](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_2.png) Iteration 2: the infographic.\[/caption\]
+[![](/images/logo_iteration_2-450x283.png "Iteration 2: the infographic.")](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_2.png)
 
 Then I went back to basics, and hated myself a bit. This… is awful. I'm ashamed of it. So why not discuss it and show it off? It really comes down to this: in searching some logo designs, I saw a lot of line/dot art that looked like an object. And while this worked in practice for other designs, it is a horrible design for what I wanted. And I won't mention it again. Ever.
 
-\[caption id="attachment\_1834" align="aligncenter" width="450"\][![](/images/logo_iteration_3-450x450.png)](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_3.png) Iteration 3: the atrocity.\[/caption\]
+[![](/images/logo_iteration_3-450x450.png "Iteration 3: the atrocity")](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_3.png)
 
 I went further back. When a job goes wrong, you go back to the beginning. All the way back to my first logo. It was simply the `n` in the font choice of my website. I really only ever used it for my favicon, and no where else. I always had `nahumck.me` up on top. So I went into [Pixelmator](https://apps.apple.com/us/app/pixelmator/id924695435?uo=4&at=1001l4VZ), and put that on the canvas in text. I started thinking about what I could do to break it up. This lead me to a line, which lead me to a rectangle. and that's when it all started coming together. I'll break up the `nahumck` and the `me` with a box, where the period would be a do which breaks up the box.
 
-\[caption id="attachment\_1835" align="aligncenter" width="450"\][![](/images/logo_iteration_4-450x225.png)](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_4.png) Iteration 4: the start of an idea.\[/caption\]
+[![](/images/logo_iteration_4-450x225.png "Iteration 4: the start of an idea")](https://www.nahumck.me/wp-content/uploads/2020/06/logo_iteration_4.png)
 
 Now, that's not much of a logo. But if I took it down to where I started originally – with a simple `n` – it might work best. So I handed this off to Jeff, and he created the final version. The corners became more rounded and the line stopped closer to the dot and also followed the outline of it. I loved this little touch in the design. This is what I will use going forward for the website, and I absolutely love it!
 
-\[caption id="attachment\_1786" align="aligncenter" width="450"\][![](/images/nahumck-n-logo-450x450.png)](https://www.nahumck.me/wp-content/uploads/2020/06/nahumck-n-logo.png) The official logo.\[/caption\]
+[![](/images/nahumck-n-logo-450x450.png "The official logo.")](https://www.nahumck.me/wp-content/uploads/2020/06/nahumck-n-logo.png)
 
 It was a process to get this done. Working with the Jeffs was easy, even if I was stressed in my head. Going through some tough discussions and decisions to make way for something bold is fantastic. I was stuck in a rut with the colors at first, much like my writing. But I realized this needed to change. I would have _never_ chosen dragonfruit as my initial color, but I'm happy that it turned into what I ultimately wanted. I was looking to go with a different idea for a logo, but ultimately went with something familiar yet modern. Even better, I'll have a new visual in Drafts for my previews in the future, so the new themes will be everywhere.
 
@@ -55,4 +55,4 @@ I'm happy that this has all worked out for the better. I hope that you enjoy it 
 
 * * *
 
-2. The Nike Pride band is a close second. [↩](#fnref-1843-pride)
+1. The Nike Pride band is a close second. [↩](#fnref-1843-pride)

@@ -23,7 +23,7 @@ Well, I'm happy to say that I have been [Sherlocked](https://www.urbandictionary
 
 In the upper right corner of the editor, there is a small triangle icon; when you tap the icon, you are presented with a navigation menu. Not only does this navigate headers in Markdown, but it also navigates projects in TaskPaper, and code blocks in JavaScript. It also include a top and bottom button, as well as a select all button.
 
-\[caption id="attachment\_1348" align="aligncenter" width="840"\][![](/images/Syntax-Navigation-1024x673.png)](https://www.nahumck.me/wp-content/uploads/2018/06/Syntax-Navigation.png) Syntax navigation in Markdown, JavaScript, and TaskPaper\[/caption\]
+[![](/images/Syntax-Navigation-1024x673.png "Syntax navigation in Markdown, JavaScript, and TaskPaper")](https://www.nahumck.me/wp-content/uploads/2018/06/Syntax-Navigation.png) 
 
 Additionally, using the keyboard shortcut `⌘\`, you can use your external keyboard now to navigate your way through longer writing, coding, or task management projects. This implementation is much better than I could have ever programmed in an action, and it's great to see this type of behavior built into the application itself. As more syntax highlights come in the future, it will be nice to have [navigation](http://getdrafts.com/editor/navigation) along with them.[1](#fn-1354-syntax)
 
