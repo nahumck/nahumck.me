@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "SomeType-Mono";
+    src: url("/assets/fonts/SometypeMono-Regular.woff2") format("woff2");
+}
+
+
+@font-face {
+    font-family: "SomeType-Mono-Bold";
+    src: url("/assets/fonts/SometypeMono-Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "SomeType-Mono-BoldItalic";
+    src: url("/assets/fonts/SometypeMono-BoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "SomeType-Mono-Medium";
+    src: url("/assets/fonts/SometypeMono-Medium.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "SomeType-Mono-MediumItalic";
+    src: url("/assets/fonts/SometypeMono-MediumItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "SomeType-Mono-RegularItalic";
+    src: url("/assets/fonts/SometypeMono-RegularItalic.woff2") format("woff2");
+}
