@@ -21,7 +21,7 @@ My morning commute was an average drive: 20 min of time, give or take some traff
 
 That is all that I remember. That and my chest hurting. I don’t remember the man crossing the road to find out if I was ok, but I remember him tapping on the window. Through some effort, I was able to get my seatbelt off, push the door open, and get myself to my feet. Nothing felt broken, but I was clearly in shock.
 
-[![The (/images/image-300x225.jpeg "Aftermath of My Accident]")](https://www.nahumck.me/wp-content/uploads/2015/11/image.jpeg)
+![The Aftermath of My Accident](/images/image-300x225.jpeg)
 
 My car sat on the side of the road totaled. My phone, which normally sits in my cup holder when driving, was wedged between the dash and the windshield. The officer said I was likely going about 40 mph. An judging from the pain in my chest, he was right. I didn’t take the ambulance ride that was offered, even though my blood pressure was over 190/130 at the time. My wife came and got me at the scene, and with her insistence, we went to the hospital to have me checked over. I was convinced nothing was wrong, that I was just shaken up from the impact.
 
@@ -35,7 +35,7 @@ I remember being in a peaceful dream, surrounded by warmth, feeling happiness an
 
 It is then they tell me what happened, about the events that had just transpired: _my heart had stopped._ Stopped, flatlined, no pulse for 30 seconds. The nurse who asked if I was ok was also the one who had thumped her fist on my chest to get the heart going again. The doctors were looking for something specific in the monitor: the [p-wave](https://en.wikipedia.org/wiki/Electrocardiography) that precedes the normal heart rhythm that wasn’t showing. It’s basically your internal pacemaker that sets off the normal sinus rhythm, and I didn’t have it. So there I sat, waiting for the machine in the hallway, with nothing but my thoughts and a lot of tears.
 
-[![Typical (/images/EKG-Flatline.jpg "EKG with a flatline]")](http://inlandpolitics.com/blog/wp-content/uploads/2012/11/EKG-Flatline.jpg)
+!["Typical EKG with a flatline](/images/EKG-Flatline.jpg)
 
 What do you do with that news? How do you even process that without knowing what is wrong? It seemed almost surreal, until I thought that I wouldn’t see my wife & son again. Even though the experience was peaceful for me, the thought of what it would do to family & friends was overwhelming. The technician was very understanding of my current state and started the scan when I wasn’t a crying mess. The scan wasn’t conclusive.
 
