@@ -15,7 +15,7 @@ This got me thinking about my own setup, and the things that I’d like for the 
 
 ## My Setup
 
-![](images/iPhone-Pro-Setup.jpeg)
+![](/images/iPhone-Pro-Setup.jpeg)
 
 My setup consists of two things, and these two things only:
 
@@ -78,17 +78,17 @@ One of the biggest overall sweeping software changes I would like to see is land
 
 #### Split Screen Apps
 
-![](images/Ulysses-Safari-Split-Screen.png)
+![](/images/Ulysses-Safari-Split-Screen.png)
 
 Despite what others have said, the 5.5" screen is plenty big enough to have side-by-side app support. Don’t think of it as split screen on an iPhone Plus, but rather split screen on an iPad Nano. Android has this feature, and I think this could be done eloquently. I do understand that a small screen would not be ideal when using the software keyboard in split screen, but using an external keyboard allows the full screen to be utilized.
 
-![](images/Split-Screen-Software-Keyboard.png)
+![](/images/Split-Screen-Software-Keyboard.png)
 
 There are so many times that I want to have two things side-by-side just to review them. If I’m reading a book, which I do almost exclusively on my iPhone, if I ever want to take notes on a book, I have to either use the 3D Touch gesture to switch apps, or double press the home button to go back. With the drag-n-drop copy/paste concept shown in the MacStories concept, this would be an awesome productivity addition.
 
 This would be even better than picture-in-picture, where I think the 5.5" screen is too small. I know that YouTube has their own way of doing it in portrait mode on iOS, but to really see a video, I believe it would be better in split screen mode.
 
-![](images/YouTube-Drafts-Split-Screen.png)
+![](/images/YouTube-Drafts-Split-Screen.png)
 
 #### Improved Bluetooth Keyboard Support
 
@@ -106,7 +106,7 @@ Ok, after writing all of the possibilities of what Apple Pencil support could br
 
 Am I crazy to want this? Probably. But I run my site with it. I can take it anywhere. I can type a lot with the keyboard, but I can also just use voice dictation, the software keyboard, or even something like [Gboard](https://geo.itunes.apple.com/us/app/gboard-search.-gifs.-emojis/id1091700242?at=1001l4VZ&ct=nahumck_me "Gboard"). Am I limiting my multitasking ability due to a smaller screen than an iPad? Yes, but in my experience, it hasn’t been an issue. Does it look dumb? Yes. I’ve used my current setup at work, and had more than a few strange looks sent my way. But I’ve also shown people what is possible today, and they are amazed.
 
-![](images/Nahumck-Split-Screen.png)
+![](/images/Nahumck-Split-Screen.png)
 
 So why run iPhone only? Well, frankly, I’ve been doing just that for well over a year; I’ve increased my productivity by simply adding the external keyboard. The only time I touch a computer is when [my cousin](http://goldroom.la) drops a new mix that isn’t available on [Apple Music](http://apple.com/music "Apple Music") or [Spotify](https://geo.itunes.apple.com/us/app/spotify-music/id324684580?at=1001l4VZ&ct=nahumck_me "Spotify"), or if my wife has a problem that she’s encountered and can’t fix. But those instances are far and few between.[\[5\]](#fn-5 "see footnote")
 

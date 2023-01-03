@@ -16,7 +16,7 @@ There are a lot of things during the day that I often need to remember. And most
 
 [Drafts](#) is a wonderful tool for this kind of activity. I can simply enter the text using my fingers and thumbs. Starting ideas here has been the natural place for me for a long time now. And with the latest update, it's now made even easier with the dictation feature, thanks to the changes made in iOS 10. It takes cognition-to-completion, something I first heard from Merlin Mann on Back-to-Work, down to seconds to complete. All you have to do is 3D Touch the Drafts icon on your iPhone and start talking: it's as simple as that. You don't have to tap anything to make new draft or think where the icon is on your home screen – even though it should be in your dock – and then start typing into whatever keyboard you choose. You just press and talk.
 
-![](images/Image-9-12-16-8-02-AM.png)
+![](/images/Image-9-12-16-8-02-AM.png)
 
 We often use technology, even if it's pen and paper, to get the thoughts from our head to paper so we can remember it later. And now with modern technology – i.e. the smartphone or smartwatch – we can really shorten the time it takes to get these things out into our digital sheets.
 

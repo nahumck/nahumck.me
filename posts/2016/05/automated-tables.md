@@ -84,7 +84,7 @@ One clever addition is the inclusion of allowing for the text position by using 
 
 If there isn’t anything at the end of the line, then it defaults to the left alignment. This works phenomenally well, and is a really well done key. He’s also made a [table cleanup key](https://drafts4-actions.agiletortoise.com/k/1mt); this works only for people that use a fixed-width font like Courier so that the table looks good in plain text too.
 
-![](images/Drafts-Table-Keys.png)
+![](/images/Drafts-Table-Keys.png)
 
 Cheers to Ciaran for creating these and showing his JavaScript magic.
 

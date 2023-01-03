@@ -37,7 +37,7 @@ The first part of the action checks to see if any images were input, and if not,
 
 Finally, there are a few options for submission: Twitter, Instagram, or email.[2](#fn-1557-weibo) You'll select which one you would like to choose, and follow the steps from there. (For the Instagram step, it is important to note that the caption is copied to the clipboard and you will have to manually paste it in caption area of the app.) Each method passes the image in its full resolution to the application of choice; I'd recommend email as the first submission, as Twitter and Instagram will likely compress the image.
 
-[![](images/ShotOniPhone-Shortcut-110x1024.png)](https://www.nahumck.me/wp-content/uploads/2019/01/ShotOniPhone-Shortcut.png)
+[![](/images/ShotOniPhone-Shortcut-110x1024.png)](https://www.nahumck.me/wp-content/uploads/2019/01/ShotOniPhone-Shortcut.png)
 
 And that's it! This shortcut may seem complex, but it's really simple to run once you get it installed. Not only does it rename the photo for you, it also helps you submit your photo to the challenge. Now anyone can shoot and submit to this #ShotOniPhone Challenge, all from their iPhone. Turns Out™, you don't need a Mac to do it after all…
 

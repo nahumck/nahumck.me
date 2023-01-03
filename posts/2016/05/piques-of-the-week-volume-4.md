@@ -16,11 +16,11 @@ Here’s a few things that are piquing my interests this week:
 
 [Associate](https://geo.itunes.apple.com/us/app/associate-simple-affiliate/id1083291558?&at=1001l4VZ&ct=nahumck_me) is a new app from [Squibner](http://squibner.com/ "Squibner"), makers of [Blink](https://geo.itunes.apple.com/us/app/blink-better-affiliate-links/id946766863?&at=1001l4VZ&ct=nahumck_me "Blink: Better Affiliate Links"). Like Blink, this is an app for individuals who use affiliate/associate links on their websites. But instead of using iTunes, Associate is an app for those that use the [Amazon Affiliate Link Program](https://affiliate-program.amazon.com "Amazon Affiliate Link Program").
 
-![](images/Image-5-16-16-1-08-PM.png "Associate vs Blink Search")
+![](/images/Image-5-16-16-1-08-PM.png "Associate vs Blink Search")
 
 Much like it's iTunes counterpart, you simply search for an item within Amazon that you want to share, and you can generate and/or share the link right from the app. Associate doesn't have everything from Blink yet (like a URL scheme), but this is a solid 1.0 release.[1](#fn1) I would really love to see the same preview layout that Blink has for the detail view, so that I can visually see what I'm linking to; the current way makes it so that I can't tell by just the link. With time, there will be improvement, and I'm really looking forward to the updates in the future.
 
-![](images/Image-5-16-16-1-08-PM-1.png "Associate vs Blink Detail")
+![](/images/Image-5-16-16-1-08-PM-1.png "Associate vs Blink Detail")
 
 Associate and Blink are the best way to get your affiliate links, period. If you link to anything iTunes or Amazon, these will pay for themselves over time. I cannot recommend them highly enough.
 
@@ -30,7 +30,7 @@ _Update: Associate by itself is $5, but for those that are new or already purcha
 
 I sit at a computer every day of the week, except for maybe the weekends. Using a mouse on a daily basis has some issues over time, and when I found myself in need of a mouse last week, I wanted to get something ergonomic to prevent any [RSI](https://en.wikipedia.org/wiki/Repetitive_strain_injury "Repetitive Strain Injury") from happening.
 
-![](images/Image-5-16-16-1-07-PM.jpeg "Anker Ergonomic Wireless 2.4GHz USB Mouse")
+![](/images/Image-5-16-16-1-07-PM.jpeg "Anker Ergonomic Wireless 2.4GHz USB Mouse")
 
 After some searching on Amazon, I found the [Anker Ergonomic USB Mouse](http://www.amazon.com/dp/B018LR04B8/?tag=nahumck-20 "Anker Ergonomic USB Mouse"). The mouse has a nice soft-touch feel, and is really comfortable in the hand. The "vertical" setup makes it so your forearm isn't turning, and keeps your arm & hand in line. It doesn't have as many buttons as some other mice out there, but with what I use it for at work, having the regular right/left buttons, a scroll wheel, and two side buttons for forward/back for navigation are perfect.
 

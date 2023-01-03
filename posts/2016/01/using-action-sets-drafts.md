@@ -11,7 +11,7 @@ permalink: "using-action-sets-drafts/index.html"
 layout: "post"
 ---
 
-![Hero Image](images/Drafts-Action-Set-Hero.png)
+![Hero Image](/images/Drafts-Action-Set-Hero.png)
 
 [Drafts](https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1001l4VZ&ct=nahumck_me "Drafts") has long been in my dock. It is the essential start for almost all of my text: messages, emails, Tweets, notes, post ideas, etc. all start there, and go some where else thanks to the power behind the app’s simplistic interface.
 
@@ -35,7 +35,7 @@ The developer, [AgileTortoise](http://www.agiletortoise.com), originally posted 
 2. URL: `drafts4://x-callback-url/open?uuid=[[uuid]]&action=[[prompt_button]]`
     
 
-![Select Action Set](images/Select-Action-Set.png)
+![Select Action Set](/images/Select-Action-Set.png)
 
 At the time, I didn’t think much of it. But when I started realizing the power this had to clear up my action lists, I immediately started grouping my actions together in this way. The first time this started was with [Fantastical](https://geo.itunes.apple.com/us/app/fantastical-2-calendar-reminders/id718043190?at=1001l4VZ&ct=nahumck_me). I had 6 actions that I used with the app:[\[2\]](#fn-2 "see footnote")
 
@@ -50,19 +50,19 @@ Event and Reminder are single items, and require the user to hit “Add” in th
 
 I made one Action Set called “[Fantastical…](https://drafts4-actions.agiletortoise.com/a/1eb)”. One line, but with 6 different inputs. Later, I modified it to only have the 3 events-based actions, because I do not use Reminders integration now for [2Do](https://geo.itunes.apple.com/us/app/2do/id303656546?at=1001l4VZ&ct=nahumck_me), my task management app of choice.
 
-![Fantastical Action Set](images/Fantastical-Action-Set.png)
+![Fantastical Action Set](/images/Fantastical-Action-Set.png)
 
 ### Action Set Keys
 
 When you have finally created the Action Sets you want, and if you run them frequently, consider making an [Action Keys](https://agiletortoise.zendesk.com/hc/en-us/articles/202865034-Using-the-Enhanced-Keyboard) for your Enhanced Keyboard row. If you assign an Action Set to a Key, you will be able to bring up the Action Set menu quickly for manipulation.
 
-![Clipboard Action Key](images/Clipboard-Action-Key.png)
+![Clipboard Action Key](/images/Clipboard-Action-Key.png)
 
 This is especially powerful for users that have an external keyboard that they use with their iOS device. I’ve been using [one](https://www.nahumck.me/things-i-like-volume-1/) for a while, and I don’t think I could ever go back. For example, I use `⌘+shift+C` for my “Clipboard” Action Set, which gives me a number of actions to use and manipulate text with the system clipboard. This gives me more power than the traditional `⌘+C` for copy. They key is hidden from the Enhanced Keyboard, which de-clutters the row.
 
 I currently have 4 Action Lists in my current Drafts setup. I don’t have Action Keys set for most of them yet, but I’m working towards having them for all of my most-used Actions and Action Sets.
 
-![Action Lists](images/Drafts-Action-Lists.png)
+![Action Lists](/images/Drafts-Action-Lists.png)
 
 If you need another reason to set up Action Lists & Sets: look at [this picture](https://www.nahumck.me/wp-content/uploads/2016/01/Drafts-Mega-Action-List.png) for the individual actions I have in Drafts in one long list. (Warning: it’s a long list.) It’s a lot to scroll through, and I much prefer the lists I have set up.
 

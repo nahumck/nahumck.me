@@ -18,7 +18,7 @@ That was until the [Drafts 5.3 update](http://getdrafts.com/changelog.html) adde
 
 I'm not going to get too technical here, but it uses a particular portion of the API called "Quick Add": the best thing about this portion of the API is that you can type just as you would in the quick add window of Todoist. But the best part of this is that I don't have to leave Drafts to enter the tasks, there's no back-and-forth dance via a URL scheme. Just sending the tasks on their way.
 
-[![](images/Todoist-Quick-Add.png)](https://www.nahumck.me/wp-content/uploads/2018/08/Todoist-Quick-Add.png)
+[![](/images/Todoist-Quick-Add.png)](https://www.nahumck.me/wp-content/uploads/2018/08/Todoist-Quick-Add.png)
 
 Say I'm in a meeting: I can not only take notes and [send the tasks](https://actions.getdrafts.com/a/1OQ) to Todoist, but if I have another random thought I can add via a [prompt-only](https://actions.getdrafts.com/a/1MM) information. And all of this gets added via the Quick Add, so I can type in all the information that I need right away. For example, I can simply type "Call Barney Stinson Tuesday at 7pm #Personal @evening" and it will all get added, with the date being parsed and the proper #project and @label being assigned. I can also create single drafts that contain a task with some notes in the body of the draft, and send it to [Todoist with options](http://actions.getdrafts.com/a/1MW), which imports the project and labels automatically for selection via a tumbler.
 

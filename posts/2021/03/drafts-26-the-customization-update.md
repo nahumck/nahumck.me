@@ -10,7 +10,7 @@ permalink: "drafts-26-the-customization-update/index.html"
 layout: "post"
 ---
 
-![](images/Drafts-26-Hero.png)
+![](/images/Drafts-26-Hero.png)
 
 Back when I wrote about my wishlist for [Drafts 5.0](https://www.nahumck.me/drafts-5-0-a-wish-list/), I wanted to have a custom syntax for the editor in [Drafts](https://apps.apple.com/us/app/drafts/id1236254471?at=1001l4VZ). At the time, this was based on my usage of other text editing apps, and I wanted a theme with a bit more color for MultiMarkdown. Now we are almost 3 years into the latest major version of Drafts, [multiple](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/) [large](https://www.nahumck.me/drafts-5-5-the-markdown-update/) [feature](https://www.macstories.net/reviews/drafts-15-review-multiwindow-shortcuts-and-more/) [updates](https://www.macstories.net/reviews/drafts-for-mac-its-action-time/) [later](https://www.macstories.net/reviews/drafts-22-review-widgets-scribble-and-more/), and we are finally here at tapping into the realization of its visual customization potential with [version 26](https://forums.getdrafts.com/new).
 
@@ -18,7 +18,7 @@ I'll cut right to it – the customization of the appearance through themes and 
 
 At a high level, both theme and syntax files are JSON files. I'm sure this might scare some of you already. But thanks to the [documentation](https://docs.getdrafts.com/extending/) for creating themes and syntaxes, it makes life a bit easier. While you could use Drafts for creating/modifying these files, I'd recommend that you use different tools to do this. In the process of creating some themes and syntaxes that I'll cover, I've used [Jayson](https://apps.apple.com/us/app/jayson/id1447750768?uo=4&at=1001l4VZ) to create/modify the JSON files and [Pastel](https://apps.apple.com/us/app/pastel/id413897608?uo=4&at=1001l4VZ) to create a color palette based on my [website theme](https://www.nahumck.me/the-new-site-design/). Both apps are free to use for the basics, and I cannot recommend them highly enough for this purpose.
 
-![Creating themes and syntaxes is great when using both Jayson and Pastel on the iPad with a keyboard and trackpad.](images/Jayson-and-Pastel.png)
+![Creating themes and syntaxes is great when using both Jayson and Pastel on the iPad with a keyboard and trackpad.](/images/Jayson-and-Pastel.png)
 
 ## Custom Themes
 
@@ -28,7 +28,7 @@ To create your own theme, start by exporting an installed theme.[1](#fn-2017-fou
 
 There are many theme options available with the currently installed syntaxes. I suspect most of you will modify only a theme to start before stepping up to a custom syntax. The wonderful thing about themes is that it can change the way everything looks within the app. I personally wanted to have a custom theme base on my site, which wasn't difficult to create: I have both a [dark](https://actions.getdrafts.com/t/1hn) and [light](https://actions.getdrafts.com/t/1is) theme for my site. But I also like coding actions in Drafts, and wanted to have a specific theme: one theme I like for coding is the [Darker Dracula](https://actions.getdrafts.com/t/1ip) theme created by [Jake Bernstein](https://twitter.com/jakebernsteinwa?s=21). Themes are also scriptable, so that if you want to change the way the entire app looks when you write vs when you code, you can can do this within an action to swap workspaces.
 
-![My current theme options](images/Drafts-26-Theme-Options.png)
+![My current theme options](/images/Drafts-26-Theme-Options.png)
 
 As I said, I think themes is where _most_ people will go for Drafts customization in the short term. There's nothing like a fresh look to an app to make you want to use it more, and with the options that Drafts provides to change every color throughout the app, you can make it the custom theme you've always wanted. That said, theming isn't without its faults. One big item that I feel is missing is a built-in interface to create and modify theme colors based on the built-in syntaxes. This would make theming more accessible to users if everything was self-contained in the app. Though I love Jayson and Pastel, having to use other apps for this purpose is a point of friction for many people. I'd even settle for a web-based version which would save your theme to the directory, and allow an install via a link. But built-in is almost always better. My hope is that in the future, we will see this added.
 
@@ -38,7 +38,7 @@ Custom syntaxes are going to open up entirely new possibilities for using the ap
 
 There are a couple of simple examples to cover here, which showcase some of the potential of the app. I'll start with a simple Twitter example. I often use Twitter to compose tweets; most time I delete them, but sometimes I sit on it for a bit and exercise restraint like a normal person. With a simple [Twitter syntax](https://actions.getdrafts.com/s/1hR) to highlight usernames and hashtags, you can now see how your tweets will look before you post them. Or if you even post them at all. This could easily be [modified](https://actions.getdrafts.com/s/1iw) to include cashtags `$` for companies, assuming you know RegEx.[2](#fn-2017-iDo)
 
-![Twitter markup is nice for when you don't want to be on twitter.](images/Twitter-Markup.png)
+![Twitter markup is nice for when you don't want to be on twitter.](/images/Twitter-Markup.png)
 
 Another example of how a syntax could be applied is task marks. There is a great demo of using [Task Marks](https://actions.getdrafts.com/s/1hS), which has multiple options for tasks. This can be custom tailored to suit your needs. This syntax demonstrates different styles, like standard and three state tasks, but also adds new elements like on/off tasks or percent complete. If you're able to manage the custom syntaxes, you could extend an existing syntax to include some of those elements. These additions could open up new possibilities within Drafts for task management.
 
@@ -46,7 +46,7 @@ Another example of how a syntax could be applied is task marks. There is a great
 
 Being a novice to all of this, I started with the existing MultiMarkdown syntax which ships with Drafts. Just like the themes, I exported it to Jayson, and was able to add two new patterns to check for: `**_bolditalic_**` and `_**bolditalic**_`. With a little help from Greg Pierce, developer of Drafts at Agile Tortoise, I got the needed regular expressions to add both to my custom version. I also added the way links are displayed: I wanted to make the links almost disappear from view, especially since I operate in dark mode 99% of the time, and that the text size is smaller relative to normal text size. These combined effects make it so that I'm not really reading the URL when editing, but I can see the full URL if I want to look at it. These small changes really can make a visual difference in the editor, and this example of [Draftsdown](https://actions.getdrafts.com/s/1hm) - my simple MultiMarkdown fork –  shows how the subtle changes can make a big difference.[3](#fn-2017-future)
 
-![Nahumck Dark theme in Markdown, MultiMarkdown, and Draftsdown syntaxes. Note the small, but meaningful differences between them.](images/Drafts-26-Syntax-Highlighting-Differences.png)
+![Nahumck Dark theme in Markdown, MultiMarkdown, and Draftsdown syntaxes. Note the small, but meaningful differences between them.](/images/Drafts-26-Syntax-Highlighting-Differences.png)
 
 There are a lot more examples I could cover, but I think that over time, other examples and use cases will emerge. I'm sure that the [Drafts community](https://forums.getdrafts.com/) will come up with more clever things that I will, so I would make sure to keep an eye out over there or on the Directory for new and exciting uses of custom syntaxes. There will be multiple flavors of Markdown coming from users who like a specific version that suits their needs. Differing [navigation methods](https://actions.getdrafts.com/s/1ho) will be used to navigate a draft for more than just headers. I'm sure that someone out there will pioneer a new way of bullet journaling with a custom theme and syntax, which is certain to be awesome. And maybe, just maybe, [Merlin Mann](https://twitter.com/hotdogsladies?s=21) will finally get what he's wanted: a completely new syntax of Markdown + TaskPaper. That was too much to ask before, but now? That's entirely possible if you take the time to develop it. If only we could get folding headers…[4](#fn-2017-request)
 

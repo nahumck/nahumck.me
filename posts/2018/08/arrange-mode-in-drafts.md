@@ -19,7 +19,7 @@ So I was able to grab all of the notes thus far in the beta, and load them into 
 
 But to my surprise, there was something I discovered when moving the lines around. New in the 5.0 release – that's right, from the beginning – is the ability to **_edit_** the lines/blocks by tapping on them. So not only can I move and change around a draft, but I can also fix a little mistake here there if I find them. I can also add to a section if I think of something to add.
 
-[![](images/08B5AAB8-51D2-43D3-8A92-B152CF426D0A-925x1024.jpeg)](https://www.nahumck.me/wp-content/uploads/2018/08/08B5AAB8-51D2-43D3-8A92-B152CF426D0A.jpeg)
+[![](/images/08B5AAB8-51D2-43D3-8A92-B152CF426D0A-925x1024.jpeg)](https://www.nahumck.me/wp-content/uploads/2018/08/08B5AAB8-51D2-43D3-8A92-B152CF426D0A.jpeg)
 
 This small, but powerful feature is well considered, even if it is hidden. It's a small delight that I found months after using the initial beta, and I'm so glad that I have.[1](#fn-1396-wonder)
 

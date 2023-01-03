@@ -10,7 +10,7 @@ permalink: "convenience/index.html"
 layout: "post"
 ---
 
-![](images/Image-2-26-17-11-38-AM.png)
+![](/images/Image-2-26-17-11-38-AM.png)
 
 I first started into the world of expensive headphones when I bought my first pair of wired [Bose in-ear headphones](http://www.amazon.com/dp/B000XA8766/?tag=nahumck-20).[1](#fn1) They were $100 at the time, and it wasn't much more for the extended warranty. And as it turns out, I'm really glad I purchased it: over the next three years, I ended up exchanging three different pair because the cable had worn out near the connector, causing a short and either choppy or no playback. Upon my fourth exchange, I was done with a wired connection. I finally stepped into the Bluetooth era, and got some [Jaybird X2 earbuds](http://www.amazon.com/dp/B013HSW4SM/?tag=nahumck-20). And for a long time, I was happy. Then I started getting connection issues. I exchanged them under warranty. Then I had the same connection issues on this new pair, even though this time the phone was different. I then exchanged them, this time picking up the [Jaybird X3 earbuds](http://www.amazon.com/dp/B01M7NCT5O/?tag=nahumck-20).
 

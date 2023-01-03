@@ -9,7 +9,7 @@ permalink: "3-things-about-things-3/index.html"
 layout: "post"
 ---
 
-![](images/Image-5-31-17-11-25-AM.png)
+![](/images/Image-5-31-17-11-25-AM.png)
 
 I recently picked up the iOS version of Things 3 for both [iPhone](https://itunes.apple.com/us/app/things-3/id904237743?mt=8&uo=4&at=1001l4VZ) and [iPad](https://itunes.apple.com/us/app/things-3-for-ipad/id904244226?mt=8&uo=4&at=1001l4VZ). And there's a lot to love about the new version: the new look is great; the simplicity of the layout is fantastic; and all of the small, purposeful animations are phenomenal.
 

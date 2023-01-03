@@ -42,7 +42,7 @@ I do this often enough that I should automate it. Thinking of how I would do thi
 3. Send a message to my wife to let her know it has been updated.
 4. Open AnyList.
 
-![](images/Grocery-Action-Steps.jpeg) _You can see the details of the steps [here](https://www.nahumck.me/wp-content/uploads/2016/03/Grocery-Action-Steps-Detail.png)._
+![](/images/Grocery-Action-Steps.jpeg) _You can see the details of the steps [here](https://www.nahumck.me/wp-content/uploads/2016/03/Grocery-Action-Steps-Detail.png)._
 
 Step 1: Thanks to [this action](http://drafts4-actions.agiletortoise.com/a/1ar), I can run a script to get rid of them. And with the Include Action function, I can add that right to my action as the first item.
 
@@ -52,7 +52,7 @@ Step 3: This is also a built in function; I set the number for my wife, then a c
 
 Step 4 utilizes the URL scheme of AnyList, which is `anylist://`.
 
-![](images/Grocery-Action.gif)
+![](/images/Grocery-Action.gif)
 
 Now that I have [the action](https://drafts4-actions.agiletortoise.com/a/1iJ) set up, I can run it on a list I have entered. My list is passed over, I hit send on the message to my wife[2](#fn-2 "see footnote"), and then I am automatically taken to AnyList. The items appear, and I can go on about my business.
 

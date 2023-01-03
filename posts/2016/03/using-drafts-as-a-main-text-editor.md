@@ -11,7 +11,7 @@ permalink: "using-drafts-as-a-main-text-editor/index.html"
 layout: "post"
 ---
 
-![](images/Drafts-Text-Editor-Hero.png)
+![](/images/Drafts-Text-Editor-Hero.png)
 
 _Drafts — Where text starts_ on iOS. This has been the tag line for the app since its inception. Many people use this as their single place of text input and output, exporting ideas to other apps for a myriad of reasons. It supports writing styles like [MultiMarkdown](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide "MultiMarkdown"); it supports scripting via JavaScript and [x-callback-url schemes](http://x-callback-url.com/) for easy use with other applications, making it one of the most versatile apps on the App Store.
 
@@ -33,7 +33,7 @@ The main use of Drafts is writing down ideas, and then sending them to another a
 
 ## How I Write
 
-![](images/Drafts-Text-Editor-Outline.png)
+![](/images/Drafts-Text-Editor-Outline.png)
 
 I usually start a post with an outline; it helps me formulate where I want to take a post, and also helps to keep me focused over the time it takes me to complete it. I have a temporary name for the post as the first line (this is the `[[title]]` tag I’ll cover below), then use an unordered list to capture major points; the reason I use an unordered list is so that I can use the arrange mode in Drafts to reorder points if I feel like I want to move topics around. If I want to expand a thought more, I’ll use an indented list for clarity; if the mood strikes me, I’ll just start writing my thoughts.
 
@@ -41,13 +41,13 @@ For as amazing as Drafts is, the whole idea of keeping track of everything in th
 
 Another feature of Drafts allows you to keep multiple sections of writing separate. One of the big things that I came to find with other apps, most notably [Ulysses](https://geo.itunes.apple.com/us/app/ulysses-mobile/id950335311?at=1001l4VZ&ct=nahumck_me), is the idea of writing individual sections in different files, then combining them at the end for one post. This is surprisingly helpful for clarity. It allows you to focus in on one part at a time, without you getting lost somewhere else.
 
-![](images/Drafts-Text-Editor-Separate-Files.png)
+![](/images/Drafts-Text-Editor-Separate-Files.png)
 
 In Drafts, the same is possible by breaking your outlines into individual Drafts. To do this: highlight the section name, tap & hold the `+` icon, then choose “New from selection”. Another option is to use the [Split Draft at Cursor action](http://drafts4-actions.agiletortoise.com/a/1YI); this splits the draft into two separate drafts. I can do this with each section of the post; I can then add the `@post` tag to everything to easily apply the filter and see all the sections.
 
 When I’m ready to combine the drafts back together to publish, I simply tap “Select” from the drafts list, highlight the selected ones in the order I want my post to flow, then press “Operations”, and choose “Merge” from the menu. Now I have one draft that I can manipulate for final formatting.
 
-![](images/Drafts-Text-Editor-Merged.png)
+![](/images/Drafts-Text-Editor-Merged.png)
 
 ## Action Tags
 
@@ -59,11 +59,11 @@ Because I use Drafts for most everything on my phone, I have become very familia
 
 Another useful tag for searching or replacing selected text is the `[[selection]]` tag. One example of this is how useful it is to create affiliate links via [Blink](https://geo.itunes.apple.com/us/app/blink-better-affiliate-links/id946766863?at=1001l4VZ&ct=nahumck_me). As I am writing, I just write the name of the app/album/book; I can later go back, select the name, and run the [Blink Replace](http://drafts4-actions.agiletortoise.com/a/1hd) action to replace the text with a Markdown link. The smooth automation makes it easier to bring in all of my links. This functionality is something that few writing apps offer.
 
-![](images/Drafts-Text-Editor-Blink-Replace.png)
+![](/images/Drafts-Text-Editor-Blink-Replace.png)
 
 Running a DuckDuckGo or Google search using selected text or the text from a prompt window will bring up the Safari View Controller within the app, so that I can easily look up information on the topic, and select the link I want to reference; on my phone, this is especially helpful because I don’t have Split Screen for anything, and it helps me do some research without leaving Drafts.
 
-![](images/Drafts-Text-Editor-DDG-Search.png)
+![](/images/Drafts-Text-Editor-DDG-Search.png)
 
 There are countless [other actions](http://drafts4-actions.agiletortoise.com) that do little niche things: you can convert your [entire draft to HTML](http://drafts4-actions.agiletortoise.com/a/1IQ), you can [remove duplicate lines](http://drafts4-actions.agiletortoise.com/a/1he), or even [expand short links](http://drafts4-actions.agiletortoise.com/a/1iC) all with a few taps. You can see from these examples that Drafts really feels like an all-in-one solution for getting useful information into your writing.
 
@@ -77,7 +77,7 @@ There are many times that I want to search using selected text. I have multiple 
 
 First, you need to have that action installed. Then, you need to go to your extended keyboard row, and flick all the way until you see the pencil icon at the end; tap this to edit. Next, you can add a key by pressing the “+” button at the top right. Now, select “Run Action” and fill in the action name field with “DDG Search”. If you wish to assign an external key, do so in the given field. It is important to remember that you will need to select one of the operator keys (`Shift`, `Ctrl`, `Opt`, or `⌘`) to differentiate your custom keys. You can also optionally hide the key if you don’t want your keyboard row to be cluttered. Finally, tap save, and then you can move it into a position that makes sense.
 
-![](images/Drafts-Text-Editor-DDG-Search-Key.png)
+![](/images/Drafts-Text-Editor-DDG-Search-Key.png)
 
 Now all you need to do in the future is highlight the selected text, then press the key above your keyboard to search. While this only saves you a swipe when you’re using just your device, this can be sped up if you have an external keyboard by not taking your hands off of it.
 
@@ -87,7 +87,7 @@ A few other keys that I have found useful are all based on the [smart parenthese
 
 I have modified the script and created three of my own. I created a [smart braces](https://drafts4-actions.agiletortoise.com/k/1jb) key that uses `{ }`. I also made a [smart double bracket](https://drafts4-actions.agiletortoise.com/k/1jc) key that creates `[[ ]]` that are useful in creating `[[tags]]`. And finally, I created a [smart code](https://drafts4-actions.agiletortoise.com/k/1jd) key that inserts html code blocks `<code>` for when I want to highlight something related to syntax.
 
-![](images/Drafts-Text-Editor-Smart-Keys.png)
+![](/images/Drafts-Text-Editor-Smart-Keys.png)
 
 Using the custom keys while writing has increased my efficiency in everything I enter into Drafts. I can insert a [Markdown link](http://drafts4-actions.agiletortoise.com/k/1Zv) by typing `⌘ + L` to create my links faster. I can [Change Title case](http://drafts4-actions.agiletortoise.com/k/16o) by using `⌘ + T`. I can [encode](http://drafts4-actions.agiletortoise.com/k/1FN) or [hyphenate](http://drafts4-actions.agiletortoise.com/k/17v) text with a press of a key. As I have gotten more comfortable with writing this way, it is hard to see myself using anything else.
 
@@ -105,7 +105,7 @@ This is an action that I created to allow me to save any sort of document; think
 
 [Dropbox > Save As…](https://drafts4-actions.agiletortoise.com/a/1j2)
 
-![](images/Drafts-Dropbox-Save-As.png)
+![](/images/Drafts-Dropbox-Save-As.png)
 
 ### Create vs Replace Post Version
 
@@ -115,7 +115,7 @@ The first action is Create Post Version. This simply uses the Dropbox step, with
 
 The real difference in Create vs Replace is in how I tell the action step to behave. When I replace, it is simply that: it over-writes the version that is saved. And while Dropbox Pro users could go onto the web and rollback the version they have, standard users cannot. This is where Create comes in to play. Using Create will save the initial version of the post, but on subsequent Create saves, will put a `(n)` version number after it; this allows you the ability to go back to a previous version of what you have written.
 
-![](images/Drafts-Text-Editor-Create-Replace.jpeg)
+![](/images/Drafts-Text-Editor-Create-Replace.jpeg)
 
 Didn’t like the section you just added? Want to pull from a different version? No problem. To create a draft from a file in Dropbox, simply tap on the “+” button, select Dropbox, and locate your file. You won’t be working in the active file, but this is OK. It allows you to edit without having to worry about affecting what is in the cloud. When you’re ready to put the version back, because I’ve kept the first line as the title by using the `[[draft]]` tag, I’m able to re-use it again to save the file.[\[2\]](#fn-2 "see footnote")
 
@@ -135,7 +135,7 @@ I then take my screenshots and upload them, replacing any of the image placehold
 
 Next, I view the post one last time with my preview, then I convert the entire post to HTML using [this action](http://drafts4-actions.agiletortoise.com/a/1IQ); this allows me to change a few things prior to posting in HTML that Markdown doesn’t allow. I then run an action to change all of the `<img>` tags to be centered.
 
-![](images/Drafts-Text-Editor-Markdown-vs-HTML.png)
+![](/images/Drafts-Text-Editor-Markdown-vs-HTML.png)
 
 The last thing I do is strip the HTML from the title, and then I am ready to hit the [Publish](https://workflow.is/workflows/46968f799b1a4dab821d16d5543bb489) action. This uses Workflow to publish to WordPress, the platform I use for my site. This action takes the `[[title]]` and puts that on the clipboard; then it takes the rest of the text (\[\[body\]\]) and sends it over to Workflow. There is a way for me to post via email and rely entirely on Drafts, but I really appreciate the way Workflow handles the publishing where it can allow me to put in categories and tags, and even different publish dates or states.
 
@@ -145,13 +145,13 @@ That’s it. What started as a simple outline has now turned into a full post. I
 
 With all of that said, there are some improvements that I have seen in other apps that I would love to see happen in Drafts. Having these features would be useful for long-form writing and navigating within a draft itself.
 
-![](images/Drafts-Text-Editor-Editorial-Section-Folding.png)
+![](/images/Drafts-Text-Editor-Editorial-Section-Folding.png)
 
 There are two things from [Editorial](https://geo.itunes.apple.com/us/app/editorial/id673907758?at=1001l4VZ&ct=nahumck_me) that I would love to see get added to Drafts {Maybe Drafts 5? Please let this happen…}. The first is the folding of sections when Markdown headers are applied; having that allows me to fold sections as I’ve completed them, or to simply get them out of sight. The second thing I would love to see is the arrangement of lines; Drafts has this functionality via arrange mode, but I find the the implementation used in Editorial better.
 
 I would love to see the ability to search for something within a draft and see it highlighted. That way I can find a specific section or see how many times a word has been used in a post. Expanding on this, the find/replace action could be built in to the search, which is something only a few apps offer, and would be a welcome addition.
 
-![](images/Drafts-Text-Editor-Ulysses-Syntax-Highlight.png)
+![](/images/Drafts-Text-Editor-Ulysses-Syntax-Highlight.png)
 
 The last thing that I would like to see is better syntax highlighting. I really appreciate the syntax highlighting in [Ulysses](https://geo.itunes.apple.com/us/app/ulysses-mobile/id950335311?at=1001l4VZ&ct=nahumck_me). It uses multiple colors to distinguish between links, images, footnotes, etc. It is visually nice to to see these items as you write, and is something that I would love to see added. Drafts does currently support some of this now, but it only uses a de-highlight of text if it is part of a link.
 

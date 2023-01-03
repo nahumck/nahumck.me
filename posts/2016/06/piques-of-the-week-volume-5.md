@@ -23,7 +23,7 @@ There are a few key things about the app that I really like over many of the oth
 
 The second function, and my personal favorite, is the option for copy/paste. If you want to modify something with your current image, you simply tap the share button in the upper right of the screen and select “copy image”. Then, navigate out to your images, and press the “ ” icon; select create image, and there will be an option to use the clipboard.
 
-![](images/Pixelmator-CopyPaste.jpeg)
+![](/images/Pixelmator-CopyPaste.jpeg)
 
 This has been immensely handy when creating the mock-ups. I can simply copy the image that I’m currently working on, paste it as a picture, and modify it in a manner in which I need. I can even use [Longscreen](https://geo.itunes.apple.com/us/app/longscreen/id913571256?at=1001l4VZ&ct=nahumck_me) to take the mockup screenshot and put it on an iPhone.
 

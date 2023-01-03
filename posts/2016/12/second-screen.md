@@ -21,15 +21,15 @@ I didn't expect was how having the second screen would change the way I use my d
 
 If you're reading this, you know that I love workflows. If there is something I can set up to make my life easier, then that's what I want to have. And now that I'm able to kick things off on my wrist, it's making things a little bit easier. Previously, I had a workflow in [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1001l4VZ&ct=ntwitter "Workflow on the App Store") that gave my a [daily](https://www.nahumck.me/the-daily/ "The Daily - nahumck.me") agenda. Over time, I've modified it and changed it based on my ever-changing needs/apps. But, I had to set a reminder to remember to run the workflow the night before, which ultimately lead to me not running it at all. But when I got the watch, that changed things. [Seth](http://sethclifford.me "Seth Clifford") and I got to talking one day, I modified the workflow I had, formatted it in a bunch of different ways, and made it available in the widget _and_ on the watch. Now, not only can I look at a daily agenda, I can do it [today](https://workflow.is/workflows/805360ba9c4a4a5b96dc768a31b66f5d "Today workflow"), from my wrist, with a single tap.
 
-![](images/Image-12-3-16-5-25-PM.png)
+![](/images/Image-12-3-16-5-25-PM.png)
 
 Another thing that has been useful is [Reminders on the Apple Watch](https://www.nahumck.me/basic "Basic - nahumck.me"). Using Siri is by far and away the easiest way to input a reminder, especially on the watch. But there are often times that I can't have my phone out, and I also need to be silent. Using [this workflow](https://workflow.is/workflows/b7231e76075d4899afa4ae31753275f4 "Reminder workflow"), I am able to put in a reminder from my watch, but I'm able to use the scribble input (thought I can still use dictation if I wanted). A few taps later, and I have a reminder saved with a time or a location.
 
-![](images/Image-12-3-16-6-48-PM.png)
+![](/images/Image-12-3-16-6-48-PM.png)
 
 As I'm walking out of work, there are a lot of things that I am now actively doing on the watch rather than my phone. I'll review the shopping list to check if I need to stop in the way home. I'll also send a message to my wife to let her know I'm on my way. I've also created a [workflow](https://workflow.is/workflows/beab3337780e4a01a34d0bba67dccd11 "Message workflow") to send a few different canned messages, along with a Dictate option, so that I can quickly message her when I leave.
 
-![](images/Image-12-4-16-8-42-AM.png)
+![](/images/Image-12-4-16-8-42-AM.png)
 
 I'm actually surprised but the amount that I use my Apple Watch to respond with my voice. It's starting to become my preferred way of interacting with a message. The watch is quick and easy for responding. Additionally, if I'm listening to something on my headphones or watching something on my phone, I can respond on my watch without having to pause the audio/video.
 

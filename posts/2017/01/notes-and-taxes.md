@@ -27,13 +27,13 @@ In general terms, I need to do the following:
 
 This year, I'm going to use Notes.app for getting my taxes done. There are a lot of benefits now that Notes.app has been improved starting with iOS 9, and is flexible enough to handle this. My taxes are relatively simple, and I can follow along with the information I needed from the year prior to see what I need to gather. I entered everything into a new note, capturing everything as plain text; then I formatted a note like this:
 
-![](images/Tax-Checklists-in-Notes.jpeg)
+![](/images/Tax-Checklists-in-Notes.jpeg)
 
 Now that I know what I need, I can start gathering the information into the note. I can include images of my license plate fees, and store them directly into the note. I can download the other documentation and forms as PDFs, so that everything is in one convenient place.[2](#fn2) And, I can also _lock_ the note, so that my personal information won't be easily accessible.
 
 For completing my tax forms, I use [PDF Expert](https://geo.itunes.apple.com/us/app/pdf-expert-edit-annotate-sign/id743974925?mt=8&uo=4&at=1001l4VZ&ct=ntwitter "PDF Expert for iOS on the App Store") to fill out all my forms. I also use the wonderful [PCalc](https://geo.itunes.apple.com/us/app/pcalc-the-best-calculator/id284666222?mt=8&uo=4&at=1001l4VZ&ct=ntwitter "PCalc for iOS on the App Store") for my calculator, especially in the widget: utilizing the copy/paste functionality there helps me as I go line-by-line when I'm filling out the forms. I always fill the forms out at least twice: the first time to fill it out, the second time to double check that I'm right. If there is a discrepancy, I'll fill it out another time to reconcile the other two. Repeat as needed. Again, my taxes are relatively simple, so doing this work just takes a bit of my time. But if I have everything I need right there in a note, it's a breeze to go through.
 
-![](images/Form-Storage-in-Notes.jpeg)
+![](/images/Form-Storage-in-Notes.jpeg)
 
 When I know that I'm done and it's ready to send out, my wife and I will digitally sign the forms in PDF Expert, and I'll save a flattened PDF into the note. I'll print it out, and send it in. Yes, I'm one of those people also. I could e-File my taxes, but I have envelopes, so I might as well just print it out and mail it in. If you do mail it in, send it in [USPS certified mail](https://www.usps.com/ship/insurance-extra-services.htm "Insurance & Extra Services - USPS.com"). It will cost you a minimum of $7.54 total for both Federal and State taxes,[3](#fn3) but it means that if it gets lost in the mail, you won't be assessed late fees on your taxes.[4](#fn4)
 

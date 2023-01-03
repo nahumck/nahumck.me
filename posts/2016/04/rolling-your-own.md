@@ -21,7 +21,7 @@ This friction, albeit not horrible, really didn’t sit well with me for whateve
 
 ## Setup
 
-![](images/Rolling-Your-Own_Apps.png)
+![](/images/Rolling-Your-Own_Apps.png)
 
 First, the solution has a few parts. You need [Drafts](https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1001l4VZ&ct=nahumck_me), [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?at=1001l4VZ&ct=nahumck_me), and [Dropbox](http://dropbox.com) for storage.[\[2\]](#fn-2 "see footnote") There are multiple actions & keys that I use, along with an Action Set. You can find all of them [below](https://www.nahumck.me/rolling-your-own/#setup-links).
 
@@ -62,11 +62,11 @@ This returns the data I need, and from there I take out the specific variables I
 
 The step action is defaulted for iPhone. If you have an Apple Watch, select that by pressing on iPhone and switch it.[\[6\]](#fn-6 "see footnote")
 
-![](images/Rolling-Your-Own_Metadata.jpeg)
+![](/images/Rolling-Your-Own_Metadata.jpeg)
 
 For Fitbit users: this isn’t as easy as if you have an Apple Watch. There are more steps involved, and you’ll need to buy [Sync Solver](https://geo.itunes.apple.com/us/app/sync-solver-for-fitbit/id935306292?at=1001l4VZ&ct=nahumck_me) to make the steps work. But it _does_ work. Sync Solver is an app that syncs with the Fitbit Dashboard, then pulls that data into the health app. I don’t have a watch, but I made a different workflow that first pulls up the Fitbit app, then pulls up Sync Solver, then you can return to the app to finish the rest.[\[7\]](#fn-7 "see footnote") You may enable permissions for Workflow to open Fitbit and Sync Solver before working properly, so don’t be surprised if it doesn’t work the first time.
 
-![](images/Rolling-Your-Own_Metadata-Fitbit.jpeg)
+![](/images/Rolling-Your-Own_Metadata-Fitbit.jpeg)
 
 ### Add Photos
 
@@ -74,11 +74,11 @@ I’m sure you’re thinking “But wait — _Drafts doesn’t support photos._�
 
 I was given a workflow that used Workflow.app to copy the Markdown link to a selected photo onto the clipboard. I took that, modified it, and came up with a workflow to select one or more photos right from Drafts, save the photos, and return all of the image links in a new draft. This is especially handy when you want to add all of the photos to a single entry at once. There have been a few times where I wanted to remember a meal, and I’ve attached several photos of the meal using this action.
 
-![](images/Rolling-Your-Own_Photo-Workflow.png)
+![](/images/Rolling-Your-Own_Photo-Workflow.png)
 
 ### Journal Preview
 
-![](images/Rolling-Your-Own_Journal-Preview.png)
+![](/images/Rolling-Your-Own_Journal-Preview.png)
 
 I wanted to be able to view the journal posts like you would in some of the other apps. I created a custom Drafts HTML preview for this so that I can make sure that my image is correct and that things are formatted the way I want them to be before I save off my entry.
 

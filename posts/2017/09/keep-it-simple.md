@@ -16,7 +16,7 @@ What I’ve noticed in two weeks is that there are some small, subtle changes in
 
 ## iOS 11 on the iPad
 
-![](images/Image-9-16-17-8-45-AM.png)
+![](/images/Image-9-16-17-8-45-AM.png)
 
 Fairly recently, I [got an iPad Pro](https://www.nahumck.me/perfectly-mobile/). It changed a lot about how I use my devices, my workflows, and elevated my productivity. I was able to get a lot of things done before; now, with iOS 11, I’ve never been more productive. Having iOS 11 on my iPad is like having an Aston Martin DB11 and adding all of the James Bond gadgets you can handle; it becomes a much more capable machine without changing its form.
 
@@ -28,7 +28,7 @@ Management of my tasks is now primarily done on the iPad; there are so many time
 
 ## Siri Apple Watch Face
 
-![](images/Image-9-16-17-8-48-AM.png)
+![](/images/Image-9-16-17-8-48-AM.png)
 
 I’ll admit, when I first saw the watchOS 4 portion of the [Apple Keynote](https://itunes.apple.com/us/podcast/apple-keynotes/id275834665?mt=2), I wasn’t really blown away by everything. As I started working out, there are were some small improvements to how the workout app behaves on the watch. And when I loaded the beta on my Watch, I discovered that I was enamored with the Siri watch face.
 
@@ -44,7 +44,7 @@ I’ve been down a road like this [before](https://www.nahumck.me/basic/). And t
 
 What I realized was that although having a dedicated task management app like [2Do](https://itunes.apple.com/us/app/2do-reminders-personal-planner/id303656546?mt=8&uo=4&at=1001l4VZ), [OmniFocus](https://itunes.apple.com/us/app/omnifocus-2/id904071710?mt=8&uo=4&at=1001l4VZ), or [Things](https://itunes.apple.com/us/app/things-3/id904237743?mt=8&uo=4&at=1001l4VZ) to house everything can be helpful, I really don’t need to have a complex system. What I needed was a place to house a large list, and then a way to move some of those things that are ready into my focus and apply some triggers (reminders) to execute my next actions. I don’t need a complex set of nested folders and lists; after all, I used to use a piece of paper and a pen for all of this stuff. After I sat down to figure this all out, I ended up just needing a more simple list structure: my master lists in [Drafts](https://itunes.apple.com/us/app/drafts-quickly-capture-notes-share-anywhere/id905337691?mt=8&uo=4&at=1001l4VZ) which provide my areas of focus, my Inbox in Reminders for focus on next actions, and my recurring list in Reminders for when I need nudges for medicine, trash, and the like. And this setup works extremely well for me on the iPad Pro in split screen.
 
-![](images/Image-9-19-17-9-37-PM.png)
+![](/images/Image-9-19-17-9-37-PM.png)
 
 There are some challenges to using it in this way: how can I see everything that relates to my Home list now that it’s split between Reminders and Drafts? Tagging. While I wish that Reminders would get the ability for tags as has been done in Files, I’ll have to run with my own solution for now. It’s something that I’ve seen before,[3](#fn3) and it should help me with a lot of what I’m doing. For each list, I’ll tag it with a `x[tag]` format: for home, it will be `xhome`; for podcast stuff, it will be `xpodcast`. I’ll apply this to the items in my master lists and also the reminders that I pull into my inbox. I can then use Spotlight search to view everything related to that; within the apps, I can search for them. In Drafts, I have a filter created to search for `xtasks`, which I have put in each focus list I have. It’s a bit more work to type those tags in, but it’s going to be extremely useful going forward when I need to find something quickly.
 
@@ -52,7 +52,7 @@ Previously, I tried using Drafts + Reminders.app. I would send tasks over via ac
 
 Now, I know what you’re thinking: _why not use Notes for your lists? That has a lot to offer: search, formatting, rich links, images, etc. That seems like a better solution._ And you’re right. Well, for now you’re right. Part of why I want to keep Drafts as my repository for the lists is because I want to future-proof my plan. And I’m hopeful that syntax highlighting comes to Drafts sooner rather than later. On the image below, I have the same list in Drafts and [Ulysses](https://itunes.apple.com/us/app/ulysses/id1225571038?mt=8&uo=4&at=1001l4VZ "Ulysses for iOS"), just to show the difference it can make. The visual difference between the two is important. Now I can navigate through my lists with ease. So in the short term, I’ll live with the syntax the way it looks in hopes that the next version of Drafts supports this so that it makes my life easier. If for whatever reason it doesn’t, the good news is that Drafts is extensible enough and I can share this into Notes without a problem.
 
-![](images/Image-9-19-17-6-04-PM.png)
+![](/images/Image-9-19-17-6-04-PM.png)
 
 If in the future I need to expand my lists, I just simply need to create a new area of focus, tag the list appropriately, and add tasks to my Inbox in Reminders. From there, I just have to utilize my watch to help me get things accomplished. The system is good for small amounts, and I’m sure it can handle even my complex projects with ease.[4](#fn4)
 

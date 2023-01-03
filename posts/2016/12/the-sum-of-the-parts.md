@@ -61,11 +61,11 @@ And so I was torn: I like a lot that Reminders has to offer, but I like a little
 
 There was the answer I was looking for, and I had it in my grasp at any point in time. 2Do has Reminders Sync capability. I previously was using Dropbox to get all of the benefits of 2Do, but now that my needs are simplified, it's possible for me to use 2Do with Reminders Sync to bring the system together, without having to worry about [the caveats](http://www.2doapp.com/kb/article/which-sync-method-should-i-use.html "Which Sync Method Should I Use? - 2doapp.com"). I get the benefits of Siri, Drafts, Fantastical, and 2Do, all in one system.
 
-![](images/Image-12-20-16-4-31-PM.jpeg)
+![](/images/Image-12-20-16-4-31-PM.jpeg)
 
 I think a big part of why this make so much sense to me is the GTD mentality of "review". Using 2Do as the window into my tasks, and having the ability to tap an icon to view all of my lists at once, it's basically the Review feature I was missing from my system. I tried to simulate this by keeping a big list in Drafts, but there are times that I need to have everything in one place, and using two different apps wasn't working. I struggled to get my arms around it all, noticing that things would slip through here and there. I can also create [smart lists](https://www.nahumck.me/move-your-thoughts-to-2do/#embracing-smart-lists "Embracing Smart Lists - nahumck.me"), which can really bring it all together.
 
-![](images/Image-12-20-16-4-31-PM-1.jpeg)
+![](/images/Image-12-20-16-4-31-PM-1.jpeg)
 
 I can also sort the tasks in my lists in 2Do, which is something greatly lacking in Reminders. I can look at the Scheduled view in Reminders.app, sorted by due date, but it's not what I need from my other lists. There are times I want to see everything by priority or by a location or by due date. There are other times I want to take my entire list and focus on what's really important. And using 2Do features on top of Reminders allows me that window into my life.
 

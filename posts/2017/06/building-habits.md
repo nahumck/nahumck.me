@@ -15,7 +15,7 @@ In admitting to myself that I have a problem, I talked about this with Seth on o
 
 One of the things that I talked about on the show was time management. I needed to set aside some time to do this. And with as busy as my life can be at times, the morning is open. It just requires that I wake up earlier. And since I'm going to the gym, I can just get ready for work and leave from there. The only thing that I need to do is prepare my workout and work bags the night before, plan my meals/snacks for the next day, and get to bed early. The more I think of this, it's really coming down to time and task management: setting aside the time to do it, and completing all the steps.
 
-![](images/Image-6-28-17-10-28-AM.png)
+![](/images/Image-6-28-17-10-28-AM.png)
 
 Since we recorded that show, I've been to the gym at least 3 times a week; I'm now in the fourth week, and I feel like the habit is there. I'm getting things set up the night before with my bag and clothing, and getting to bed earlier. I'm not seeing significant weight loss yet, and I don't expect to anytime soon.[2](#fn2) But what I am feeling is more energy throughout the day when I work out; the off days aren't as energized, but I feel better than I did before. I'm generally feeling better with everything in life. I'm able to handle stress better. I just _feel_ better.
 

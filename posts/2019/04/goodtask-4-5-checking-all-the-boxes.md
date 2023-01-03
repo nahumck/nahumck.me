@@ -23,11 +23,11 @@ With the new tag options, I'm able to now recreate some of the features that Thi
 
 I absolutely love the headings feature of Things. When I have a specific project, having the breakout of different subsections is better for my brain. And with the tag sorting, I can re-create this now in GoodTask. For example, I can take all of the tasks in my Nerd Life[1](#fn-1579-affectionate), apply the tags, and have the list sorted on them. While it may not be quite as pretty as the Things implementation, the capability in GoodTask allows me to break it down to key areas just the same.
 
-[![](images/Nerd_Life_Things_GT-1024x988.png)](https://www.nahumck.me/wp-content/uploads/2019/04/Nerd_Life_Things_GT.png)
+[![](/images/Nerd_Life_Things_GT-1024x988.png)](https://www.nahumck.me/wp-content/uploads/2019/04/Nerd_Life_Things_GT.png)
 
 Another key feature of Things that I adore is the Today view. Having your tasks along with the calendar is a fantastic singular view of what is ahead of me. Having a separate 'today' and 'evening' section has been critical for me to quickly view and clarify what needs to be done. Now with the tag sorting, I can recreate this view in GoodTask. I created a Smart List which includes my calendar, tasks scheduled for today, and any overdue tasks. This list is sorted by Tag then Due Date, and I also have my calendar events sorted on top, listed under the order section. I created a quick action to apply a `#Today` and `#Evening` tag as a toggle, so that I can quickly tag tasks which show up in the view. Again, this might not be as visually appealing as the Things view, but it provides me what I need while keeping the native Reminders service integration.
 
-[![](images/GT_Today_View-1024x743.png)](https://www.nahumck.me/wp-content/uploads/2019/04/GT_Today_View.png)
+[![](/images/GT_Today_View-1024x743.png)](https://www.nahumck.me/wp-content/uploads/2019/04/GT_Today_View.png)
 
 ### Completing Tasks
 
@@ -35,7 +35,7 @@ For a while now, I've been wanting to see more [improvements to Reminders](https
 
 I'm getting old, so I take vitamins. I use a reminder to trigger this, so I don't forget. I took this one step further and created a shortcut to run on my iPhone which logs the vitamin intake – including all the breakdown of the various types of vitamins – into the Health app, as well as mark it in Streaks as complete to help me keep track of when I've taken it. I always thought it would be nice to complete the reminder as well, but I the lack of the feature has prevented it. But now, I can copy the exact title of the task (and it must be exact) for my vitamins, add a text block and some clipboard actions to save and retrieve,[2](#fn-1579-implementation) then add the GoodTask Complete Task action block; I also turned off the "Show When Run" option so that it runs seamlessly in the background.
 
-[![](images/Vitamins_GT_Complete-228x450.png)](https://www.nahumck.me/wp-content/uploads/2019/04/Vitamins_GT_Complete.png)
+[![](/images/Vitamins_GT_Complete-228x450.png)](https://www.nahumck.me/wp-content/uploads/2019/04/Vitamins_GT_Complete.png)
 
 I use the native Reminders notifications due to the fact that they remain on the lock screen, but actions like the one outlined above have me rethinking that approach. GoodTask allows users to run a URL from the notification, which means I could run the shortcut straight from the notification and complete it all in one go. I'll likely look to play around with this as time goes on.[3](#fn-1579-breath)
 

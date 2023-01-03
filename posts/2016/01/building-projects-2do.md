@@ -21,43 +21,43 @@ And while each of these types have varying levels of importance and complexity, 
 
 Typically, at the start of the program, I will make a specific list for it. For this example, I’ve created a list called “Post Examples” in 2Do.
 
-![](images/Project-List-Setup.png)
+![](/images/Project-List-Setup.png)
 
 With the list set up, now I can start placing items into the list as normal. But say I’m in a meeting. I need to have something that can take my meeting minutes, and create actions inside of the list and/or a project. For that, I turn to the power of Drafts & Workflow.
 
 For most meetings, I’ll start off by creating a new Draft using the help of a [meeting notes workflow](https://workflow.is/workflows/a84401c608b7430d91c8bad7843ede46). This workflow allows me to select the current meeting, and automatically set up a Draft with a number of parameters.
 
-![](images/Tax-Meeting-Setup.png)
+![](/images/Tax-Meeting-Setup.png)
 
 After I have input the action items, I can select them and create a new Draft based on the selection by tapping the “+” in the upper left. Once these action items are in a new Draft, I can manipulate the text and format it into `Task` `|` `Notes`, using the `|` for a notes delimiter if I need to expand my thoughts on a given task.[\[2\]](#fn-2 "see footnote")
 
-![](images/Tax-Actions.jpeg)
+![](/images/Tax-Actions.jpeg)
 
 As you can see from this \[obviously fake\] meeting, I have a lot of actions given to me from this one meeting; if I had a single action to move into a task, I would use one of a number of ways to move it to as specific list or the Inbox within 2Do. But because all of the actions help complete this task, I want to set this up as a project; moving each of them individually would be a pain using the share sheet. I don’t use Reminders integration for 2Do, so I cannot use a Drafts action to move them over to a list via Reminders.
 
 But I can easily solve this with automation using Drafts & and Workflow. First I set up [this action](https://workflow.is/workflows/6ace57580df04c0c832e0868ff53856c) in Workflow to take the first line from the clipboard, separate the `Project Name` and `Project Notes` at the `|` delimiter, and save that as the Project. Then, it takes every line after that, separates the `Task Name` and `Notes` at the `|` delimiter, and saves it as a Task in 2Do.
 
-![](images/Project-Workflow.png)
+![](/images/Project-Workflow.png)
 
 Next, you need to download [this action](https://drafts4-actions.agiletortoise.com/a/1eN) for Drafts. This copies the first line (`[[title]]`) to the system clipboard then passes the remaining list (`[[body]]`) to Workflow as text.
 
-![](images/Drafts-Project-Action-Setup.png)
+![](/images/Drafts-Project-Action-Setup.png)
 
 At first, I ran into a scenario where the `Task Name` would be repeated as `Notes` if there were no notes on the line. I did end up fixing it by placing an `if` statement that checks if `Notes` equals the `Task Name`. Now if there are no notes, the tasks are entered with an intentionally blank note, which 2Do ignores.
 
-![](images/TPS-Report-Example.jpeg)
+![](/images/TPS-Report-Example.jpeg)
 
 There are a lot of things you can use like `Start`/`Due` dates, `Priority`, `Tags`, etc. when you run the workflow. While this doesn’t suit my needs for what I’m looking for, it can be changed for your needs as you see fit.
 
 Now that the project and all of the tasks have been entered into the specified list, we can go into 2Do and use the Batch Edit function that makes it so powerful. Simply activate Batch Edit in the upper right, select the tasks you want to move, and then move them inside the project.
 
-![](images/Batch-Editing.jpeg)
+![](/images/Batch-Editing.jpeg)
 
 The batch editing feature of 2Do is top notch; it was one of the biggest items that pushed me towards 2Do over other TMS apps. It makes moving the tasks into a project or checklist very easy. But one improvement that I would like to see is the ability to move the tasks _into_ the project using Workflow. There is some documentation on the 2Do website, but it is not clear on how to implement it and I have not found a way to use it. I have asked the developer of 2Do and Workflow to take a look at how to integrate this easier.
 
 Another thing that I would like to see from 2Do here: the ability to have checklists inside of projects. (I used [MindNode](https://geo.itunes.apple.com/us/app/mindnode-delightful-mind-mapping/id312220102?mt=8&at=1001l4VZ&ct=nahumck_me) to show this visually.) Below, you can see the current state of how Lists, Projects, Checklists, and Tasks exist in the app. But I would really like it to become more nested, as shown below.
 
-![](images/Project-Layers.png)
+![](/images/Project-Layers.png)
 
 For big projects, having checklists nested inside of a specific task would be a welcome addion to the already powerful task manager.
 

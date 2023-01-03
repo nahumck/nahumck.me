@@ -36,7 +36,7 @@ I've wanted to get away from using Google Calendar for a while. So the timing se
 
 I've used RSS readers in the past. The problem with them is that I wanted two different things: a curated list of specific websites I want to follow, and the news. I don't subscribe to a plethora of websites in my RSS, so using a dedicated app didn't seem right.[1](#fn1) Up to this point, I had never tried using the Safari Reading List feature. Within the bookmarks area of Safari, there are two other options: Safari Reading List and Subscriptions.
 
-![](images/Image-7-21-17-6-29-PM.png)
+![](/images/Image-7-21-17-6-29-PM.png)
 
 I took all of my RSS feeds from Slack and have started to use the Subscriptions feature. Now I have my curated list in a single place, and I can add and remove them as I need.
 

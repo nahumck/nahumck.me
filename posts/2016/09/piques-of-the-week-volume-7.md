@@ -13,7 +13,7 @@ Here'a some kitchen things that have piqued my interest:
 
 ## Kitchen Aid Spiralizer
 
-![](images/Image-9-9-16-10-06-AM.jpeg)
+![](/images/Image-9-9-16-10-06-AM.jpeg)
 
 I received the [KitchenAid Spiralizer](http://www.amazon.com/dp/B00XPRRHYW/?tag=nahumck-20 "Amazon.com - KitchenAid Spiralizer") as a gift from my wife. I do enjoy cooking because it's therapeutic most of the time. I'm also a sucker for good pasta,[1](#fn1) so getting me something that helps me make pasta _alternatives_ is amazing.
 
@@ -25,13 +25,13 @@ This is easily my favorite thing I've had in the kitchen in a long time, and mak
 
 ## Mezzaluna Knife
 
-![](images/Image-9-9-16-10-06-AM-1.jpeg)
+![](/images/Image-9-9-16-10-06-AM-1.jpeg)
 
 I gifted this [Mezzaluna Knife](http://www.amazon.com/dp/B01EOWP18U/?tag=nahumck-20 "Amazon.com - Mezzaluna Chopper") to my wife.[3](#fn3) Cutting up fresh herbs can be a \[literal\] pain, but this makes that process easier. We tend to do a lot with fresh herbs, and although I could use a knife and cutting board, anything to make my work easier — and safer — in the kitchen is better for me.
 
 ## Tritanware - Camping Silverware
 
-![](images/Image-9-9-16-10-05-AM.jpeg)
+![](/images/Image-9-9-16-10-05-AM.jpeg)
 
 I usually pack food for work. Which means I go through a lot of plasticware during the week. After a few times of eating what I normally eat for breakfast (see below) and breaking my fork/spoon in it, I needed to look for something better.
 

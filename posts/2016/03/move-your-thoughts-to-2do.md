@@ -11,7 +11,7 @@ permalink: "move-your-thoughts-to-2do/index.html"
 layout: "post"
 ---
 
-![](images/Move-to-2Do-Hero.jpeg)
+![](/images/Move-to-2Do-Hero.jpeg)
 
 Task management is a very personal choice. Every person has their own idea of how they'd like to organize their life, which is why there seem to be as many task managers as there are people. I’ve tried a bunch of them— Reminders, Clear, Due, Wunderlist, Trello, Things —and through that journey I’ve found 2Do works best for me.
 
@@ -115,7 +115,7 @@ You won't be bringing in flags or dates or contexts/tags or priorities — nothi
 - It allows you to refocus and rethink your task management. By stripping away the cruft of your legacy methodology, you can start to change your system.
 - Re-thinking your approach allows you to really focus on what is important. Perhaps you don't need _every_ little step in a checklist or project. Getting rid of the clutter allows you to retrain your focus.
 
-![](images/Batch-Editing-Screen.jpeg)
+![](/images/Batch-Editing-Screen.jpeg)
 
 One feature that 2Do provides is batch editing. This will allow you to quickly apply various things and power through a bunch of tasks. This is something that other apps simply don't have, which not only helps move you over from another system, but also helps you in the normal day-to-day use of the app.
 
@@ -152,13 +152,13 @@ There's a hierarchy of how to organize things in 2Do. This isn't a rigid system,
 
 Groups aren't required, but if you have a layered setup, they are useful. Inside of the groups, you can have multiple Lists. Within each List, there are multiple Projects or Checklists or Tasks with the grouping.
 
-![](images/File-Cabinet.jpeg)
+![](/images/File-Cabinet.jpeg)
 
 Think of the TMS as a traditional file cabinet: each drawer (Group) contains hanging files (Lists); within those hanging files, you can have folders (Projects/Checklists) or pieces of paper (Tasks); and inside the folders, you can also have paper.
 
 If that doesn't make sense to you, here's a visual mind map to illustrate:
 
-![](images/2Do-Hierarchy.jpeg)
+![](/images/2Do-Hierarchy.jpeg)
 
 Now that you have things organized how you need them, it's time to start using the features.
 
@@ -172,7 +172,7 @@ Using groups for me is a power feature. It allows you to be more granular about 
 
 When you begin thinking about organizing your tasks, I recommend you start thinking of groups like buckets. I have 3 main buckets: Personal, Home, and Work.[6](#fn6) Within each of those groups, I have multiple lists. Here's an example of my Home Group:
 
-![](images/Home-Group.jpeg)
+![](/images/Home-Group.jpeg)
 
 ## Tags
 
@@ -182,7 +182,7 @@ You can set up a bunch of tags up front if you have a list from your previous ap
 
 Another nice thing here is how you can group your tags. These groups are different than how you have your tasks organized, but can be helpful in identifying where things belong.
 
-![](images/Tag-Groups.jpeg)
+![](/images/Tag-Groups.jpeg)
 
 Setting up tags does take time, but as we'll touch on later, will help with the creation of Smart Lists to help you focus on the task(s) at hand. There are also a ton of other useful tips in the user manual.
 
@@ -198,7 +198,7 @@ There are 3 types of time-based metadata that you can apply to a given task/proj
 - Start dates are useful for tasks that you want to have appear in your list, but at specific times. By default, tasks with start dates are hidden from view, but can be shown by tapping the clock icon that displays Scheduled Tasks. This helps to get the clutter out of your view, and get you focused on what needs to be done.
 - Setting a duration is a very helpful option for when you need to be notified of something in advance. If you know a task is going to take you a few days to complete, but need to be notified to start that task, using duration in conjunction with a due date is a good choice.
 
-![](images/Dates.jpeg)
+![](/images/Dates.jpeg)
 
 There is a great video on the 2Do YouTube channel that shows you [how to use due dates, start dates, and durations](http://youtu.be/kNcEszfXho4), and gives you good use cases for when you would apply a start date or a duration, and I highly recommend watching it (along with the other videos).
 
@@ -220,11 +220,11 @@ Say you needed a reminder to refill your prescription every 30 days. This involv
 2. After 24-72 hours (depending on the office), you need to drive to pick up the prescription.
 3. Then, before you run out of your current prescription, you need to get the new one filled.
 
-![](images/Prescription-2Do-Example.jpeg)
+![](/images/Prescription-2Do-Example.jpeg)
 
 Now with a Checklist, you can set the start date seven days ahead of the due date. Then, you can set up your Tasks within the Checklist, and apply an alert to each one at a date/time relative to the start date:
 
-![](images/Prescription-2Do-Alert.jpeg)
+![](/images/Prescription-2Do-Alert.jpeg)
 
 _Update: Many people have asked where they can get the workflows for tasks, projects, and checklists. I have created a post [here](https://www.nahumck.me/2do-workflows/) with all of the updated links to those workflows and actions._
 
@@ -238,17 +238,17 @@ I had always assumed that sorting manually was missing from the app. But, as was
 
 Say you have a checklist of groceries, entered as you think of them:
 
-![](images/Grocery-List-2Do.png)
+![](/images/Grocery-List-2Do.png)
 
 When I go shopping, I like to have my list in the order I move through the store. I generally know the layout of the corner grocery store and the larger store that is a few miles away. I don't have a due date or priority to sort on here, but I want to sort them in the order I need for the store.
 
 First, locate the Sort Bar. Tap on the sort bar to reveal the other options. You will be presented with the first screen, but notice the three dots:[7](#fn7)
 
-![](images/Sorting-Options-2Do.jpeg)
+![](/images/Sorting-Options-2Do.jpeg)
 
 So now, as I swipe left and right, I have multiple options to sort a list, a project, or a checklist. If I select manual, I can move around the items that make sense to me; simply tap on the batch editing icon to enable the mode.
 
-![](images/Manual-Sort-2Do.png)
+![](/images/Manual-Sort-2Do.png)
 
 Sort works on the list or Smart List view you are in. You can have one list or project be sorted by due date, one sorted manually, one sorted by creation, etc. It is fully flexible to suit your viewing needs.
 
@@ -266,13 +266,13 @@ This clicked for me as soon as I started thinking for what I wanted to _search_ 
 
 Many times, I just need to search all of my tasks for things. I may do it once, twice, or a few times - but being able to create a saved search is great. When I complete my search, all I have to do is tap and hold the icon to save And that is why Smart Lists are great: they allow you to customize your search parameters to find the tasks you need to do. They can help you organize your lists across one or multiple projects.
 
-![](images/Save-Smart-List.jpeg)
+![](/images/Save-Smart-List.jpeg)
 
 I would recommend that when you create a Smart List, you start off from the All list; searches only refer to the list you searched in, and this will capture everything for you. You can then search in specific groups or lists to narrow it down.
 
 ## Examples of Work Smart Lists
 
-![](images/Work-List-Group.jpeg)
+![](/images/Work-List-Group.jpeg)
 
 I have a Work group of a few lists. Keeping one list for me with Projects/Checklists was not helping my organization, and I needed that extra level of management. As I enter tasks into my Inbox, I can then sort them based on which list they go into. But if I want to get a look at my whole list, I need to create a search and save it as a Smart List. Here's the syntax I use for searching only items from my Work list:
 
@@ -286,13 +286,13 @@ These work great for showing me everything, but at times I want to see just my w
 
 This shows me everything I need to get done this week. One thing to note here is that this only shows you things due this week, and interprets the weekend as the end of the week. So if you look on a Wednesday and you know there's something due Monday, you won't see it.
 
-![](images/Date-Range-Selection.jpeg)
+![](/images/Date-Range-Selection.jpeg)
 
 So how do you get that early look ahead? This can be set up using a Date Range or Dynamic Date Range. To do this, you can apply the first syntax example, and apply a dynamic date range. In my experience, I have found it better to search for the parameters I want to see (proj, task, chck, etc.) and _then_ apply the dynamic date range; it assures you that you're entering in the syntax correctly before applying the date.
 
 Here, you can see the difference in the searches:
 
-![](images/Work-Smart-Search.jpeg)
+![](/images/Work-Smart-Search.jpeg)
 
 ## Example of Location Search
 
@@ -309,7 +309,7 @@ These tasks can reside in any given list. But first I need to create a location 
 
 Next, you simply go to the All list, and search:
 
-![](images/Location-Smart-List.jpeg)
+![](/images/Location-Smart-List.jpeg)
 
 There you have all of your tasks for that location. You could also accomplish the same concept by utilizing a tag called `family home` and search `tags: family home`. Use what makes sense to you.
 
@@ -321,7 +321,7 @@ If there is a task that I really need to get done and I need to visually see tha
 
 I can even rename the list as ‼️ to make sure that I see it on the side.
 
-![](images/Important-Tag-Smart-List.jpeg)
+![](/images/Important-Tag-Smart-List.jpeg)
 
 ## Other Possibilities
 

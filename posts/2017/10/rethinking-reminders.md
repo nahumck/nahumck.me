@@ -31,15 +31,15 @@ What I can envision for Reminders is a blending of the some commonly used featur
 
 There are many changes I would like to visually see, as well as adding some new features. Doing so would not only help this app excel, but also by extension help the user better understand his/her tasks and aid in a true task management system. First things first: take the linen paper background and burn recycle all of it.[2](#fn2) In the UI refresh of iOS 11 and the move to the Editorial-style layouts, I am surprised to see Reminders be left behind. It’s dated, serves no purpose, and really limits the possibilities of the interface going forward. If we look at something more modern, say Files or Mail, there are many positive things that Reminders could borrow from its native counterparts: the dedicated side bar and its behavior, sort states that could be modified to fit the task management paradigm, and there is enough space to have clarity and utilize the space to push an updated UI that works for lists and tasks.
 
-![](images/Image-10-3-17-10-33-PM.jpeg)
+![](/images/Image-10-3-17-10-33-PM.jpeg)
 
 Now that we have a better canvas to work with, the view into your task management can be changed. For the most part, keeping lists separate can still work; in fact, for non-power users, this is likely a preferred method of seeing tasks; in a compact view or slide over, it would present in the same way. For power users like myself, I often want to see all of my tasks at once. Sure, you can keep a separate list of your tasks in another app like [Drafts](https://itunes.apple.com/us/app/drafts-quick-capture/id905337691?mt=8&uo=4&at=1001l4VZ "Drafts 4 for iOS ") or Notes and move them over when you need them; but using a system like this (as I’m [currently doing](https://www.nahumck.me/keep-it-simple/ "Keep It Simple - nahumck.me")) is a bandaid. It would be nice to keep all of this information in one place.
 
-![](images/Image-10-4-17-12-53-PM.jpeg)
+![](/images/Image-10-4-17-12-53-PM.jpeg)
 
 I think Apple can accomplish this by utilizing system lists, like that of the Scheduled list. It could be in its own section of the app, similar to how Favorites is contained in Files. By adding an All Tasks list, the user can see all of their tasks presented to them. There would be headings for each list, denoted by their color, which separate the tasks; additionally, these can be foldable headings to minimize what is in view. This would also enable drag/drop within the full task view between lists without having to leave the current view. In the future, allowing for the addition of user-generated Smart Lists would be a huge benefit to those with many tasks. There could also be a completed and recently deleted task item for the times you make a mistake so you can recover your work, or if you really want to see what you have completed along the way.
 
-![](images/Image-10-4-17-12-25-PM.png)
+![](/images/Image-10-4-17-12-25-PM.png)
 
 By providing a more modern design, Reminders can have the simplicity it has today while expanding its capability. The utilization of space and information density can be increased with the new UI, while still maintaining the most basic task management. Some of the existing interface for lists can be carried over, namely the color and sharing interface. The task editing can remain the same, but can be presented in an iOS 11 style. It no longer would make Reminders the bastard child on iOS, but would make it part of the new iOS family.
 
@@ -57,17 +57,17 @@ When in a view with a sidebar, a user could drag a task over to a tag and apply 
 
 Speaking of drag and drop, I would love to be able to drag anything over to be reminded of it. Think of the “Hey Siri, remind me of this” feature, but without using the voice. I can do this already with a link from Safari or an email. But what about a specific Note? Dragging over a specific note currently copies the entire text contents of the note, rather than a link back to the note itself; I can, however, ask Siri to remind me of this note later, and a link to the specific note is inserted. The difference in behaviors is maddening. Unifying them, or at the very least presenting a user with the option to import a link to the note or the text using a contextual menu, is better for the user in every way.
 
-![](images/Image-10-4-17-1-20-PM.png)
+![](/images/Image-10-4-17-1-20-PM.png)
 
 Additionally, drag and drop could bring some other features into Reminders. The ability to add documents, images, etc. to any task is now possible thanks to drag and drop. Having the option to add additional contextual information to a task would be immensely helpful. Need to get a grocery store item, but want to make sure you get the right thing? Now you can take a picture, and drag it right onto the task; the image would be added into the notes section of the task. Want to be reminded to take action on a specific file? Simply drag it from Files, and a rich link to the file would be created. You can tie the important information into a task from multiple sources across the system.
 
-![](images/Image-10-4-17-8-22-AM.jpeg)
+![](/images/Image-10-4-17-8-22-AM.jpeg)
 
 ### Other Features
 
 Sorting is badly needed in Reminders. The UI elements are there today in Files, and they could be presented in Reminders in the same fashion. Having the ability to sort lists based on due dates, priority, tags, and name are basic functions that any good task manager should provide. If they are provided in other Apple apps, why not this one?
 
-![](images/Image-4.gif)
+![](/images/Image-4.gif)
 
 The repeat features of Reminders have been greatly improved over the years, but there’s room for improvement. Most 3rd-party applications have options for repeat after completion, weekday/weekends, and other custom repeats. Going forward, having a pause option for repeating tasks[3](#fn3) would be a fantastic feature to implement; it is a great feature for the user going on vacation.
 

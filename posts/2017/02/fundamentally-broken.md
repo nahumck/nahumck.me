@@ -15,7 +15,7 @@ All too often, I realize the paths I take in my daily life have problems. And it
 
 A special thanks to the amazing [Satchell Drakes](https://twitter.com/SatchellDrakes) for the incredible artwork. I couldn't be happier with how well it turned out. He is the best!
 
-![](images/Image-2-13-17-1-44-PM.jpeg)
+![](/images/Image-2-13-17-1-44-PM.jpeg)
 
 In the [first episode](https://itunes.apple.com/us/podcast/fundamentally-broken/id1200632692?mt=2#episodeGuid=7babb7e7-3ac7-4b3e-9f65-06047c23d630), we talk about the reasoning for the show, and what we want [Fundamentally Broken](http://podcast.fundamentallybroken.men) to be. For now, this is going to be monthly-ish: it could be sooner, it could be longer. We are busy with work and family, and sometimes our available time is slim. So it's just going to be a surprise when you see it pop up in your feed.
 

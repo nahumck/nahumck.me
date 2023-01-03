@@ -9,7 +9,7 @@ permalink: "tactical-bag/index.html"
 layout: "post"
 ---
 
-[![Tactical Bag](images/9B87D582-CE30-421D-BBC5-9789E93B7300-360x450.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/01/9B87D582-CE30-421D-BBC5-9789E93B7300.jpeg)
+[![Tactical Bag](/images/9B87D582-CE30-421D-BBC5-9789E93B7300-360x450.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/01/9B87D582-CE30-421D-BBC5-9789E93B7300.jpeg)
 
 For a while now, I've had the same [backpack](http://www.ospreypacks.com/us/en/product/momentum-30-MOMENTUM30.html). It's been my trusted bag for everything: work, travel, day tripping, etc. It carries everything I could think about needing and then some. But with some changes in my needs, I started realizing that for some situations – like going to my 3rd office that is known as Chipotle – it's way more than I need. I need something smaller on the weekends when I'm not lugging my work laptop around.[1](#fn-1530-laptop)
 
@@ -19,11 +19,11 @@ So in my quest, I started thinking about what I would need for a trip for person
 
 After a bit of sifting, I ended up finding the [Travelon Anti-Theft Urban Sling Bag](http://www.amazon.com/dp/B01D3S0BE0/?tag=nahumck-20). While it doesn't look tactical the way a GO RUCK bag does, this thing just screams urban tactical. Even though this is a small carry, it's large enough for me to overpack it and get a lot inside of it. I ended up getting black, even though there is a gray option I might have liked more, because it blends seamlessly with the zippers.
 
-[![Inside Pockets](images/A5191761-B98E-4459-A069-2C3EA2BE4A2D-338x450.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/01/A5191761-B98E-4459-A069-2C3EA2BE4A2D.jpeg)
+[![Inside Pockets](/images/A5191761-B98E-4459-A069-2C3EA2BE4A2D-338x450.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/01/A5191761-B98E-4459-A069-2C3EA2BE4A2D.jpeg)
 
 There are a lot of anti-theft details of this bag: there are locking zippers to keep the compartments secure as you are moving around; the bag and straps have reinforced, anti-slash materials to keep the bag from being cut off my body; and the area for cards/passports are RFID shielded. These features make it a great bag for going around town, traveling to a big city via plane, train, or bicycle. I can even put a water bottle or [Yeti tumbler](http://www.amazon.com/dp/B073WJX9ZV/?tag=nahumck-20) on either side for travel.
 
-\[caption id="attachment\_1528" align="aligncenter" width="840"\][![EDC Bag 2019](images/5156A67A-79D3-4D22-B157-27EBD4E75F15-1024x768.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/01/5156A67A-79D3-4D22-B157-27EBD4E75F15.jpeg) This bag holds more than I thought it would.\[/caption\]
+\[caption id="attachment\_1528" align="aligncenter" width="840"\][![EDC Bag 2019](/images/5156A67A-79D3-4D22-B157-27EBD4E75F15-1024x768.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/01/5156A67A-79D3-4D22-B157-27EBD4E75F15.jpeg) This bag holds more than I thought it would.\[/caption\]
 
 With this bag, I'm able to fit most of what I carry on a normal basis. In the bag, I have:
 

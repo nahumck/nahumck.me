@@ -36,7 +36,7 @@ One thing I love is automation. So, I suggested to the developer of 2Do that hav
 
 So now I can add projects and tasks even easier from Drafts. Using [this action](https://drafts4-actions.agiletortoise.com/a/1oo) that utilizes this new URL scheme, I can take a task or list of tasks and easily send it to 2Do; by using the `x-success` parameter, I can even come right back to Drafts in less than a second.
 
-![](images/Paste-2Do-Example.jpeg)
+![](/images/Paste-2Do-Example.jpeg)
 
 This can even be expanded to take a large list and enter it in as projects/tasks all at once. One time when my dad was visiting, he brought his hand-written checklist for travel that he had put together over years; it’s a list of things that he’s likely forgotten at one point or another on a trip.
 
@@ -44,7 +44,7 @@ I formatted the list using the new paste URL scheme syntax, and entered into a c
 
 At the end of the clipboard action step text, I added a “Misc” line, with the `[[draft]]` tag indented. This will take the draft and add it to the Misc list, and pass it to the URL step. I added the same URL scheme as above, but added the optional `forList` variable and set that to “Travel”. I would have thought about doing something like this in [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?at=1001l4VZ&ct=nahumck_me),[\[3\]](#fn-3 "see footnote") but now entering in my [pre-travel checklist](https://drafts4-actions.agiletortoise.com/a/1op) is a breeze and takes almost no time at all.
 
-![](images/2Do-Travel-Checklists.jpeg)
+![](/images/2Do-Travel-Checklists.jpeg)
 
 * * *
 

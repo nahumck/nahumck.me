@@ -34,7 +34,7 @@ But the combined workflow does a great job at aggregating all of this informatio
 
 Having one place to go to for information is difficult in the Age of Apps. Widgets are great for glanceable information, but that’s still multiple sources for looking at things. It’s like getting a news report about your day in the morning: “Here’s what’s happening in your neck of the woods. Now here’s Tim with the weather!”
 
-![](images/The-Daily-Slack.jpeg)
+![](/images/The-Daily-Slack.jpeg)
 
 It’s been really fantastic to use this at night, and view it all in one place in the morning. I can see my day ahead without having to go multiple places. I’m not trying to clear all of the badges from my phone. I don’t have to go to multiple apps and waste time. I’m not tempted to peruse Twitter to see what I missed. I can get this information about my day, and head out to face it.
 

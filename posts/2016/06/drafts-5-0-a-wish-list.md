@@ -35,7 +35,7 @@ I’ve always found any “Find” action in the [Drafts Action Directory](https
 
 What I would like to see is this: having a dedicated search icon at the top of the editor or just above (to the left) the extended keyboard row. The search will scan the current draft for instances of the search and provide the number of matches for the search. Additionally, the replace option would be right there so you can do that within the draft without an action.
 
-![](images/Drafts-Search.png)
+![](/images/Drafts-Search.png)
 
 By far the best implementation of this feature on iOS has been Ulysses, and is something that I would like to see Drafts copy steal inspiration from. Editorial’s implementation is ok, but I don’t find it to be as user-friendly as Ulysses.
 
@@ -43,7 +43,7 @@ By far the best implementation of this feature on iOS has been Ulysses, and is s
 
 Speaking of Editorial, I would love to see Drafts implement the same functionality of the folding headers and arrangement features. As I use Drafts more and more as [my text editor of choice](https://www.nahumck.me/using-drafts-as-a-main-text-editor/), especially for longer posts like this one, I really wish I had the ability to fold the headers. I certainly could write sections in separate drafts, and combine them at the end. But there are times that I would really like to just fold up the headers as I write.
 
-![](images/Drafts-Folding-Arranging.jpeg)
+![](/images/Drafts-Folding-Arranging.jpeg)
 
 The arrange mode in Drafts today is good, but I think that if I could drag the lines on the side of the editor, it would be better and faster for me to move things around. Where this Editorial-style arrange mode is extremely useful is when you have folded headers: you can simply drag whole sections around instead of each line.
 
@@ -55,13 +55,13 @@ Prior to me even trying Ulysses for writing, I often found the differentiation o
 
 Using [Pixelmator](https://geo.itunes.apple.com/us/app/pixelmator/id924695435?at=1001l4VZ&ct=nahumck_me), I was able to conceptually visualize what this would be like on iOS. I was able to create this for all three themes, and I think the result ends up making things easier to read, better to work with, and makes me want it now now now.
 
-![](images/Drafts-Color-Syntax-Light.png) ![](images/Drafts-Color-Syntax-Sepia.png) ![](images/Drafts-Color-Syntax-Dark.png)
+![](/images/Drafts-Color-Syntax-Light.png) ![](/images/Drafts-Color-Syntax-Sepia.png) ![](/images/Drafts-Color-Syntax-Dark.png)
 
 I would love to see this be user customizable. If you want your links to be red instead of blue? You got it. Do you want everything to remain as it is today? You can make that happen too. And while I think this would be a lot of effort for Greg to add, I think that this would be great to implement as an in-app purchase (if the app remains a fixed price) or would be a great example if the new app becomes a sustainable subscription model.
 
 ### Touch ID
 
-![](images/Drafts-Passcode.jpeg)
+![](/images/Drafts-Passcode.jpeg)
 
 Much like Notes.app, it would be nice to bring security to Drafts. There are times that I have kept some personal information in a draft, or even something like a gift list for my wife. I don’t want her to see what I have in store for her, so the ability to do that on an as-needed basis would be great. Others might want Drafts itself to have a passcode as well. By no means a deal breaker, but it would be a nice added touch.[\[2\]](#fn-2 "see footnote")
 
@@ -95,7 +95,7 @@ I would love to see the option of selectively sharing actions and keys. When you
 
 ## macOS App
 
-![](images/Drafts-macOS-Concept.jpeg)
+![](/images/Drafts-macOS-Concept.jpeg)
 
 I’ve thought a bit about this, and I think there could be a market for a macOS app. However, I think it would need to be limited to one thing and one thing only: a text editor. Using the features of sync via iCloud just as the iOS app does today, allowing users to edit on a Mac would make some sense. Having access to the drafts list would be nice to make multiple edits to different things.
 

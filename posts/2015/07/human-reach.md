@@ -9,7 +9,7 @@ permalink: "human-reach/index.html"
 layout: "post"
 ---
 
-![Pluto](images/Pluto.jpg) [_Image Credit: NASA/APL/SwRI_](http://www.nasa.gov/sites/default/files/thumbnails/image/tn-p_lorri_fullframe_color.jpg)
+![Pluto](/images/Pluto.jpg) [_Image Credit: NASA/APL/SwRI_](http://www.nasa.gov/sites/default/files/thumbnails/image/tn-p_lorri_fullframe_color.jpg)
 
 This week, we have hit the mark on the nine-year journey to research and [photograph](http://www.nasa.gov/mission_pages/newhorizons/images/index.html) the last main celestial body in our solar system, Pluto.[\[1\]](#fn-1 "see footnote") We have [discovered particles](http://www.bbc.com/news/science-environment-33517492) that have only existed in theory. We are extending our human reach from the infinitesimal to the extent of our multiverse as a species, even if we don’t know yet where we are heading or for what we are searching. We truly live in wonderful times.
 

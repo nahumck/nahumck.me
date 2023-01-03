@@ -11,7 +11,7 @@ permalink: "using-simple-dictionaries-in-workflow/index.html"
 layout: "post"
 ---
 
-[![](images/Workflow-Array-Feature.jpeg)](https://www.nahumck.me/wp-content/uploads/2017/01/Workflow-Array-Feature.jpeg)
+[![](/images/Workflow-Array-Feature.jpeg)](https://www.nahumck.me/wp-content/uploads/2017/01/Workflow-Array-Feature.jpeg)
 
 Normally when I have an idea, I'll write about it. This past time, I decided to do something a bit different, and write more about [how I felt](https://www.nahumck.me/gaining-experience/ "Gaining Experience") rather than explain it. But, I also realize that this new-to-me idea might need a bit of help and guidance for those that aren't well versed in the subject, like me. So I'll do my best here to explain.
 
@@ -55,29 +55,29 @@ Once you have everything in that format, you can place this simple dictionary ei
 
 [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1001l4VZ&ct=ntwitter "Workflow on the App Store") also has the capability of entering in a dictionary. Workflow asks for different types of values; it can get complex, and I'm not going to cover that here. But to enter this simple dictionary, we can use the `Dictionary` step as follows:
 
-![](images/Workflow-Dictionary-Input.jpeg)
+![](/images/Workflow-Dictionary-Input.jpeg)
 
 Once completed for any of the methods — `Text` `Get File` or `Dictionary` action blocks — be sure to include a `Set Variable` step so that you can call it later.
 
 Personally, while Workflow is very powerful for this type of thing, I would prefer to enter my dictionaries in plain-text form. This allows me to duplicate workflows more easily while calling a different directory. It also means that I can edit them quickly in a text editor like [Drafts](https://geo.itunes.apple.com/us/app/drafts-quickly-capture-notes/id905337691?mt=8&uo=4&at=1001l4VZ&ct=ntwitter "Drafts on the App Store") and save them. What I do for files in Drafts is use the `[[title]]` for the name of the file and `[[body]]` for the dictionary, like so:
 
-![](images/Workflow-Drafts-Array-Entry.jpeg)
+![](/images/Workflow-Drafts-Array-Entry.jpeg)
 
 ### Pulling Out Information
 
 Now that the dictionary is set, we can pull out specific information. For example, you can call out a list of the keys you have stored in the dictionary. Once the dictionary is called using the `Get Dictionary From Input` step, place a `Get Dictionary Value` block with `All Keys` selected. What this will do is provide a list of the keys, which you can call using a `Choose From List` block. One thing that calling dictionaries doesn't do well is give you the values the way you have them stored. For example, the stored rating list is presented like so:
 
-![](images/Rating-System-List.jpeg)
+![](/images/Rating-System-List.jpeg)
 
 The list is out of order. Unfortunately this is an inherent thing with dictionaries, and slightly aggravating to someone like myself who likes things orderly. However, there is a small thing that can be done: using a `Filter Files` block after the `Get Dictionary Values`, you can sort by `Name` and select `A → Z`; this sorts the list alphabetically, which is more helpful to find what you're looking for instead of a random list.
 
-![](images/Filter-Files-Block-Sort.jpeg)
+![](/images/Filter-Files-Block-Sort.jpeg)
 
 Then, set that chosen value as a variable. This will become the variable that you look up in the dictionary. Use the `Get Variable` and `Get Dictionary From Input` blocks to call it again, along with a `Get Dictionary Value`. This time, however, use `Value` and put in your search variable in the `Key` field. This will search the dictionary for the given key, and give you the value associated with it. What you do with that value is up to you.
 
 Here is the [rating system workflow](https://workflow.is/workflows/6b946072d5244ec7b985bc7aa93034b3 "Rating System Workflow") in its entirety:
 
-![](images/Rating-System-Workflow.jpeg)
+![](/images/Rating-System-Workflow.jpeg)
 
 Say I switch companies and start using a different rating scale that goes from 1 - 10, along with a change in descriptors. I can simply go to my draft, edit the plain text, save the file, and I'm all set; there's nothing to change in the workflow.
 
@@ -92,7 +92,7 @@ However, I can have one master contact file for frequent addresses I might need,
 
 While these workflows are different in what they produce, at the core, they call the same information to be used in different ways.
 
-![](images/Address-Array-Workflows.jpeg)
+![](/images/Address-Array-Workflows.jpeg)
 
 ### Advantages
 

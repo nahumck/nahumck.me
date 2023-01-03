@@ -31,7 +31,7 @@ I hope that this is a new beginning. By reframing my mind, I'm freeing myself of
 
 Onward indeed…
 
-[![](images/Nahumck-me-logo-1024x400.png)](https://www.nahumck.me/wp-content/uploads/2020/06/Nahumck-me-logo.png)
+[![](/images/Nahumck-me-logo-1024x400.png)](https://www.nahumck.me/wp-content/uploads/2020/06/Nahumck-me-logo.png)
 
 * * *
 

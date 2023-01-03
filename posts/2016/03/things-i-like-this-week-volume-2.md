@@ -14,7 +14,7 @@ Here are a couple of the things I've been enjoying this week.
 
 ## Osprey Momentum 30 Backpack
 
-![Osprey Momentum 30](images/056fee90-d3c8-4461-868c-2b63402d1e62.jpg)
+![Osprey Momentum 30](/images/056fee90-d3c8-4461-868c-2b63402d1e62.jpg)
 
 For work, I have a laptop. A 7.8 pound laptop. I used a messenger bag for years[\[1\]](#fn-1 "see footnote"), but it had started getting very uncomfortable for my walk in and out of the office. So I started searching for a bag that would not only be good for carrying my laptop, but also would be good for travel, biking (if I only had time to do it), hiking, and anything else I threw at it.
 
@@ -28,7 +28,7 @@ I’m very, very late to this party. [PCalc](https://geo.itunes.apple.com/us/app
 
 The option to customize layouts is amazing. You can start with a given layout, but you can also rearrange the buttons as you need; you can also add your own buttons to include frequently used conversions, constants, or functions. This can also extend to the `2nd` function, and you can have 2 buttons occupy the same space. I’ve just started playing around with it, and I’m already coming up with a default layout that is all my own.
 
-![](images/PCalc-Setup.png)
+![](/images/PCalc-Setup.png)
 
 I’ve had this app for a day. My only regret with this app is that I didn’t purchase it sooner. This is worth every penny.
 

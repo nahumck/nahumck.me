@@ -22,7 +22,7 @@ The iPhone optics and sensors make this a fantastic point-and-shoot camera. At t
 
 With the improvements to portrait mode and the additional features brought to the iPhone 8 Plus, this camera is simply stunning. There are [much better photographers](http://austinmann.com/trek/iphone-8-camera-review-india) out there that can take way better photos than I can. But it really is amazing that my not quite 5-year-old can take a photo that looks really great. I had to instruct him what to wait for, but once he got it and knew when to snap the photo, he has been able to take some great photos on his own. The photo below was taken by him; it is a portrait mode photo with the contour light mode selected. My dad told me it was one of the best photos taken of me in years. I’m really looking forward to the images that I — and more importantly my son — can take with the new phone and the new features in the future.
 
-![](images/Image-10-2-17-9-44-AM.jpeg)
+![](/images/Image-10-2-17-9-44-AM.jpeg)
 
 ## Anker Wireless Charging Pad
 

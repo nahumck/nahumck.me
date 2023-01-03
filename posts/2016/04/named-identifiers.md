@@ -10,7 +10,7 @@ permalink: "named-identifiers/index.html"
 layout: "post"
 ---
 
-![Named Identifiers](images/Drafts-Named-Identifiers.png)
+![Named Identifiers](/images/Drafts-Named-Identifiers.png)
 
 I wanted to share with you a quick tip on footnotes. I love using them in my posts, mainly because it’s how I talk.[\[1\]](#fn-1 "see footnote") I’ve implemented the use of [Bigfoot.js](http://www.bigfootjs.com/) footnotes in my site, and I’ve been happy about it ever since.
 
@@ -26,7 +26,7 @@ I don’t have to stop and think about where things fall, how to rearrange them,
 
 This is a pretty fundamental change in the way that I work, but I think the result is really profound. If it’s a little difficult to understand my explanation, I hope that when you see the end result you’ll understand why creating footnotes in this manner can be very beneficial to your writing.
 
-![Named Identifiers Comparison](images/Named-Identifiers-Comparison.jpeg)
+![Named Identifiers Comparison](/images/Named-Identifiers-Comparison.jpeg)
 
 Having quick access to things like this just reminds me — yet again — that [Drafts](https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1001l4VZ&ct=nahumck_me) has a ton of hidden power, unlocked by the actions and keys. The more I use it, the more I explore the possibilities, the more I love it.
 

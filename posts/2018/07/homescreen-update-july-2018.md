@@ -9,7 +9,7 @@ permalink: "homescreen-update-july-2018/index.html"
 layout: "post"
 ---
 
-![](images/Image-7-3-18-5-33-PM.png)
+![](/images/Image-7-3-18-5-33-PM.png)
 
 People often post about their homescreens. I've shared one of mine in the [Club MacStories](https://club.macstories.net/) newsletter, but I thought it might be time to give an update.
 

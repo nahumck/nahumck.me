@@ -23,7 +23,7 @@ There are some additional benefits that GoodTask provides over Reminders. Search
 
 There are two unique ways that you can speed up task entry. First, you can setup customizable quick actions. These quick actions can be dates, times, time intervals, tags, etc.; there are even quick actions to set up repetitive tasks. I have a few set up for dropping off or picking up prescriptions, dry cleaning, and some other work-related tasks that aren’t regularly repeating, but occur frequently enough to have a quick entry option. The second quick-entry feature is user-defined text snippets. While it isn’t full natural language parsing, it greatly speeds up entry. You can add “Wednesday 7p” and it will set the date and time without having to select each one in the regular fields of the task. You can customize the snippets to work for you, using common words or other shorthand to enter your tasks quickly.
 
-![](images/Image-11-12-17-9-49-AM.png)
+![](/images/Image-11-12-17-9-49-AM.png)
 
 The developers at have come up with a way of storing extra information to provide greater functionality than the built in Reminders.app: by using the notes field of the task, they can add details about the reminder that GT parses. Because of this clever use of the field, the app can provide tags and subtasks: `#tags` have a simple syntax, where subtasks follow a more complex format of
 
@@ -39,7 +39,7 @@ That action is great for moving a single task or a selection over, but what abou
 
 Some of the tasks I have around the house are actually small projects, or a task with a few subtasks. Now that I know how the syntax works, I made a [subtask creation key](https://drafts4-actions.agiletortoise.com/k/2Ht "GT3 Subtasks") that takes a group of lines and turns it into the proper syntax for GT to accept.[2](#fn2) Then, I simply put each main task in the format `task|note` so that I could use [this action](http://drafts4-actions.agiletortoise.com/a/1C6) that moved it over into Reminders. Here's a small example:
 
-![](images/Image-11-12-17-9-51-AM.png)
+![](/images/Image-11-12-17-9-51-AM.png)
 
 Again, the benefit here is using the backbone of the Reminders integrations. The input of the tasks from Drafts to Reminders is simple; the syntax that GoodTask uses to parse subtasks and tags allows for even better integration when using GoodTask as the manager. There are also numerous other possibilities for task entry. Users of [Fantastical](https://itunes.apple.com/us/app/fantastical-2-for-ipad/id830708155?mt=8&uo=4&at=1001l4VZ "Fantastical for iPad") are able to use NLP to send tasks into Reminders, which in turn would show up in GoodTask. I can use Siri to add a simple task. I could use [Workflow](https://itunes.apple.com/us/app/workflow/id915249334?mt=8&uo=4&at=1001l4VZ "Workflow") to create a task from the widget or the watch. I can use the Share Sheet to select Reminders, and input a task in that way. There are a ton of ways to enter my tasks.
 

@@ -11,7 +11,7 @@ layout: "post"
 
 ### Reduce Tumbler 2-pack
 
-![](images/Reduce-Tumbler.jpeg)
+![](/images/Reduce-Tumbler.jpeg)
 
 I've wanted a stainless steel tumbler for a long time. I've owned several vacuum-insulated tumblers in the past, but they are all plastic and break over time (especially if accidentally dropped). I looked for alternatives, and found several brands: Yeti, Rtic, and many more that are all about the same. All of them were anywhere from $15-40 for a single tumbler.
 
@@ -21,7 +21,7 @@ I highly recommend these if you get the chance to pick them up. I included the A
 
 ### Rinfit Silicone Wedding Bands
 
-![](images/Rinfit-Silicone-Wedding-Bands.jpeg)
+![](/images/Rinfit-Silicone-Wedding-Bands.jpeg)
 
 My wife and I have never had our rings re-dipped since we've been married, and I thought this year would be a good year to do it. Additionally, there have been times at work that I have been messing with electrical equipment, and my wife's rings don't quite fit her.
 

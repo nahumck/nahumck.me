@@ -11,7 +11,7 @@ layout: "post"
 
 ## Science Vs
 
-![](images/Science-Vs-Podcast.jpeg)
+![](/images/Science-Vs-Podcast.jpeg)
 
 I really like the [Reply All](https://gimletmedia.com/show/reply-all/episodes/ "Reply All from Gimlet Media") podcast from [Gimlet Media](https://gimletmedia.com/ "Gimlet Media"). If you haven't listened to that show, make sure you go listen to it. At the end of episode #71, they had a preview of the second season of a podcast I had never heard of, [Science Vs](https://gimletmedia.com/show/science-vs/episodes/ "Science Vs from Gimlet Media") I listened to the preview, which was the first half of the "Fracking" episode, and I was hooked.
 
@@ -27,7 +27,7 @@ I'm happy that Reply All featured a segment, and I'm going back now to binge-lis
 
 ## The Black Tapes
 
-![](images/The-Black-Tapes-Podcast.jpeg)
+![](/images/The-Black-Tapes-Podcast.jpeg)
 
 I don't remember how I heard of [The Black Tapes](http://theblacktapespodcast.com/ "The Black Tapes Podcast"), but ever since listening to the first few episodes, I've been enjoying this serialized docudrama. The show features Alex Reagan sharing her journey, along with her producer Nick and the focal point of the show, Dr. Richard Strand, through a complex web of a story. The show deals with the "Black Tapes", a series of tapes that cannot be scientifically explained. It covers elements of the supernatural, demons, the occult, and other topics; some of the are downright terrifying, and often makes me thankful this is an audio-only show.
 

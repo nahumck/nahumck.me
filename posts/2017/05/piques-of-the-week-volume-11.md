@@ -11,7 +11,7 @@ layout: "post"
 
 ## Apple TV
 
-[![](images/IMG_0065.png)](https://www.nahumck.me/wp-content/uploads/2017/05/IMG_0065.png)
+[![](/images/IMG_0065.png)](https://www.nahumck.me/wp-content/uploads/2017/05/IMG_0065.png)
 
 We recently decided to get a [fourth-generation Apple TV](https://store.apple.com/xc/product/APPLETV2 "Apple TV - Apple Store"). My entire family uses Apple products, from iOS to Mac. And given that we recently cut cable, we needed something better to watch shows and movies with. Prior to now, we'd have to watch either via the smart TV built-in apps, or through plugging something in. Not ideal at all.
 
@@ -25,7 +25,7 @@ Overall, I'm really pleased with how the Apple TV is working for us at home. I'm
 
 ## Ecobee 3
 
-![](images/Image-5-17-17-5-13-PM.png)
+![](/images/Image-5-17-17-5-13-PM.png)
 
 Home ownership is... well... fun? Yes, fun. Let's go with that. Owning a home means often maintaining or improving it; improvement is often necessary and can be expensive. But spending the money up front can yield dividends down the road.
 
@@ -35,13 +35,13 @@ So I started searching for a thermostat which would automatically switch, thus p
 
 The setup for the thermostat is pretty rad. If you download the [Ecobee](https://itunes.apple.com/us/app/ecobee/id916985674?mt=8&uo=4&at=1001l4VZ "Ecobee on the App Store") app, it guides you through the installation process complete with instructions, images, and videos. There's a bit of wiring involved, but at no time did I worry about it; the app does a great job at doing everything needed. Speaking of the app, it's a really nice app that supports iPhone, iPad, and Apple Watch. I can make adjustments when I'm gone, or even if I'm feeling lazy and don't want to get out of bed.
 
-![](images/Image-5-17-17-5-46-PM.png)
+![](/images/Image-5-17-17-5-46-PM.png)
 
 Now, one big reason I went the route of the wifi thermostat vs a traditional one: rebates. Before you look into purchasing one of these, see if your electric and gas companies offer a rebate on wifi thermostats. I was able to get one for each utility company. With those two rebates, and a third for my newly-installed insulation, I was able to completely pay for my new thermostat with the extra remote sensors. Not bad at all. With the new insulation and thermostat, I'm really anxious to see how well this cuts down on our energy bills.
 
 ## BUBM Universal Accessories Bag
 
-![](images/Image-5-17-17-5-49-PM.png)
+![](/images/Image-5-17-17-5-49-PM.png)
 
 I _might_ have a watch band problem. It's not be as bad as others, but I have a total now of 12 watch bands. And for a while, I haven't really had a good way to store them. There are times that I would like to take them with me: if I travel or change from work to workout, I want to be able to grab a new band whenever I feel the need.
 

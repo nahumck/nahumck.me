@@ -1,5 +1,6 @@
-const markdownIt = require("markdown-it");
-const markdownItFootnote = require("markdown-it-footnote");
+const markdownIt = require("markdown-it")
+const markdownItFootnote = require("markdown-it-footnote")
+const markdownItFigCaptions = require('markdown-it-image-figures')
 const { execSync } = require('child_process')
 
 module.exports = function(eleventyConfig) {
@@ -10,13 +11,18 @@ module.exports = function(eleventyConfig) {
     };
 
     // configure the library with options
-    const markdownLib =  markdownIt(options).use(markdownItFootnote);
+    const markdownLib =  markdownIt(options)
+    markdownLib.use(markdownItFootnote)
+    markdownLib.use(markdownItFigCaptions, { figcaption: true })
     // set the library to process markdown files
-    eleventyConfig.setLibrary("md", markdownLib);
+    eleventyConfig.setLibrary("md", markdownLib)
 
-    eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
+    eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`)
 
     eleventyConfig.addPassthroughCopy("assets")
+    eleventyConfig.addPassthroughCopy("posts/images")
+    eleventyConfig.addPassthroughCopy({ "posts/images": "images" })
 
     eleventyConfig.addCollection("posts", function(collection) {
         return collection.getFilteredByGlob("posts/**/*.md").reverse().map(p => {

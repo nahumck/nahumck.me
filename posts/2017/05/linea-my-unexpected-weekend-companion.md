@@ -17,7 +17,7 @@ This time, the sickness also took something that made everything that much worse
 
 When it came time to make dinner, however, I wanted my oldest to make it. I try as often as I can to impart wisdom and small tasks that he should be able to do. But how on earth, with no voice, can I give him directions? My first thought was to send a text, but even though I can type fast, it wouldn't be good for what I need. So I looked on my iPad to see what tools I have at my disposal. It was pretty apparent that I should use [Linea](https://geo.itunes.apple.com/us/app/linea-sketch-simply/id1094770251?mt=8&uo=4&at=1001l4VZ "Linea on the App Store"). I could simply use a white canvas and a black pen or marker to write. It was easy for me to write down some simple instructions for him. Using layers, I ended up writing out how to put things together, just as a reminder of the things he should be putting into the meal because he has made this before. It made it easier to communicate with him, and dinner turned out pretty well. Being able to simply write down directions to him was a huge help.
 
-![](images/Image-4-30-17-11-41-AM.png)
+![](/images/Image-4-30-17-11-41-AM.png)
 
 As the weekend went on, I continued to use Linea for communication in my house. We ended up doing more than I thought we would, despite my inability to communicate verbally. I interacted with my youngest by working on letters and numbers with him; I also drew him small pictures to make him laugh. While Linea is primarily an app for artists,[2](#fn2) Linea allowed me to get past a communication barrier I was facing, and interact with those around me.
 

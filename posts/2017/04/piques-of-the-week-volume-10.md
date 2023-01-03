@@ -11,7 +11,7 @@ layout: "post"
 
 ### Logitech Create Keyboard
 
-![](images/Image-3-31-17-10-27-AM.png)
+![](/images/Image-3-31-17-10-27-AM.png)
 
 The moment I made the decision to get the iPad Pro 9.7", I knew that I wanted to get the [Logitech Create Keyboard](http://www.amazon.com/dp/B01HIS30OY/?tag=nahumck-20 "Logitech Create Keyboard - Amazon.com"). This is hands down the best keyboard for the iPad Pro, as many other people will tell you.
 
@@ -19,7 +19,7 @@ What I love about this keyboard is that while it adds some heft to the device, i
 
 ### iMangoo Foldable Stand
 
-![](images/Image-3-31-17-2-11-PM.png)
+![](/images/Image-3-31-17-2-11-PM.png)
 
 Now that I have my iPad Pro with the Create keyboard, my old [Logitech k480](http://www.amazon.com/dp/B00MUTWLW4/?tag=nahumck-20 "Logitech k480 Bluetooth Keyboard") has been given to my son for his use with his iPhone at school.[1](#fn1) Because I want his iPhone to last and it is permanently in a [LifeProof](www.lifeproof.com "LifeProof Cases") Case, his phone doesn't fit so well into the integrated stand on the keyboard. So I started looking at options for him to use for a stand.
 
@@ -27,7 +27,7 @@ I originally was going to go after the [current stand](http://www.amazon.com/dp/
 
 ### SOMAN Solar Charger
 
-![](images/Image-4-8-17-3-45-PM.png)
+![](/images/Image-4-8-17-3-45-PM.png)
 
 This charger came my way at Christmas time as a gift.[2](#fn2) During that time, I was also reorganizing some things inside my house, and put it somewhere out of the way. Out of sight, out of mind — and I forgot that I had it. Then I finally remembered it on a recent trip I had.
 
