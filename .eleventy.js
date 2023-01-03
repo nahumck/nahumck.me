@@ -19,7 +19,11 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets")
 
     eleventyConfig.addCollection("posts", function(collection) {
-        return collection.getFilteredByGlob("posts/**/*.md").reverse()
+        return collection.getFilteredByGlob("posts/**/*.md").reverse().map(p => {
+            // apply docId to make footnotes unique when showing multiple posts
+            p.data.docId = p.data.permalink.replace('/index.html', '')
+            return p
+        })
     })
 
     eleventyConfig.addFilter("limit", function(array, limit) {
