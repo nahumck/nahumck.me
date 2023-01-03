@@ -23,7 +23,7 @@ It is now easier than ever to add a specific shortcut to run in Drafts. A new in
 
 Workspaces have been available since [version 5.0 dropped back in April 2018](https://www.macstories.net/reviews/drafts-5-the-macstories-review/). It is the single biggest improvement to Drafts, providing users with an infinite number of filtered views of the draft list. Extending it further, you can apply action groups and extended keyboards to a workspace and have what I coined as a module. In [Drafts 5.2](https://www.nahumck.me/drafts-5-2-the-navigation-update/), the script and capability of automatically making this possible was implemented. In this new version, it is now more accessible to the non-scripting user.
 
-[![](/images/D56-Workspace-Improvements-1024x654.png)](https://www.nahumck.me/wp-content/uploads/2019/01/D56-Workspace-Improvements.png)
+![](/images/D56-Workspace-Improvements-1024x654.png)
 
 Within the Workspaces menu, you can choose to load in action group or extended keyboard for each of the different workspaces you create. This does sync across devices, so for most users, this is a better way to load module with a single tap without having to know JavaScript. You can also now load a workspace to a specific tab, saving a few taps if needed. However, I personally won't be using this as my setup involves loading workspaces differently based on the device type (as I laid out in my earlier Drafts piece).
 
