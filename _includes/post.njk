@@ -1,0 +1,26 @@
+---
+layout: base
+showTags: false
+---
+
+<header class="entry-header">
+    <h1 class="entry-title" title="title">{{ title }}</h1>
+</header>
+
+<div class="entry-meta">
+    {% if showTags %}
+        <span class="cat-links">
+            {%- for tag in tags %}
+                <a href="/tags/{{ tag }}/" rel="category tag">{{ tag }}</a>
+            {% endfor %}
+        </span>
+    {% endif %}
+    <span class="published-on">
+        <time class="entry-date published" datetime="{{ date }}">{{ date }}</time>
+    </span>
+    <span class="word-count">{{ content | readingTime }}</span>
+</div>
+
+<span data-pagefind-body>
+{{ content | safe }}
+</span>

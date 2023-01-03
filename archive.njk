@@ -1,0 +1,28 @@
+---
+title: Archives
+layout: base
+permalink: archives/index.html
+---
+
+{% set datePrinted = false %}
+{% set currentYear = 1000 %}
+{% set started = false %}
+
+{%- for post in collections.posts %}
+    {% set postYear = post.data.date.split('-')[0] %}
+
+    {% if postYear != currentYear %}
+        {% if started %}
+            </ul>
+        {% endif %}
+        <p>{{ postYear }}<p>
+        <ul>
+        {% set started = true %}
+    {% endif %}
+
+    <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+    </li>
+
+    {% set currentYear = postYear %}
+{% endfor %}

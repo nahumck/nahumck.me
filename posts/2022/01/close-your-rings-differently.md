@@ -1,0 +1,21 @@
+---
+title: "Close Your Rings Differently"
+date: "2022-01-17"
+categories: 
+  - "stories"
+tags: 
+  - "fitness"
+  - "health"
+permalink: "close-your-rings-differently/index.html"
+layout: "post"
+---
+
+Listening to [Upgrade](https://www.relay.fm/upgrade/387) recently, I was reminded about a feature that I really want to see incorporated into the Apple Watch fitness tracking: **rest days**. I'm not a fitness expert by an means, and I have a long journey ahead of me to start living a healthier lifestyle in 2022. But I've done a lot of training in the past, and I can adamantly say that rest days are _vital_ whether you're starting a new routine, are years-deep into one, or even if you're a pro-level athlete. There are many situations where resting for a day is actually _more_ beneficial than continuing to push through an injury or illness. And Apple would do well to make a feature available to users to implement days of rest. I think there are a couple of different ways to handle this: one is a simple change that could be done now, the other would take a bit more to implement but I think would ultimately be the better of the two solutions.
+
+At the time of me writing this, I'm on an over 1,700-day move and stand streak with zero intention of stopping; I don't close my exercise ring every day, however. On the surface, the current strategy is fine: I am up and moving, but it doesn't mean that I have to work hard to close my rings. But for others, this method penalizes them if they have a routine with rest days in between. I'd personally be very pissed if I lost my move streak because I had a pulled muscle. The only possible way to allow for a rest, sick, or injury day right now is to lower your move goal for that day, however, you do have to remember to go in and manually modify your goal then remember to increase it the next day. Of course, neither option I'm suggesting addresses the sick and injury days that might occur as well. I'd love to see an option to add these; again, these don't count towards the daily or weekly goals, but they also don't count against you.
+
+The easiest way to handle all of this is to allow a single day of rest in between two completed days to keep a streak going. If you miss a day, it just doesn't count. But it does mean that you have to work that much harder to make sure you close your rings the next day. This is just a change in the logic they use for calculating streaks, and would be fairly simple to implement. For someone who is starting on their fitness journey, that means they could generate a streak as they build their endurance and confidence; rest days would not count toward the overall streak of days, but would not restart the streak from zero.
+
+The better way to handle this would be to create a new type of streak for **weekly** goals and provide associated badges which are separate from the daily goals. This preserves everything from users who are currently happy with how everything is implemented, while creating a new paradigm for those who aren't as emphatic about fitness but want to remain healthy. For example, I could see where a user might set weekly goals – say 10,000 kCals active calories burned, 180 exercise minutes, and 45 standing hours – which sets up their week with more flexibility to adjust their routines based on how they are feeling. If you have a solid 2-hour workout one day and two 30-min workouts later in the week, you still are accomplishing your goal of being active. But you could do that 2-hour workout on Monday and finish up the week with the 30-min workouts on Thursday and Saturday. Doing it this way would be beneficial for those that are maybe new to their fitness journey to still hit a goal while not having to do something every day to achieve it. It eases you into everything while still reaching for a goal.
+
+With some small changes, Apple could empower more people to close their rings. It encourages better behaviors without penalizing for a day off when rest is needed, or an injury or illness sidelines you for a little while. As I'm on my own health journey, I've found that positive reinforcement has been key to my success. It's time that Apple start doing the same for everyone.

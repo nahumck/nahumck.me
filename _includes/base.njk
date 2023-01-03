@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+
+		<meta name="viewport" content="width=device-width" />
+		<meta name="Description" content="{{ title }}">
+
+		<meta name="generator" content="{{ eleventy.generator }}">
+
+		<title>{{ title }}</title>
+
+        <link rel="stylesheet" href="/assets/styles2.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="/assets/styles.css" type="text/css" media="screen" title="no title" charset="utf-8">
+        <link rel="stylesheet" href="/assets/genericons.css" type="text/css" media="screen" title="no title" charset="utf-8">
+        <link rel="stylesheet" href="/assets/littlefoot.css" />
+        <script src="/assets/littlefoot.js" type="application/javascript"></script>
+
+		<meta property="og:title" content="{{ title }}" />
+		<meta property="og:description" content="{% if excerpt %}{{ excerpt}}{% else %}nahumck.me - {{ title }}{% endif %}" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://nahumck.me/" />
+
+		<meta itemprop="name" content="{{ title }}">
+		<meta itemprop="description" content="{% if excerpt %}{{ excerpt}}{% else %}nahumck.me - {{ title }}{% endif %}">
+	</head>
+	<body>
+        <div id="page">
+            <div id="hero-header" class="site-hero-section">
+                <header id="masthead" class="site-header" role="banner">
+                    <div class="inner">
+                        <div class="site-branding">
+                            <a class="site-logo-link" href="/">
+                            <img alt="" class="site-logo-image no-grav" width="80" height="80" src="https://www.nahumck.me/wp-content/themes/independent-publisher-2-wpcom-child/images/nahumck-n.png">
+                            </a>
+
+                            <p class="site-title">nahumck<span>.</span>me</p>
+                        </div>
+
+                        <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false" id="primary-menu-button">
+                            Menu
+                        </button>
+
+                    </div>
+                </header>
+            </div>
+        </div>
+
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+			<div class="menu-standard-container"><ul id="primary-menu" class="menu nav-menu" aria-expanded="false"><li id="menu-item-857" class="button pill-button menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href="/about/">About</a></li>
+                <li id="menu-item-862" class="button pill-button menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="/archives/">Archives</a></li>
+                <li id="menu-item-1778" class="button pill-button menu-item menu-item-type-post_type menu-item-object-page menu-item-1778"><a href="/appearances/">Appearances</a></li>
+            </ul>
+            </div>
+        </nav>
+
+        <div id="content-wrapper" class="content-wrapper">
+            <div id="content" class="site-content">
+                <div id="primary" class="content-area">
+                    <main id="main" class="site-main" role="main">
+                        {{ content | safe }}
+                    </main>
+                </div>
+            </div>
+
+            <footer id="colophon" class="site-footer" role="contentinfo">
+                <div class="footer-widgets clear">
+                    <div class="widget-areas">
+                        <div class="widget-area">
+                            <aside id="search-10" class="widget widget_search">
+                                <div id="search" class="search"></div>
+                                <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+                                <script src="/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+                <div class="site-info">
+                    &copy; 2015 - {% year %} nahumck.me
+                </div>
+                </div>
+            </footer>
+        </div>
+
+        <script type="application/javascript">
+            littlefoot.default()
+        </script>
+
+	</body>
+</html>
