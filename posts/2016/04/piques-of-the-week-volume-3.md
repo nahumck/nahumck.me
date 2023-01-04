@@ -13,9 +13,9 @@ Here’s a few things that are piquing my interests this week:
 
 ## Monoprice Fastening Tape
 
-[Jeff Mueller](http://jeffmueller.net/) mentioned this [life hack](http://theruncommuter.com/pack-hacks-how-to-tame-excess-backpack-straps/) to me after he purchased the same backpack that I did [a few weeks ago](https://www.nahumck.me/things-i-like-this-week-volume-2). By using this, you can get rid of the flapping straps using simple fastening tape.[\[1\]](#fn-1 "see footnote")
+[Jeff Mueller](http://jeffmueller.net/) mentioned this [life hack](http://theruncommuter.com/pack-hacks-how-to-tame-excess-backpack-straps/) to me after he purchased the same backpack that I did [a few weeks ago](https://www.nahumck.me/things-i-like-this-week-volume-2). By using this, you can get rid of the flapping straps using simple fastening tape.[^1]
 
-I ended up purchasing the [yellow version](http://www.amazon.com/dp/B004C4ZOBK/?tag=nahumck-20) because I not only wanted to have something other than plain black, but I wanted something that would help me easily identify my bag if I ever needed to check it or set it somewhere.[\[2\]](#fn-2 "see footnote")
+I ended up purchasing the [yellow version](http://www.amazon.com/dp/B004C4ZOBK/?tag=nahumck-20) because I not only wanted to have something other than plain black, but I wanted something that would help me easily identify my bag if I ever needed to check it or set it somewhere.[^2]
 
 Not a bad deal for about $5.
 

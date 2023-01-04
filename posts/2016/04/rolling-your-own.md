@@ -15,7 +15,7 @@ Journaling has been something that has been difficult for me to get into. I’m 
 
 There are a lot of apps out there for journaling, but I’ve only tried [Day One](https://geo.itunes.apple.com/us/app/day-one-2-diary-+-journal/id1044867788?at=1001l4VZ&ct=nahumck_me) and [Momento](https://geo.itunes.apple.com/us/app/momento-private-diary-daily/id980592846?at=1001l4VZ&ct=nahumck_me). A lot of people love those apps, and they get the job done. But for me, they never really captured my interest to write, defeating the purpose of a journal.
 
-I think that the problem with using these apps is that it’s yet another source of mental overhead for me. Sure, I could use Day One. It looks sharp, and satisfies the singular need. But that doesn’t _feel_ good to me. I like rolling my own solution.[\[1\]](#fn-1 "see footnote") I don’t have to figure out how to save things in a special way or how to back up to my own solution so that I don’t lose the data.
+I think that the problem with using these apps is that it’s yet another source of mental overhead for me. Sure, I could use Day One. It looks sharp, and satisfies the singular need. But that doesn’t _feel_ good to me. I like rolling my own solution.[^1] I don’t have to figure out how to save things in a special way or how to back up to my own solution so that I don’t lose the data.
 
 This friction, albeit not horrible, really didn’t sit well with me for whatever reason. If I’m going to do more journaling, I needed a better solution that works for me. I need to use something that allows me to write the way I like to write. I need something I can make my own. And it just so happens, I use it daily.
 
@@ -23,7 +23,7 @@ This friction, albeit not horrible, really didn’t sit well with me for whateve
 
 ![](/images/Rolling-Your-Own_Apps.png)
 
-First, the solution has a few parts. You need [Drafts](https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1001l4VZ&ct=nahumck_me), [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?at=1001l4VZ&ct=nahumck_me), and [Dropbox](http://dropbox.com) for storage.[\[2\]](#fn-2 "see footnote") There are multiple actions & keys that I use, along with an Action Set. You can find all of them [below](https://www.nahumck.me/rolling-your-own/#setup-links).
+First, the solution has a few parts. You need [Drafts](https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1001l4VZ&ct=nahumck_me), [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?at=1001l4VZ&ct=nahumck_me), and [Dropbox](http://dropbox.com) for storage.[^2] There are multiple actions & keys that I use, along with an Action Set. You can find all of them [below](https://www.nahumck.me/rolling-your-own/#setup-links).
 
 I understand that using two apps plus a storage service to replace one, single-focused app may seem like nonsense or something that is more clumsy. But I am constantly using all of the apps for this solution; they’re in most (if not all) of my daily workflows. Also, I trust Dropbox with my data, and I’ve never had a single problem with it; sync doesn’t break, there’s no down time, and everything is well integrated across iOS and most apps.[\[3\]](#fn-3 "see footnote") So in reality, I’d really be adding a fourth app in my life if I want to use a dedicated journaling solution. As of late, I’ve been pulling back on the apps that I rely on.
 

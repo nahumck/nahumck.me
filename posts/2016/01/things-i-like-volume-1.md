@@ -27,7 +27,7 @@ This is a real thumb-saver for me; prior to this, I have typed out everything wr
 
 I picked up the [Jaybird X2 Sport Wireless Bluetooth Headphones](http://www.amazon.com/gp/product/B013HSW4SM/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B013HSW4SM&linkCode=as2&tag=nahumck-20&linkId=HFKLUXOBXFIXVQX2) in the middle of October. I didn’t write about them then, but when I was at home on vacation at the end of the year they really were a wonderful piece of kit.
 
-I listen to a lot of podcasts, and now that I don’t have to be tethered to my phone via a cable, it has been great to roam around. I have been able to leave my phone in the center of my house and travel virtually anywhere inside and still connect.[\[1\]](#fn-1 "see footnote")
+I listen to a lot of podcasts, and now that I don’t have to be tethered to my phone via a cable, it has been great to roam around. I have been able to leave my phone in the center of my house and travel virtually anywhere inside and still connect.[^1]
 
 The earbuds come with 3 sizes of tips in 2 styles (memory foam and silicone), as well as 3 sizes of fins for a custom fit to your ear. It took a little while to figure out which ones worked the best, but once I figured it out, they have been very comfortable to wear all day. I used to own the Bose in-ear buds, and they are just as comfortable to wear. I also went and purchased a variety pack of memory foam earbuds at [Jaybird’s website](http://www.jaybirdsport.com/shop/); the comfort ear tips have been great for normal use. I also have enjoyed the isolation tips, which block out everything.
 
@@ -37,4 +37,4 @@ If you’ve been on the fence about Bluetooth earbuds, these are definitely wort
 
 * * *
 
-2. Your footage may vary… [ ↩](#fnref-1 "return to article")
+[^1]: Your footage may vary…

@@ -23,7 +23,7 @@ Drafts is probably the single most important app on my phone. I’m not sure tha
 
 Right now, the app is priced at $9.99 with no recurring payments, no in-app purchases — and it’s a steal at that price. I think that many users of the app would consider a couple bucks a month to be a fair price for ongoing development so that it stays around for a long, long time.
 
-Prior to [WWDC](https://developer.apple.com/wwdc/), the App Store announcement came for subscription-based apps; now, certain apps like productivity apps can charge for sustainable updates year after year.[\[1\]](#fn-1 "see footnote") Before, developers were forced to create a new app to charge a new amount. Many users and developers alike wanted to see upgrade pricing, but it seems like Apple does not want to see that come to iOS.
+Prior to [WWDC](https://developer.apple.com/wwdc/), the App Store announcement came for subscription-based apps; now, certain apps like productivity apps can charge for sustainable updates year after year.[^1] Before, developers were forced to create a new app to charge a new amount. Many users and developers alike wanted to see upgrade pricing, but it seems like Apple does not want to see that come to iOS.
 
 I think the subscription model might be a great thing for developers that want to provide cornerstone productivity apps to users, but also make a sustainable living off of them. So while this isn’t functionality that could be added to Drafts, what it would provide is the necessary means to provide new features going forward.
 
@@ -63,7 +63,7 @@ I would love to see this be user customizable. If you want your links to be red 
 
 ![](/images/Drafts-Passcode.jpeg)
 
-Much like Notes.app, it would be nice to bring security to Drafts. There are times that I have kept some personal information in a draft, or even something like a gift list for my wife. I don’t want her to see what I have in store for her, so the ability to do that on an as-needed basis would be great. Others might want Drafts itself to have a passcode as well. By no means a deal breaker, but it would be a nice added touch.[\[2\]](#fn-2 "see footnote")
+Much like Notes.app, it would be nice to bring security to Drafts. There are times that I have kept some personal information in a draft, or even something like a gift list for my wife. I don’t want her to see what I have in store for her, so the ability to do that on an as-needed basis would be great. Others might want Drafts itself to have a passcode as well. By no means a deal breaker, but it would be a nice added touch.[^2]
 
 ### External Keyboard Setting
 

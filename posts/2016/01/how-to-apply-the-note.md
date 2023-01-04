@@ -68,7 +68,7 @@ _If you have previously downloaded these actions, I recommend deleting the old a
 
 **Email Checklist**
 
-Checklists are very similar to Projects, but with one key distinction: tasks within a Project can have their own due/start dates, whereas tasks within Checklists cannot. For the [Email 2Do Checklist](https://drafts4-actions.agiletortoise.com/a/1f4) action to work, you need to have the items below the first line in a numbered list in order to capture the tasks within the checklist, so be mindful of that when formatting your note.[1](#fn-1 "see footnote") Also, using Email 2Do requires the use of the GTD Inbox for capturing incoming email; I suggest you read the [support article](http://www.2doapp.com/kb/article/learn-how-to-capture-emails-as-tasks.html) on 2Do’s website for full setup details of the feature.
+Checklists are very similar to Projects, but with one key distinction: tasks within a Project can have their own due/start dates, whereas tasks within Checklists cannot. For the [Email 2Do Checklist](https://drafts4-actions.agiletortoise.com/a/1f4) action to work, you need to have the items below the first line in a numbered list in order to capture the tasks within the checklist, so be mindful of that when formatting your note.[^1] Also, using Email 2Do requires the use of the GTD Inbox for capturing incoming email; I suggest you read the [support article](http://www.2doapp.com/kb/article/learn-how-to-capture-emails-as-tasks.html) on 2Do’s website for full setup details of the feature.
 
 ![Checklist Format](/images/Example-Checklist-Format.png)
 
@@ -80,7 +80,7 @@ I have some other actions that I still have in my Drafts Action List, but I do n
 
 If you have the GTD Inbox enabled in 2Do but do not have the Workflow for iOS, [this action](https://drafts4-actions.agiletortoise.com/a/1cu) is a good option. It takes a single task and places it in the Inbox. But now that I have the Tasks workflow that can handle one or more tasks, I don’t need this option.
 
-Now that I can use Siri to email my Task Assistant and send an individual task to myself with the Email 2Do feature, I don’t use Reminders integration to sync anymore with 2Do.[2](#fn-2 "see footnote") But for those who _do_ use Reminders integration, [this action](https://drafts4-actions.agiletortoise.com/a/1f5) is great for getting a list of tasks over. This also allows for the `|` delimiter, which in my experience, did not work all the time.
+Now that I can use Siri to email my Task Assistant and send an individual task to myself with the Email 2Do feature, I don’t use Reminders integration to sync anymore with 2Do.[^2] But for those who _do_ use Reminders integration, [this action](https://drafts4-actions.agiletortoise.com/a/1f5) is great for getting a list of tasks over. This also allows for the `|` delimiter, which in my experience, did not work all the time.
 
 ### Drafts Action Set
 
@@ -90,7 +90,6 @@ Now that I have all of these actions in Drafts, I created the [2Do… Action Set
 
 I’ve improved my routine by following the habitual writing of The Note every day. By utilizing my powerhouse trio of apps to automate my tasks, I can make the Note work for me as another tool in my productivity toolbox .
 
-* * *
+[^1]: Be sure to change the email in the Drafts Action.
 
-1. Be sure to change the email in the Drafts Action. [↩](#fnref-1 "return to article")
-2. I use Dropbox, which gives you full control over the feature set. [↩](#fnref-2 "return to article")
+[^2]: I use Dropbox, which gives you full control over the feature set.

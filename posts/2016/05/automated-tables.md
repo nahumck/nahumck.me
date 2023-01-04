@@ -15,7 +15,7 @@ When I write most anything, I’m writing in [MultiMarkdown](http://fletcherpenn
 
 (╯°□°）╯︵ ┻━┻
 
-The other day, there was a question posed in the Drafts channel in the AgileTortoise Slack group:[\[1\]](#fn-1 "see footnote")
+The other day, there was a question posed in the Drafts channel in the AgileTortoise Slack group:[^1]
 
 > I’d like to make an action to create a Markdown table that asks how many columns you want and then asks what to call each column (based one the number of columns you requested). Is this possible?
 
@@ -23,7 +23,7 @@ I thought about this for a little bit, and figured out that while [Drafts](https
 
 ### Table Format in MultiMarkdown
 
-If you aren’t familiar with creating tables in MultiMarkdown, I highly recommend that you review the [Syntax Cheat Sheet](https://rawgit.com/fletcher/human-markdown-reference/master/index.html). There are some helpful format tips for tables and more, which I will let you figure out on your own.[\[2\]](#fn-2 "see footnote")
+If you aren’t familiar with creating tables in MultiMarkdown, I highly recommend that you review the [Syntax Cheat Sheet](https://rawgit.com/fletcher/human-markdown-reference/master/index.html). There are some helpful format tips for tables and more, which I will let you figure out on your own.[^2]
 
 Example Table  
 | First Header | Second Header | Third Header |

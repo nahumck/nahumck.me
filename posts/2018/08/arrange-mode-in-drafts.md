@@ -21,10 +21,8 @@ But to my surprise, there was something I discovered when moving the lines aroun
 
 [![](/images/08B5AAB8-51D2-43D3-8A92-B152CF426D0A-925x1024.jpeg)](https://www.nahumck.me/wp-content/uploads/2018/08/08B5AAB8-51D2-43D3-8A92-B152CF426D0A.jpeg)
 
-This small, but powerful feature is well considered, even if it is hidden. It's a small delight that I found months after using the initial beta, and I'm so glad that I have.[1](#fn-1396-wonder)
+This small, but powerful feature is well considered, even if it is hidden. It's a small delight that I found months after using the initial beta, and I'm so glad that I have.[^1]
 
 Turns Out™, you learn something new every day.
 
-* * *
-
-2. Makes me wonder what other little features I've missed… [↩](#fnref-1396-wonder)
+[^1]: Makes me wonder what other little features I've missed…

@@ -33,16 +33,14 @@ When I first saw Rene's tweet, I knew he was being snarky. However, my first tho
 
 When you install it, you'll be prompted to input your first and last names: these items are required for the file name if you are going to email in the submission. Once you've entered that information, you can either run this as a stand alone shortcut or as an extension from the Photos app.
 
-The first part of the action checks to see if any images were input, and if not, prompts you to select an image; I've used this little block countless times in other shortcuts, and copied the same method here. Next, you'll be prompted for an image caption to go with the perfect #ShotOniPhone image. Then, the image will be given a new file name – which Apple requires for the email submission portion – using the dictionary items you were prompted for when first installing the shortcut and pulling the device type from the image metadata itself.[1](#fn-1557-suggested)
+The first part of the action checks to see if any images were input, and if not, prompts you to select an image; I've used this little block countless times in other shortcuts, and copied the same method here. Next, you'll be prompted for an image caption to go with the perfect #ShotOniPhone image. Then, the image will be given a new file name – which Apple requires for the email submission portion – using the dictionary items you were prompted for when first installing the shortcut and pulling the device type from the image metadata itself.[^1]
 
-Finally, there are a few options for submission: Twitter, Instagram, or email.[2](#fn-1557-weibo) You'll select which one you would like to choose, and follow the steps from there. (For the Instagram step, it is important to note that the caption is copied to the clipboard and you will have to manually paste it in caption area of the app.) Each method passes the image in its full resolution to the application of choice; I'd recommend email as the first submission, as Twitter and Instagram will likely compress the image.
+Finally, there are a few options for submission: Twitter, Instagram, or email.[^2] You'll select which one you would like to choose, and follow the steps from there. (For the Instagram step, it is important to note that the caption is copied to the clipboard and you will have to manually paste it in caption area of the app.) Each method passes the image in its full resolution to the application of choice; I'd recommend email as the first submission, as Twitter and Instagram will likely compress the image.
 
 [![](/images/ShotOniPhone-Shortcut-110x1024.png)](https://www.nahumck.me/wp-content/uploads/2019/01/ShotOniPhone-Shortcut.png)
 
 And that's it! This shortcut may seem complex, but it's really simple to run once you get it installed. Not only does it rename the photo for you, it also helps you submit your photo to the challenge. Now anyone can shoot and submit to this #ShotOniPhone Challenge, all from their iPhone. Turns Out™, you don't need a Mac to do it after all…
 
-* * *
+[^1]: This was suggested by [Thomas Verschoren](https://www.twitter.com/tverschoren), and I've updated the shortcut to reflect this. Thanks for the suggestion!
 
-2. This was suggested by [Thomas Verschoren](https://www.twitter.com/tverschoren), and I've updated the shortcut to reflect this. Thanks for the suggestion! [↩](#fnref-1557-suggested)
-
-4. Weibo is also a part of this, but I don't have the ability to add the action. So… maybe someone else can add it. [↩](#fnref-1557-weibo)
+[^2]: Weibo is also a part of this, but I don't have the ability to add the action. So… maybe someone else can add it.

@@ -11,7 +11,7 @@ permalink: "making-2do-lists-better/index.html"
 layout: "post"
 ---
 
-I’ve recently traveled a few times for personal trips with my family. It’s been really great to get away, and I’ve appreciated the time spent not working or stressing out about my house.[\[1\]](#fn-1 "see footnote")
+I’ve recently traveled a few times for personal trips with my family. It’s been really great to get away, and I’ve appreciated the time spent not working or stressing out about my house.[^1]
 
 I specifically made it a point for these trips to focus on the pre-travel things: packing, getting the house ready, and making sure that we left with everything and with no stress.
 
@@ -21,7 +21,7 @@ And while that worked, I really wish I had the new features that come with the r
 
 When I saw this in the beta, I thought it was awesome. It’s so easy to copy and paste a list of tasks. But what about projects? Those still required some manipulation. But if you use a tab key or several spaces, you can copy and paste projects. **This** is where things get interesting.
 
-The nomenclature needed is simple. If you want tasks to be a part of a project, you simply indent them under the parent project. You can also have multiple projects, or a mix of projects and tasks, like this:[\[2\]](#fn-2 "see footnote")
+The nomenclature needed is simple. If you want tasks to be a part of a project, you simply indent them under the parent project. You can also have multiple projects, or a mix of projects and tasks, like this:[^2]
 
 - Random Task
     - Powerlifting

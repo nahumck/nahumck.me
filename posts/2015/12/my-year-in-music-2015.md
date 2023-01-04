@@ -19,7 +19,7 @@ Picking a set of 5, let alone ranking them, was a tough task for me. I initially
 
 ### 1\. Steve Wilson - _Hand. Cannot. Erase._
 
-Steven Wilson has had a prolific career as a solo artist,composer, engineer and producer; he is the most well know for being the frontman for Porcupine Tree.[\[1\]](#fn-1 "see footnote") In so many ways, the artistry that he creates in his music defines the progressive genre that I love today. He can do so many things from the creation to the production; he owns the whole stack and is involved at every level, which shows through in his success.
+Steven Wilson has had a prolific career as a solo artist,composer, engineer and producer; he is the most well know for being the frontman for Porcupine Tree.[^1] In so many ways, the artistry that he creates in his music defines the progressive genre that I love today. He can do so many things from the creation to the production; he owns the whole stack and is involved at every level, which shows through in his success.
 
 As is a progressive music tradition, this is a concept album; one unique element is that it is told from a female perspective features several wonderful artists on the album, including Ninet Tayeb adding the female voice and the great Marco Minnemann on drums. The music itself has everything from jazz to light, airy music, from heavy rock riffs to pop rock hooks, odd time signatures, classic instruments, synthesizers — it really covers so much ground.
 
@@ -31,7 +31,7 @@ This is without doubt my hands-down favorite album of the year.
 
 #### 2\. Muse - _Drones_
 
-The power trio that is Muse gets back to their rock roots with _Drones_. This continues their concept album tradition of the last few releases.[\[2\]](#fn-2 "see footnote") But unlike their last two albums, this album hits harder and has resonated with me much more.
+The power trio that is Muse gets back to their rock roots with _Drones_. This continues their concept album tradition of the last few releases.[^2] But unlike their last two albums, this album hits harder and has resonated with me much more.
 
 I think one of the most relatable aspects of this for me is wrestling the feeling of being a human drone. Working a nine-to-five can make you feel that way, and it’s important to break free. Every time I hear this album, it reminds me to keep doing things to not fall into that mode.
 
@@ -41,7 +41,7 @@ Of all the Muse albums, this is my favorite — it’s phenomenal album from top
 
 #### 3\. God Is an Astronaut - _Helios / Erebus_
 
-I never knew God Is an Astronaut existed before I heard them as the weather segment on the [Welcome to Night Vale](https://geo.itunes.apple.com/us/podcast/welcome-to-night-vale/id536258179?&at=1001l4VZ&ct=nahumck_me) podcast.[\[3\]](#fn-3 "see footnote") They have been around for years, and they are known for their instrumental progressive sound.
+I never knew God Is an Astronaut existed before I heard them as the weather segment on the [Welcome to Night Vale](https://geo.itunes.apple.com/us/podcast/welcome-to-night-vale/id536258179?&at=1001l4VZ&ct=nahumck_me) podcast.[^3] They have been around for years, and they are known for their instrumental progressive sound.
 
 This album has gotten me through many days at work going through large Excel documents and standards. It’s a great album to use for the backing track of your day.
 
@@ -49,7 +49,7 @@ This album has gotten me through many days at work going through large Excel doc
 
 #### 4\. Puscifer - _Money Shot_
 
-I’m not sure that I’ve ever disliked a single thing that Maynard James Keenan has ever done.[\[4\]](#fn-4 "see footnote") About the only thing I could complain about MJK is that there isn’t a new Tool album yet, but hopefully that will be soon.
+I’m not sure that I’ve ever disliked a single thing that Maynard James Keenan has ever done.[^4] About the only thing I could complain about MJK is that there isn’t a new Tool album yet, but hopefully that will be soon.
 
 This album showcases the multi-faceted band and continues to push their sound, which sounds like it came directly out of the Grand Canyon itself - vast, mysterious, jagged, and magnificent. The whole band sounds settled, driven, and confident. The harmonies from MJK and Corina Round are powerful and amazing, while simultaneously haunting and melancholy. Their voices aren’t just lyrics, but emotion that plays like another layered instrument.
 
@@ -67,7 +67,7 @@ In December, I was very happy to see that my cousin, [Goldroom](http://goldroom.
 
 ### **Other Albums**
 
-Here are some other albums that I really like, but at the end of the day, don’t make it into my top 5 for various reasons:[\[5\]](#fn-5 "see footnote")
+Here are some other albums that I really like, but at the end of the day, don’t make it into my top 5 for various reasons:[^5]
 
 #### Elle King - _Love Stuff_
 
@@ -121,14 +121,12 @@ Personally, this year has been a great year of music for me. I cannot wait to se
 
 Did I miss some of your favorites? Feel free to let me know yours on [Twitter](https://www.twitter.com/nahumck) or via [email](mailto:tim@nahumck.me).
 
-* * *
+[^1]: Can we _please_ get a new album soon? It’s only been 6 years…article")
 
-2. Can we _please_ get a new album soon? It’s only been 6 years… [ ↩](#fnref-1 "return to article")
+[^2]: I apparently like concept albums.
 
-4. I apparently like concept albums. [ ↩](#fnref-2 "return to article")
+[^3]: See, native podcast ads can work.
 
-6. See, native podcast ads can work. [ ↩](#fnref-3 "return to article")
+[^4]: I have not tried the wine out of Arizona, but I’m going to say that he doesn’t do anything half-assed, so it would be great.
 
-8. I have not tried the wine out of Arizona, but I’m going to say that he doesn’t do anything half-assed, so it would be great. [ ↩](#fnref-4 "return to article")
-
-10. None of which I’m explaining here [ ↩](#fnref-5 "return to article")
+[^5]: None of which I’m explaining here

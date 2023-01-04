@@ -17,11 +17,11 @@ For example, I didn't want one that shed. Like, at all. But all it took was abou
 
 And another hour and a half later, along with a trip to the pet store, we had our puppy. He looked like a little Kodiak bear, and that's why we changed his name to **Koda**. He took a while to train, and I spend many nights in the living room on an air mattress helping him out every couple of hours to pee. After a while, he was all good. He kept growing, and as we soon found out, shed. A lot. Sometimes trash bags full of undercoat. So much for my insistence.
 
-But that quite literally was the only negative for him ever. He is the kindest dog ever. Just wants love. And bike rides where he would pull me at 16 miles an hour. As time went on, we took long walks, went to dog parks ()when that was a thing you could do), and he even made some really great dog friends that he was fond of.[1](#fn-2064-toomuch) He never had any issues, and was the lovable part of the family that brought joy into our lives.
+But that quite literally was the only negative for him ever. He is the kindest dog ever. Just wants love. And bike rides where he would pull me at 16 miles an hour. As time went on, we took long walks, went to dog parks ()when that was a thing you could do), and he even made some really great dog friends that he was fond of.[^1] He never had any issues, and was the lovable part of the family that brought joy into our lives.
 
 [![](/images/Happy-Koda-450x450.jpeg)](https://www.nahumck.me/wp-content/uploads/2021/05/Happy-Koda.jpeg)
 
-And then last October, we got the cancer diagnosis.[2](#fn-2064-cancer) Thankfully we found it when we did. We started some treatment, but the only real solution was a surgery, chemo, and radiation. And as much as I wanted to keep him around, I couldn't prolong his life without dignity. So we set a path to enjoy the time with him that we could. In November, we did a 5K with him. In December, I even did a 5 mile walk with him. Seemed like things were good. We did regular 4 mile walks in January, but then in February he couldn't go longer than 2 miles without falling way behind. In March, it was worse. then in April, it was less than a mile. He started not wagging his tail at times. He would half-sit to alleviate the pain he was feeling from the cancer, and you could see it in his face that he was suffering. He never yelped, never cried out. But you could tell it was there.
+And then last October, we got the cancer diagnosis.[^2] Thankfully we found it when we did. We started some treatment, but the only real solution was a surgery, chemo, and radiation. And as much as I wanted to keep him around, I couldn't prolong his life without dignity. So we set a path to enjoy the time with him that we could. In November, we did a 5K with him. In December, I even did a 5 mile walk with him. Seemed like things were good. We did regular 4 mile walks in January, but then in February he couldn't go longer than 2 miles without falling way behind. In March, it was worse. then in April, it was less than a mile. He started not wagging his tail at times. He would half-sit to alleviate the pain he was feeling from the cancer, and you could see it in his face that he was suffering. He never yelped, never cried out. But you could tell it was there.
 
 It's tough to make difficult decisions like this. Far too often, we make decisions based on our own needs/wants/desires and selfishly put ourselves over others. We want to hold on to things longer just so we don't lose them, so we don't have our feelings hurt, so that we feel better about everything. And when a difficult decision becomes the obvious one, it doesn't make it any less shitty.
 
@@ -31,10 +31,6 @@ I'm going to miss you forever, Koda…
 
 [![](/images/Koda-Resting-768x1024.jpeg)](https://www.nahumck.me/wp-content/uploads/2021/05/Koda-Resting-scaled.jpeg)
 
-* * *
+[^1]: A little too much, sometimes.
 
-2. A little too much, sometimes. [↩](#fnref-2064-toomuch)
-
-4. # FUCK cancer.
-    
-    [↩](#fnref-2064-cancer)
+[^2]: FUCK cancer.

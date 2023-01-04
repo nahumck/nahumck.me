@@ -15,7 +15,7 @@ My review of Drafts is out. But it's not here, not exactly anyway…
 
 [**Drafts 5: The MacStories Review**](https://www.macstories.net/reviews/drafts-5-the-macstories-review/)
 
-I reached out to Federico a year ago and asked if he had anyone slated to write the review.[1](#fn-1312-year) I suggested to him that I would like to write it for MacStories, that I would be happy to do so. It wasn't long before he responded "yes, let's do this".
+I reached out to Federico a year ago and asked if he had anyone slated to write the review.[^1] I suggested to him that I would like to write it for MacStories, that I would be happy to do so. It wasn't long before he responded "yes, let's do this".
 
 It was an amazing experience. As the production of the review progressed, that feeling only increased. The entire Team at MacStories has been delightful to work with, and I couldn't be happier than I am now with everything that has transpired over the past few months. It has been an honor to work with that team!
 
@@ -27,6 +27,4 @@ Thanks again to [Federico](https://mobile.twitter.com/viticci) and the team at M
 
 Thanks to all of you for reading!
 
-* * *
-
-2. I cannot believe that it has been a year. [↩](#fnref-1312-year)
+[^1]: I cannot believe that it has been a year.

@@ -23,4 +23,4 @@ This is not the future I want for my children. I hope and pray that things will 
 
 * * *
 
-2. Ok, I'm actually angry... [↩](#fnref-484-1)
+[^1]: Ok, I'm actually angry...

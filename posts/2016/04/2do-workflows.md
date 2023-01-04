@@ -37,8 +37,6 @@ Go forth and automate your productivity!
 
 _Update: I forgot that you will also need to have the [remove blank lines action](http://drafts4-actions.agiletortoise.com/a/1ar) installed for the Drafts actions to work. I did that in case I had multiple blank lines in the draft. Sorry this wasn’t included before._
 
-* * *
+[^1]: Say that 10x fast
 
-2. Say that 10x fast [↩](#fnref-538-1)
-
-4. The beauty of Workflow is that you can modify it to suit your needs based on a previous workflow. [↩](#fnref-538-2)
+[^2]: The beauty of Workflow is that you can modify it to suit your needs based on a previous workflow.

@@ -24,7 +24,7 @@ With the Drafts 4.6 update today, there are several new features as highlighted 
 - Open in Drafts option: this uses the Safari View Controller, and is great for using a search option, such as [DuckDuckGo](http://drafts4-actions.agiletortoise.com/a/16l).
 - Tag Helpers: an added keyboard row that gives you tag options when editing actions. Very useful.
 - Added Glyphs: this is something that I’ve personally wanted for a while. This update provides a lot more options for customization of your actions, and is very welcome going forward.
-- Include Action: gives you the ability to run actions/scripts within Actions.[1](#fn-1 "see footnote") This means you can create separate actions or scripts of a repeat nature that you can call into any action you create. For those that use a lot of scripts within Drafts, this is going to be huge.
+- Include Action: gives you the ability to run actions/scripts within Actions.[^1] This means you can create separate actions or scripts of a repeat nature that you can call into any action you create. For those that use a lot of scripts within Drafts, this is going to be huge.
 - And many more.
 
 ### **Include Action Step**
@@ -54,13 +54,12 @@ Step 4 utilizes the URL scheme of AnyList, which is `anylist://`.
 
 ![](/images/Grocery-Action.gif)
 
-Now that I have [the action](https://drafts4-actions.agiletortoise.com/a/1iJ) set up, I can run it on a list I have entered. My list is passed over, I hit send on the message to my wife[2](#fn-2 "see footnote"), and then I am automatically taken to AnyList. The items appear, and I can go on about my business.
+Now that I have [the action](https://drafts4-actions.agiletortoise.com/a/1iJ) set up, I can run it on a list I have entered. My list is passed over, I hit send on the message to my wife[^2], and then I am automatically taken to AnyList. The items appear, and I can go on about my business.
 
 I’ve also created one that doesn’t does message my wife, because I don’t always need to let her know. And of course, I made an [Action Set](https://www.nahumck.me/using-action-sets-drafts/) for both of them.
 
 Could I enter the items into AnyList directly? Sure could — if _I was an animal_. Instead, I can freely add them in one place as I think of them, and send them where I need them to go with the press of a button. This is a simple example of how you can include different actions, especially scripts, to automate and manipulate the text as you pass it along to the next app. It has saved me time ever since it was introduced in beta, now available to all of you.
 
-* * *
+[^1]: This doesn’t allow for running multiple URL actions.
 
-1. This doesn’t allow for running multiple URL actions. [↩](#fnref-1 "return to article")
-2. There is a limitation of iOS in this step. The system software does not allow for the automatic sending of a message. I would love to see this changed, but I’m not going to hold my breath here. [↩](#fnref-2 "return to article")
+[^2]: There is a limitation of iOS in this step. The system software does not allow for the automatic sending of a message. I would love to see this changed, but I’m not going to hold my breath here.

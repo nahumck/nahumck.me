@@ -14,7 +14,7 @@ Earlier this year I experimented with several task management systems (TMS) for 
 
 1. Programs
 2. Compliance Reports
-3. Mundane Reports [\[1\]](#fn-1 "see footnote")
+3. Mundane Reports [^1]
 4. Weekly Checklists
 
 And while each of these types have varying levels of importance and complexity, how I input them can be the same by using some powerhouse apps on iOS. Let me show you how I integrate [Drafts](https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8&at=1001l4VZ&ct=nahumck_me "Drafts"), [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&at=1001l4VZ&ct=nahumck_me "Workflow: Powerful Automation Made Simple"), and [2Do](https://geo.itunes.apple.com/us/app/2do/id303656546?mt=8&at=1001l4VZ&ct=nahumck_me "2Do") to help me input these projects with ease.
@@ -29,7 +29,7 @@ For most meetings, I’ll start off by creating a new Draft using the help of a 
 
 ![](/images/Tax-Meeting-Setup.png)
 
-After I have input the action items, I can select them and create a new Draft based on the selection by tapping the “+” in the upper left. Once these action items are in a new Draft, I can manipulate the text and format it into `Task` `|` `Notes`, using the `|` for a notes delimiter if I need to expand my thoughts on a given task.[\[2\]](#fn-2 "see footnote")
+After I have input the action items, I can select them and create a new Draft based on the selection by tapping the “+” in the upper left. Once these action items are in a new Draft, I can manipulate the text and format it into `Task` `|` `Notes`, using the `|` for a notes delimiter if I need to expand my thoughts on a given task.[^2]
 
 ![](/images/Tax-Actions.jpeg)
 
@@ -71,8 +71,6 @@ These workflows have allowed me to take notes from a meeting and turn them into 
 
 _Note: I’ve updated the actions and placed them all into one post. You can find that [here](https://www.nahumck.me/2do-workflows)_
 
-* * *
+[^1]: let’s call these TPS reports for now
 
-2. let’s call these TPS reports for now [ ↩](#fnref-1 "return to article")
-
-4. A delimiter is something that splits a line. This can be changed to suit your preferences, such as a comma [ ↩](#fnref-2 "return to article")
+[^2]: A delimiter is something that splits a line. This can be changed to suit your preferences, such as a comma

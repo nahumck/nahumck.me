@@ -12,9 +12,9 @@ layout: "post"
 
 ![Named Identifiers](/images/Drafts-Named-Identifiers.png)
 
-I wanted to share with you a quick tip on footnotes. I love using them in my posts, mainly because it’s how I talk.[\[1\]](#fn-1 "see footnote") I’ve implemented the use of [Bigfoot.js](http://www.bigfootjs.com/) footnotes in my site, and I’ve been happy about it ever since.
+I wanted to share with you a quick tip on footnotes. I love using them in my posts, mainly because it’s how I talk.[^1] I’ve implemented the use of [Bigfoot.js](http://www.bigfootjs.com/) footnotes in my site, and I’ve been happy about it ever since.
 
-Recently, I asked about how I can renumber footnotes in my writing when I use [Drafts as my text editor](https://www.nahumck.me/using-drafts-as-a-main-text-editor/). I had been using a [footnote key](http://drafts4-actions.agiletortoise.com/k/13Y) that [Greg Pierce](https://twitter.com/agiletortoise) created. On the surface, it seemed to be a simple key: it inserted a numbered footnote, and would give me the next number if I inserted another. And then I would have to re-order my footnotes & numbers before posting. And for someone that uses a lot of footnotes,[\[2\]](#fn-2 "see footnote") it’s a giant pain in the ass.
+Recently, I asked about how I can renumber footnotes in my writing when I use [Drafts as my text editor](https://www.nahumck.me/using-drafts-as-a-main-text-editor/). I had been using a [footnote key](http://drafts4-actions.agiletortoise.com/k/13Y) that [Greg Pierce](https://twitter.com/agiletortoise) created. On the surface, it seemed to be a simple key: it inserted a numbered footnote, and would give me the next number if I inserted another. And then I would have to re-order my footnotes & numbers before posting. And for someone that uses a lot of footnotes,[^2] it’s a giant pain in the ass.
 
 But what I was missing from the functionality of the key was that you can select _text_, and that selected text becomes a named identifier in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/), an offshoot of the original [Markdown](http://daringfireball.net/projects/markdown/syntax) format.[\[3\]](#fn-3 "see footnote")
 

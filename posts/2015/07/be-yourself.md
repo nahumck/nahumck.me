@@ -9,7 +9,7 @@ permalink: "be-yourself/index.html"
 layout: "post"
 ---
 
-As I’m creating this new space, I often think of what I can do to make it better for everyone reading. I want to create something successful, something that people will read, recommend, and eventually turn into some side income.[\[1\]](#fn-1 "see footnote") Finding success is why I set out to do this.
+As I’m creating this new space, I often think of what I can do to make it better for everyone reading. I want to create something successful, something that people will read, recommend, and eventually turn into some side income.[^1] Finding success is why I set out to do this.
 
 Except that it’s not.
 
@@ -33,6 +33,4 @@ That’s the toughest part for me: how do I define myself? I don’t yet know th
 
 You can find out how to order Aaron’s books on his [website](http://aaronmahnke.com/). Lore can be found in [iTunes](https://itunes.apple.com/us/podcast/lore/id978052928?mt=2&at=1001l4VZ) or on the [website](http://www.lorepodcast.com/).
 
-* * *
-
-2. with native ads, not the crazy insane banner adds that are everywhere [ ↩](#fnref-1 "return to article")
+[^1]: with native ads, not the crazy insane banner adds that are everywhere

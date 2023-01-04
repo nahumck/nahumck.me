@@ -15,7 +15,7 @@ At 6 am the following morning, he was awake with excitement. No one wanted this 
 
 The next 10 minutes changed my life.
 
-My morning commute was an average drive: 20 min of time, give or take some traffic. Leaving later means more traffic, but it also means that there is additional traffic from people coming home after working midnights from the assembly plants and other jobs. About 10 min into my drive, I made the left at the light I always do, and accelerated at the rate I normally did. I was following a large SUV, and I drive a sedan. Suddenly, out of no where, the SUV swerved onto the shoulder[\[1\]](#fn-1 "see footnote"), and I had no time…
+My morning commute was an average drive: 20 min of time, give or take some traffic. Leaving later means more traffic, but it also means that there is additional traffic from people coming home after working midnights from the assembly plants and other jobs. About 10 min into my drive, I made the left at the light I always do, and accelerated at the rate I normally did. I was following a large SUV, and I drive a sedan. Suddenly, out of no where, the SUV swerved onto the shoulder[^1], and I had no time…
 
 **SMASH!**
 
@@ -47,9 +47,9 @@ The doctors wanted to figure this out. They run some tests, blood work, a stress
 
 Until I decided to get an elective surgery. I had a painful varicose vane in my lower abdomen. Almost like a hernia, but not the same. I needed to have a simple outpatient procedure, one done at an outpatient surgical center and not at the hospital. And I’m sure that for most people, it would be just fine, no problems, and things would be good for them. But not for me. While the surgery itself was a success and I haven’t had pain since, I had a different yet familiar problem. When they were waking me up with my wife and dad with me, I turned an ashen grey — and my heart stopped. _Again._
 
-So, I was rushed back to the hospital for another 3-day stay. One more flatline as I was getting settled in the hospital. More blood work. More tests. A new doctor - an [electrophysiologist](https://en.wikipedia.org/wiki/Cardiac_electrophysiology) - would be a new addition to my team. As they said in the hospital, I was “famous”.[\[2\]](#fn-2 "see footnote") However, this hospital stay was different. My wife is a registered nurse and she started putting things together. She talked with my mom about her medical history, and there was a big revelation: my symptoms had happened before - to my mom. Years ago, my mom suffered similar symptoms — high blood pressure, feeling lethargic, anger — and it got even worse with severe fatigue and depression. I was starting to fall into the severe depression. After they finally figured it out, a surgery would cure her. My mom had thought before that this could have been the case, but nothing confirmed the suspicion, even though we checked several times before.
+So, I was rushed back to the hospital for another 3-day stay. One more flatline as I was getting settled in the hospital. More blood work. More tests. A new doctor - an [electrophysiologist](https://en.wikipedia.org/wiki/Cardiac_electrophysiology) - would be a new addition to my team. As they said in the hospital, I was “famous”.[^2] However, this hospital stay was different. My wife is a registered nurse and she started putting things together. She talked with my mom about her medical history, and there was a big revelation: my symptoms had happened before - to my mom. Years ago, my mom suffered similar symptoms — high blood pressure, feeling lethargic, anger — and it got even worse with severe fatigue and depression. I was starting to fall into the severe depression. After they finally figured it out, a surgery would cure her. My mom had thought before that this could have been the case, but nothing confirmed the suspicion, even though we checked several times before.
 
-So my new super-specialist ran tests. He ordered a new scan, this time going further down my body than when they did the CT for my accident.[\[3\]](#fn-3 "see footnote") And sure enough, after all the tests, pills, and labs they could possibly do, they found something wrong:
+So my new super-specialist ran tests. He ordered a new scan, this time going further down my body than when they did the CT for my accident.[^3] And sure enough, after all the tests, pills, and labs they could possibly do, they found something wrong:
 
 **_A tumor._**
 
@@ -69,14 +69,14 @@ Within a few months, I was off all my medications. No more high blood pressure. 
 
 So now that it’s been more than 4 years later, I need to remind myself of where I’ve been. There’s been a lot that has happened since that time, and getting through this allowed me to help with everything after. I need to remember how close things came, how I might not have seen my loved ones again. I need to see that life has changed for the better. How thankful I am to be lucky enough to find the right doctor that would listen to my wife and mom, and order the scan that confirmed it.
 
-I want to make sure that I’m living the fullest life that I can, for my wife and kids, so that I can be here to support them as long as I possibly can. I need to keep my health in check so that I can see both of my sons grow up.[\[4\]](#fn-4 "see footnote") Life is so unbelievably short. You may wake up on a seemingly benign day, and just go off to work like you normally do. And most of the time, you’ll come home. But remember that you also might not. If you love someone, let them know - and let them know often. Be thankful and appreciative of the little moments that you get with them — they are all important.
+I want to make sure that I’m living the fullest life that I can, for my wife and kids, so that I can be here to support them as long as I possibly can. I need to keep my health in check so that I can see both of my sons grow up.[^4] Life is so unbelievably short. You may wake up on a seemingly benign day, and just go off to work like you normally do. And most of the time, you’ll come home. But remember that you also might not. If you love someone, let them know - and let them know often. Be thankful and appreciative of the little moments that you get with them — they are all important.
 
 * * *
 
-1. illegally, I will add [ ↩](#fnref-1 "return to article")
+[^1]: illegally, I will add
 
-2. When speaking in these terms, this is far from a good thing [ ↩](#fnref-2 "return to article")
+[^2]: When speaking in these terms, this is far from a good thing
 
-3. If they would have scanned 6" more, they would have found the problem 9 months sooner. Thanks, insurance… [ ↩](#fnref-3 "return to article")
+[^3]: If they would have scanned 6" more, they would have found the problem 9 months sooner. Thanks, insurance…
 
-4. Likely faster thank I would like them to… [ ↩](#fnref-4 "return to article")
+[^4]: Likely faster thank I would like them to…

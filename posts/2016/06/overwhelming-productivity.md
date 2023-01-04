@@ -13,9 +13,9 @@ permalink: "overwhelming-productivity/index.html"
 layout: "post"
 ---
 
-As of late, I’ve been feeling overwhelmed with work, house, and home life; and this feeling has a negative impact to my productivity.[\[1\]](#fn-1 "see footnote") But, has it really? I feel like I’m not getting things done, but what’s the reality?
+As of late, I’ve been feeling overwhelmed with work, house, and home life; and this feeling has a negative impact to my productivity.[^1] But, has it really? I feel like I’m not getting things done, but what’s the reality?
 
-The reality is that I am not [Getting Things Done](http://www.amazon.com/dp/0143126563/?tag=nahumck-20), but what I’m doing is getting things **_accomplished_**. I might not always track what I am doing, but I’m getting a lot done. Work has been extremely busy as of late, and my day is often filled with fire-drill tasks that I barely have time to even write down.[\[2\]](#fn-2 "see footnote")
+The reality is that I am not [Getting Things Done](http://www.amazon.com/dp/0143126563/?tag=nahumck-20), but what I’m doing is getting things **_accomplished_**. I might not always track what I am doing, but I’m getting a lot done. Work has been extremely busy as of late, and my day is often filled with fire-drill tasks that I barely have time to even write down.[^2]
 
 Those that know me know how much I love being productive, all my workflow tips, and how I love my [task management system of choice](https://www.nahumck.me/move-your-thoughts-to-2do). But I’d be remiss if I didn’t tell you that at times, it seems like more work for me to track everything and that often has more negative effects on me than it should. My task management system falls apart because I’m not stopping to enter things with start times, due dates, tags, etc. While it’s nice to have a lot of that information, sometimes I just simply need to have a task that says:
 

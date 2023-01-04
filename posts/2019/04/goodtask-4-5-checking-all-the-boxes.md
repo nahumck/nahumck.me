@@ -21,7 +21,7 @@ GoodTask 4.5 brings with it the ability to sort a List or Smart List based on ta
 
 With the new tag options, I'm able to now recreate some of the features that Things provided which gives me a better view of my tasks in different views. It all stems from the ability to sort lists and smart lists using Tags first, then due dates, etc.
 
-I absolutely love the headings feature of Things. When I have a specific project, having the breakout of different subsections is better for my brain. And with the tag sorting, I can re-create this now in GoodTask. For example, I can take all of the tasks in my Nerd Life[1](#fn-1579-affectionate), apply the tags, and have the list sorted on them. While it may not be quite as pretty as the Things implementation, the capability in GoodTask allows me to break it down to key areas just the same.
+I absolutely love the headings feature of Things. When I have a specific project, having the breakout of different subsections is better for my brain. And with the tag sorting, I can re-create this now in GoodTask. For example, I can take all of the tasks in my Nerd Life[^1], apply the tags, and have the list sorted on them. While it may not be quite as pretty as the Things implementation, the capability in GoodTask allows me to break it down to key areas just the same.
 
 [![](/images/Nerd_Life_Things_GT-1024x988.png)](https://www.nahumck.me/wp-content/uploads/2019/04/Nerd_Life_Things_GT.png)
 
@@ -33,18 +33,16 @@ Another key feature of Things that I adore is the Today view. Having your tasks 
 
 For a while now, I've been wanting to see more [improvements to Reminders](https://www.nahumck.me/rethinking-reminders/), but lately I've been wanting improved support within Shortcuts. When I think of what I want Shortcuts to ultimately be, I can't help but want certain features added: for Reminders, having the ability to check off a task would be beneficial for certain shortcuts. So while we wait Shortcuts.app to catch up, GoodTask has added a Siri Shortcut to complete a task (and do so in the background). You'll need to go to Settings → Siri Shortcuts → Add Complete Task to get the Siri Shortcut and/or add it to Shortcuts.app.
 
-I'm getting old, so I take vitamins. I use a reminder to trigger this, so I don't forget. I took this one step further and created a shortcut to run on my iPhone which logs the vitamin intake – including all the breakdown of the various types of vitamins – into the Health app, as well as mark it in Streaks as complete to help me keep track of when I've taken it. I always thought it would be nice to complete the reminder as well, but I the lack of the feature has prevented it. But now, I can copy the exact title of the task (and it must be exact) for my vitamins, add a text block and some clipboard actions to save and retrieve,[2](#fn-1579-implementation) then add the GoodTask Complete Task action block; I also turned off the "Show When Run" option so that it runs seamlessly in the background.
+I'm getting old, so I take vitamins. I use a reminder to trigger this, so I don't forget. I took this one step further and created a shortcut to run on my iPhone which logs the vitamin intake – including all the breakdown of the various types of vitamins – into the Health app, as well as mark it in Streaks as complete to help me keep track of when I've taken it. I always thought it would be nice to complete the reminder as well, but I the lack of the feature has prevented it. But now, I can copy the exact title of the task (and it must be exact) for my vitamins, add a text block and some clipboard actions to save and retrieve,[^2] then add the GoodTask Complete Task action block; I also turned off the "Show When Run" option so that it runs seamlessly in the background.
 
 [![](/images/Vitamins_GT_Complete-228x450.png)](https://www.nahumck.me/wp-content/uploads/2019/04/Vitamins_GT_Complete.png)
 
-I use the native Reminders notifications due to the fact that they remain on the lock screen, but actions like the one outlined above have me rethinking that approach. GoodTask allows users to run a URL from the notification, which means I could run the shortcut straight from the notification and complete it all in one go. I'll likely look to play around with this as time goes on.[3](#fn-1579-breath)
+I use the native Reminders notifications due to the fact that they remain on the lock screen, but actions like the one outlined above have me rethinking that approach. GoodTask allows users to run a URL from the notification, which means I could run the shortcut straight from the notification and complete it all in one go. I'll likely look to play around with this as time goes on.[^3]
 
 The full list of improvements can be [found on the forums](https://forum.goodtaskapp.com/t/goodtask-4-5-update/157/3). Having been away for a while, I can see that there is a lot more to offer now with GoodTask than ever before. The developer is listening to suggestions, is adding features at a manageable pace, and I can really appreciate the level of continued development for the app.
 
-* * *
+[^1]: This is my own affectionate name for these things.
 
-2. This is my own affectionate name for these things. [↩](#fnref-1579-affectionate)
+[^2]: I wish they would fix this so that I can just use text and not have the extra blocks. Sigh.
 
-4. I wish they would fix this so that I can just use text and not have the extra blocks. Sigh. [↩](#fnref-1579-implementation)
-
-6. Perhaps with iOS 13 around the corner Reminders will be improved, or third-party app notifications will be given the ability to perform in the same manner as Reminders. But I won't hold my breath for either one. [↩](#fnref-1579-breath)
+[^3]: Perhaps with iOS 13 around the corner Reminders will be improved, or third-party app notifications will be given the ability to perform in the same manner as Reminders. But I won't hold my breath for either one.

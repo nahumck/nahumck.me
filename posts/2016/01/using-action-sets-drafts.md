@@ -25,7 +25,7 @@ I must admit, I had that problem for a while too. And while I haven’t gone the
 
 ### Action Sets
 
-Enter Action Sets.[\[1\]](#fn-1 "see footnote") I define an action set as a single Drafts action that presents a menu of actions to choose from, then runs that selected action with your current Draft.
+Enter Action Sets.[^1] I define an action set as a single Drafts action that presents a menu of actions to choose from, then runs that selected action with your current Draft.
 
 The developer, [AgileTortoise](http://www.agiletortoise.com), originally posted an action called “[Select Action](http://drafts4-actions.agiletortoise.com/a/112)” where he demonstrates the concept with 2 built-in actions how this can be used. It is a simple 2-step action:
 
@@ -37,7 +37,7 @@ The developer, [AgileTortoise](http://www.agiletortoise.com), originally posted 
 
 ![Select Action Set](/images/Select-Action-Set.png)
 
-At the time, I didn’t think much of it. But when I started realizing the power this had to clear up my action lists, I immediately started grouping my actions together in this way. The first time this started was with [Fantastical](https://geo.itunes.apple.com/us/app/fantastical-2-calendar-reminders/id718043190?at=1001l4VZ&ct=nahumck_me). I had 6 actions that I used with the app:[\[2\]](#fn-2 "see footnote")
+At the time, I didn’t think much of it. But when I started realizing the power this had to clear up my action lists, I immediately started grouping my actions together in this way. The first time this started was with [Fantastical](https://geo.itunes.apple.com/us/app/fantastical-2-calendar-reminders/id718043190?at=1001l4VZ&ct=nahumck_me). I had 6 actions that I used with the app:[^2]
 
 1. [Event](http://drafts4-actions.agiletortoise.com/a/1Om)
 2. [Events](http://drafts4-actions.agiletortoise.com/a/1Or)
@@ -70,8 +70,6 @@ The application of the Action Set is just one more example of how the most simpl
 
 Drafts 4 is a universal app and is currently 50% off in the App Store for [$4.99](https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1001l4VZ&ct=nahumck_me "Drafts").
 
-* * *
+[^1]: at least that’s what I’m calling them
 
-2. at least that’s what I’m calling them [ ↩](#fnref-1 "return to article")
-
-4. I did change the names, but included links to the original actions for your use. [ ↩](#fnref-2 "return to article")
+[^2]: I did change the names, but included links to the original actions for your use.

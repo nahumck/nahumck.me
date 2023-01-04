@@ -13,9 +13,9 @@ This past weekend was a typical weekend by any measure. The weather was hovering
 
 Friday evening, I opened up [2Do](https://geo.itunes.apple.com/us/app/2do/id303656546?at=1001l4VZ&ct=nahumck_me) to look at what I needed to get done over the weekend. I checked some things off, I added new tasks. It was shaping up to be a normal weekend.
 
-When Saturday morning hit, my youngest son, 3 1/2, got up when the sun, and he didn’t want to waste any time. We ate breakfast, I had my coffee, and we were ready for the day. My oldest son also got up and seemed surprisingly awake for a Saturday.[\[1\]](#fn-1 "see footnote") And just as I was about to look at my phone and take a look again at the list, I noticed a few other things I wanted to do.
+When Saturday morning hit, my youngest son, 3 1/2, got up when the sun, and he didn’t want to waste any time. We ate breakfast, I had my coffee, and we were ready for the day. My oldest son also got up and seemed surprisingly awake for a Saturday.[^1] And just as I was about to look at my phone and take a look again at the list, I noticed a few other things I wanted to do.
 
-This is where I deviated from my normal routine. Instead of pulling out my phone, adding the items to the list, and then planning out my day based on a focused list, I just kept my phone in my pocket, got us ready, and we went outside.[\[2\]](#fn-2 "see footnote")
+This is where I deviated from my normal routine. Instead of pulling out my phone, adding the items to the list, and then planning out my day based on a focused list, I just kept my phone in my pocket, got us ready, and we went outside.[^2]
 
 I didn’t focus on my tasks; I just saw things and did them. I cleaned out the front flower bed, which had a ton of leaves in it left over from the fall. My oldest mowed the grass to pick up all the leaves, with the help of my youngest using his trusty bubble mower. We washed both of the cars, and the youngest got completely soaked. They boys played with each other. We were having _fun_.
 

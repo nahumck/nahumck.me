@@ -25,7 +25,7 @@ In the upper right corner of the editor, there is a small triangle icon; when yo
 
 [![](/images/Syntax-Navigation-1024x673.png "Syntax navigation in Markdown, JavaScript, and TaskPaper")](https://www.nahumck.me/wp-content/uploads/2018/06/Syntax-Navigation.png) 
 
-Additionally, using the keyboard shortcut `⌘\`, you can use your external keyboard now to navigate your way through longer writing, coding, or task management projects. This implementation is much better than I could have ever programmed in an action, and it's great to see this type of behavior built into the application itself. As more syntax highlights come in the future, it will be nice to have [navigation](http://getdrafts.com/editor/navigation) along with them.[1](#fn-1354-syntax)
+Additionally, using the keyboard shortcut `⌘\`, you can use your external keyboard now to navigate your way through longer writing, coding, or task management projects. This implementation is much better than I could have ever programmed in an action, and it's great to see this type of behavior built into the application itself. As more syntax highlights come in the future, it will be nice to have [navigation](http://getdrafts.com/editor/navigation) along with them.[^1]
 
 ### Loading Modules
 
@@ -62,7 +62,7 @@ editor.activate();
 
 This loads the Writing workspace and extended row, and puts my Social action group to the side. I can use this module to create posts like this one or share a thought or tweet storm to Twitter. When I'm done writing, I can use the external keyboard to quickly switch modules into scripting or task management.
 
-I have even created some additional options in each one: if I'm on my iPad, my drafts list is shown on the side; on the iPhone, it hides the action drawer, presenting you with the editor activated. In some of the modules, I have also loaded different action groups based on the device I'm using. This gives me full control of what I do and where I share my writing, all with a single action; coupled with the use of keyboard shortcuts, this is now a powerful app-like switcher right inside Drafts. I even created a [Select Module](https://actions.getdrafts.com/a/1K5) action with select boxes to load modules when on my iPhone, which I have added to each of my action groups for faster switching.[2](#fn-1354-buttons) I have placed a duplicate action at the beginning of every action group so that I can switch modules on the fly, especially when on the iPhone. And I've thrown them into a [module action group](https://actions.getdrafts.com/g/1Jn), though I haven't made it an extended keyboard row option because I use the single action to switch on the iPhone and the keyboard shortcuts on the iPad.
+I have even created some additional options in each one: if I'm on my iPad, my drafts list is shown on the side; on the iPhone, it hides the action drawer, presenting you with the editor activated. In some of the modules, I have also loaded different action groups based on the device I'm using. This gives me full control of what I do and where I share my writing, all with a single action; coupled with the use of keyboard shortcuts, this is now a powerful app-like switcher right inside Drafts. I even created a [Select Module](https://actions.getdrafts.com/a/1K5) action with select boxes to load modules when on my iPhone, which I have added to each of my action groups for faster switching.[^2] I have placed a duplicate action at the beginning of every action group so that I can switch modules on the fly, especially when on the iPhone. And I've thrown them into a [module action group](https://actions.getdrafts.com/g/1Jn), though I haven't made it an extended keyboard row option because I use the single action to switch on the iPhone and the keyboard shortcuts on the iPad.
 
 ### Other Improvements
 
@@ -76,8 +76,6 @@ Another nice feature that has been added is the ability to assign tags after a s
 
 The small but useful changes and new features are another nice release for Drafts. The navigational improvements are absolutely fantastic for how you move through Drafts. I'm getting very close to never leaving the keyboard when I'm on the iPad. I love how fast I'm able to switch through modules now, providing different the various different mini-apps at my fingertips to productively get everything done.
 
-* * *
+[^1]: The navigation feature is based on the syntax highlighting. When customizable options come in a future update, you'll be able to specify the navigation as well.
 
-2. The navigation feature is based on the syntax highlighting. When customizable options come in a future update, you'll be able to specify the navigation as well. [↩](#fnref-1354-syntax)
-
-4. I also have one for buttons, which saves a tap. I do like the idea of "loading" a module, which is why I went with select boxes with a single "Load" button. Yes, I'm nerdy. [↩](#fnref-1354-buttons)
+[^2]: I also have one for buttons, which saves a tap. I do like the idea of "loading" a module, which is why I went with select boxes with a single "Load" button. Yes, I'm nerdy.

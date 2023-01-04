@@ -29,7 +29,7 @@ Before you toss this idea aside, realize what I’ve done on my computer phone:
 - Started my website, including the domain names and hosting
 - Made two different themes for my site, while learning to code in HTML
 - Written thousands of words in over 30 posts
-- Converted a [post to an ePub](https://www.nahumck.me/move-your-thoughts-to-2do "Move Your Thoughts to 2Do") in under an hour[\[1\]](#fn-1 "see footnote")
+- Converted a [post to an ePub](https://www.nahumck.me/move-your-thoughts-to-2do "Move Your Thoughts to 2Do") in under an hour[^1]
 - Created [my own journaling solution](https://www.nahumck.me/rolling-your-own "Rolling Your Own")
 - Created and saved audio/songs
 - Created logos using vector graphics
@@ -44,7 +44,7 @@ I know what you’re probably thinking: just get an iPad Pro with a Smart Keyboa
 
 There are two iPads with the Pro moniker available, which essentially are just two different screen sizes; I think I would get the 12.9" screen size if I had to choose, as that felt the most comfortable when I was recently in the Apple Store. At this point, it is essentially a portable laptop, and can do many of the functions thrown at it. It even has an advantage if you get the LTE version, because you can connect anywhere you get service and don’t have to worry about finding a place with wifi.
 
-I can see that working on that size of a device is appealing. I can see where the extra screen real estate allows you to see more of what you are doing. Apps like [Ulysses](https://geo.itunes.apple.com/us/app/ulysses-mobile/id950335311?at=1001l4VZ&ct=nahumck_me "Ulysses Mobile") are better suited for split screen support; on one side you can have Ulysses, on the other Safari for researching.[\[2\]](#fn-2 "see footnote")
+I can see that working on that size of a device is appealing. I can see where the extra screen real estate allows you to see more of what you are doing. Apps like [Ulysses](https://geo.itunes.apple.com/us/app/ulysses-mobile/id950335311?at=1001l4VZ&ct=nahumck_me "Ulysses Mobile") are better suited for split screen support; on one side you can have Ulysses, on the other Safari for researching.[^2]
 
 I might even be happier with two devices: a small portable phone, and a large screen iPad with everything else. I can envision a future with a 4“ iPhone, a larger Apple Watch, and a 12.9” iPad Pro.[\[3\]](#fn-3 "see footnote")
 

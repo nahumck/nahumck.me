@@ -81,7 +81,7 @@ First, you need to have that action installed. Then, you need to go to your exte
 
 Now all you need to do in the future is highlight the selected text, then press the key above your keyboard to search. While this only saves you a swipe when you’re using just your device, this can be sped up if you have an external keyboard by not taking your hands off of it.
 
-Another thing running an action can allow is previews. I have a preview for my site that allows me to see how it will look once published. I can catch a lot of formatting errors this way, and has been extremely useful. How did I do it? I talked to someone about it and they offered help. If you know how to make CSS, then you should be able to make it from your site.[\[1\]](#fn-1 "see footnote") I have a key that runs the “Preview…” action, and allows me to select from a number of different previews; I also have a shortcut key of `⌘ + Shift + P` to quickly call it up when using my Bluetooth keyboard.
+Another thing running an action can allow is previews. I have a preview for my site that allows me to see how it will look once published. I can catch a lot of formatting errors this way, and has been extremely useful. How did I do it? I talked to someone about it and they offered help. If you know how to make CSS, then you should be able to make it from your site.[^1] I have a key that runs the “Preview…” action, and allows me to select from a number of different previews; I also have a shortcut key of `⌘ + Shift + P` to quickly call it up when using my Bluetooth keyboard.
 
 A few other keys that I have found useful are all based on the [smart parentheses](http://drafts4-actions.agiletortoise.com/k/14b) created by Greg Pierce that puts in, you guessed it, “smart” parentheses: this inserts an open parenthesis if none are present, closes them if you have an open parenthesis, or — and this is the best part — wraps selected text in parentheses. There is also a [smart bracket](http://drafts4-actions.agiletortoise.com/k/14c) key that uses the same script, but calls the open and close brackets.
 
@@ -117,7 +117,7 @@ The real difference in Create vs Replace is in how I tell the action step to beh
 
 ![](/images/Drafts-Text-Editor-Create-Replace.jpeg)
 
-Didn’t like the section you just added? Want to pull from a different version? No problem. To create a draft from a file in Dropbox, simply tap on the “+” button, select Dropbox, and locate your file. You won’t be working in the active file, but this is OK. It allows you to edit without having to worry about affecting what is in the cloud. When you’re ready to put the version back, because I’ve kept the first line as the title by using the `[[draft]]` tag, I’m able to re-use it again to save the file.[\[2\]](#fn-2 "see footnote")
+Didn’t like the section you just added? Want to pull from a different version? No problem. To create a draft from a file in Dropbox, simply tap on the “+” button, select Dropbox, and locate your file. You won’t be working in the active file, but this is OK. It allows you to edit without having to worry about affecting what is in the cloud. When you’re ready to put the version back, because I’ve kept the first line as the title by using the `[[draft]]` tag, I’m able to re-use it again to save the file.[^2]
 
 [Create Post Version](https://drafts4-actions.agiletortoise.com/a/1j3) [Replace Post Version](https://drafts4-actions.agiletortoise.com/a/1j4)
 

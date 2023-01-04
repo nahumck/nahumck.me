@@ -34,8 +34,6 @@ In the change of microphone, the weight has decreased significantly. And now tha
 
 * * *
 
-All of this stuff is really driving towards making an iPad-only life a reality. There's really only one thing preventing me from going that route forever,[1](#fn-1450-1) and I can't wait until Apple makes it possible. I even picked up an [iPad stand](https://amzn.to/2N82JYK) based on another recommendation, pairing the iPad with the Magic Keyboard when recording. This puts the iPad right at eye level, which is better than constantly looking down. The whole thing feels like an overhaul for me, without costing me a ton of money; the only purchase left is the [Zoom H4](http://www.amazon.com/dp/B01ALPUFYO/?tag=nahumck-20) recorder, which I can wait on for a while. This setup – even though it may not seem simpler – makes me feel like I'm headed in the right direction.
+All of this stuff is really driving towards making an iPad-only life a reality. There's really only one thing preventing me from going that route forever,[^1] and I can't wait until Apple makes it possible. I even picked up an [iPad stand](https://amzn.to/2N82JYK) based on another recommendation, pairing the iPad with the Magic Keyboard when recording. This puts the iPad right at eye level, which is better than constantly looking down. The whole thing feels like an overhaul for me, without costing me a ton of money; the only purchase left is the [Zoom H4](http://www.amazon.com/dp/B01ALPUFYO/?tag=nahumck-20) recorder, which I can wait on for a while. This setup – even though it may not seem simpler – makes me feel like I'm headed in the right direction.
 
-* * *
-
-2. I need a way to upload external mp3 files into my iCloud Music library. I can only do this in iTunes on the Mac currently, and I don't want to spend $$$ on a new one. [↩](#fnref-1450-1)
+[^1]: I need a way to upload external mp3 files into my iCloud Music library. I can only do this in iTunes on the Mac currently, and I don't want to spend $$$ on a new one. [↩](#fnref-1450-1)
