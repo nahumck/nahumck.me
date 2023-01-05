@@ -58,6 +58,13 @@
             <div id="content" class="site-content">
                 <div id="primary" class="content-area">
                     <main id="main" class="site-main" role="main" data-pagefind-body>
+                        {% if hidetitle %}
+                        {% else %}
+                            <header class="entry-header">
+                                <h1 class="entry-title" title="title">{{ title }}</h1>
+                            </header>
+                        {% endif %}
+
                         {{ content | safe }}
                     </main>
                 </div>
