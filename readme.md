@@ -10,11 +10,12 @@ Posts go in `/posts` and need the following at the top:
 ---
 title: A Title
 permalink: a-title/index.html
+date: 2023-01-05
 layout: post
 ---
 ```
 
-Same with standalone pages, but set the layout to `base` instead of `post`
+Same with standalone pages, but set the layout to `base` instead of `post`. Standalone pages don't need `date`.
 
 Footnotes are supported as usual.
 
