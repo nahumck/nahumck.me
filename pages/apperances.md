@@ -4,9 +4,6 @@ layout: base
 permalink: appearances/index.html
 ---
 
-Appearances
-===========
-
 Podcasts
 --------
 
