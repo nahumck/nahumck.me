@@ -448,3 +448,13 @@ figcaption {
     display: flex;
     justify-content: space-between;
 }
+
+.widget.widget_search {
+    max-width: 600px;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+
+.widget.widget_search input {
+    background-color: white;
+}
