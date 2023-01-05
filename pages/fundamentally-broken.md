@@ -1,5 +1,5 @@
 ---
-title: xxx
+title: Fundamentally Broken Archive
 layout: base
 permalink: fundamentally-broken-archive/index.html
 ---
