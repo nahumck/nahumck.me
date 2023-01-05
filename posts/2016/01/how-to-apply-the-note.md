@@ -42,13 +42,13 @@ Below are some of the actions that I use in getting my Note into 2Do, using Draf
 
 I use two similar workflows to create tasks and projects in 2Do, passing text through workflow. The text passed into a variable that can be used to split the lines into tasks, and each line can be separated by the `|` delimiter.
 
-![Task Workflow Action](/images/Task-Workflow-Action.png) _You can see the full workflow image [here.](https://www.nahumck.me/wp-content/uploads/2016/01/Task-Workflow-Full.png)_
+![Task Workflow Action](/images/Task-Workflow-Action.png) _You can see the full workflow image [here.](/images/Task-Workflow-Full.png)_
 
 You can download the actions needed for  Tasks(Drafts→WF→2Do) to work here: [Install Workflow](https://workflow.is/workflows/cb0e400ed8404378af7046a4c69d447d) [Install Drafts Action](https://drafts4-actions.agiletortoise.com/a/1fg)
 
 Projects is similar, but has a unique method for saving the project, then the subsequent lines as tasks. Using Workflow allows the use of 2-variable storage when passing to 2Do , made possible by Extensions in iOS: text from the first line can first be copied in the system clipboard, which gets saved as a variable in Workflow; the rest of the text can be passed via extensibility into a variable for processing.
 
-![Project Workflow Action](/images/Project-Workflow-Action.png) _You can see the full workflow image [here.](https://www.nahumck.me/wp-content/uploads/2016/01/Project-Workflow-Full.png)_
+![Project Workflow Action](/images/Project-Workflow-Action.png) _You can see the full workflow image [here.](/images/Project-Workflow-Full.png)_
 
 You can download the actions needed for Projects(Drafts→WF→2Do) to work here: [Install Workflow](https://workflow.is/workflows/14d4027d83654e0499e016272d79fcd9) [Install Drafts Action](https://drafts4-actions.agiletortoise.com/a/1ff)
 

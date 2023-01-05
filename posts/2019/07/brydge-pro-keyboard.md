@@ -10,13 +10,13 @@ permalink: "brydge-pro-keyboard/index.html"
 layout: "post"
 ---
 
-[![](/images/2C28A251-CED0-4CAD-98F9-D079C61D49F3-1024x576.jpeg)](https://www.nahumck.me/wp-content/uploads/2019/07/2C28A251-CED0-4CAD-98F9-D079C61D49F3.jpeg)
+[![](/images/2C28A251-CED0-4CAD-98F9-D079C61D49F3-1024x576.jpeg)](/images/2C28A251-CED0-4CAD-98F9-D079C61D49F3.jpeg)
 
 When I purchased iPad Pro 11", I immediately bought the [Smart Keyboard Folio](http://www.amazon.com/dp/B07JZYSTNR/?tag=nahumck-20) (SKF, as I refer to it).[^1] At the time, this was the best – and only – keyboard option made specifically for the iPad Pro. I needed something that wasn't heavy, something portable, and something versatile. Over time, some of those needs have changed, and I've added a few more use cases that might not be best satisfied by the SKF. So when the Brydge Pro keyboards were announced, I was intrigued about the possibility of that option. I reached out to the team at Brydge, who were kind enough to send me an [11" Brydge Pro keyboard](http://www.amazon.com/dp/B07MTSF94C/?tag=nahumck-20) review unit to try out.
 
 The unboxing experience is very akin to Apple: everything has a purpose, it's very clean, and well considered. In the box, you get the keyboard, a USB-C to USB-C cable, and the back panel. I like the inclusion of the back panel for most situations. While I do like this for when I'm carrying it around in a bag, I found that it didn't always fit as well as I would have liked; there might be an improvement in the tolerancing of the part that could help. I also found that a few times, I would slide the Brydge towards me on a table, and the back panel would catch on the bottom edge and want to come off. When you use it in tablet mode – the mode where you can write on it with the pencil – it does prevent it from folding fully flat; you'll have to set it off to the side to use it in that way. There's just no room for the back panel in that device sandwich. It just feels odd to throw that to the side when you want to use it in this way.
 
-[![](/images/47D65602-BE6B-4DC9-9234-460E096678E8-450x253.jpeg "Brydge Pro in tablet mode")](https://www.nahumck.me/wp-content/uploads/2019/07/47D65602-BE6B-4DC9-9234-460E096678E8.jpeg) 
+[![](/images/47D65602-BE6B-4DC9-9234-460E096678E8-450x253.jpeg "Brydge Pro in tablet mode")](/images/47D65602-BE6B-4DC9-9234-460E096678E8.jpeg) 
 
 The keyboard itself is a Bluetooth keyboard, and utilizes a USB-C cable to charge. You can even charge the keyboard from your iPad Pro if you're running out of power. Out of the box, the keyboard had about 78% power, which was great to get me started. It took about 5 days for the battery to run down to where I wanted to charge it again, likely due to the backlit keys. I have found that if you're doing a lot of typing with the keyboard lit, you're going to drain it a lot faster.
 

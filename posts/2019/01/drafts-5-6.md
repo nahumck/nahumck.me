@@ -11,7 +11,7 @@ permalink: "drafts-5-6/index.html"
 layout: "post"
 ---
 
-[![](/images/D56-Hero-1024x743.png)](https://www.nahumck.me/wp-content/uploads/2019/01/D56-Hero.png)
+[![](/images/D56-Hero-1024x743.png)](/images/D56-Hero.png)
 
 Last week, [Drafts](https://itunes.apple.com/us/app/drafts-5-capture-act/id1236254471?mt=8&uo=4&at=1001l4VZ) released version [5.6](https://forums.getdrafts.com/t/drafts-5-6-0-released/3604). While it is not as big as some of the other releases before it, it does bring some important enhancements to the app.
 
@@ -37,7 +37,7 @@ What I ended up arriving at was this: I can keep one or two active drafts in the
 
 I first borrowed from some of my previous scripts to ensure that I was saving things with the correct title. To save the file with that name, I used a file action step, set the folder location to `/Draft Posts/` and set the content as `[[draft]]`. Once [this action](https://actions.getdrafts.com/a/1SZ) is run, the draft is then deleted from my draft list to keep it uncluttered.
 
-[![](/images/D56-Select-File-Action-1024x743.png)](https://www.nahumck.me/wp-content/uploads/2019/01/D56-Select-File-Action.png)
+[![](/images/D56-Select-File-Action-1024x743.png)](/images/D56-Select-File-Action.png)
 
 The [next action](https://actions.getdrafts.com/a/1SY) was much more difficult to create. Within the updated objects, I can pull out the path locations to files located in a specified folder. With a little script magic, I can turn those file paths into readable display names to choose from in a prompt; this will work with all of the files in the directory. Once I have the selected name, I can load that file into Drafts, tag it with my `writing` tag which automatically places the file into my Writing module, and I can start writing; I also used an "Include Action" step to load my Writing module to bring up my entire writing environment with one tap.
 

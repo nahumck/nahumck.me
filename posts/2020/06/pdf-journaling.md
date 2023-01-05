@@ -35,7 +35,7 @@ For entries or even quick hits, I have several shortcuts which can add data to m
 
 Along with the data, I can add a few other file types that might be relevant for me: audio recordings, photos, and files. These don't save the files into Drafts, which does not support them, but rather provides Markdown-formatted links to the files for use later. I occasionally will do an audio file to capture something that's more nuanced than text. Similarly, I might need to reference a file later and having the option here helps as well. It may seem weird that I have files linked to a journal, but, well… it's _my_ journal.
 
-[![](/images/Journal-and-PDF-SbS-1024x747.png "A journal entry in Drafts on the left, as a PDF in Shortcuts on the right.")](https://www.nahumck.me/wp-content/uploads/2020/06/Journal-and-PDF-SbS.png) 
+[![](/images/Journal-and-PDF-SbS-1024x747.png "A journal entry in Drafts on the left, as a PDF in Shortcuts on the right.")](/images/Journal-and-PDF-SbS.png) 
 
 Now that I have everything in place, rather than save the text, I realized I just want to be able to view the final product after it's completed for the day. For a while, I was saving plain text and viewing it later via a quick look action, but I ultimately just want the rendered journal entry. This sent me down the path to creating a way to save a PDF of the document, along with rendered images and links to the audio recordings and files for later consumption.
 
@@ -69,7 +69,7 @@ To save my entires, I have a shortcut that is kicked off from Drafts. It accepts
 
 So, I'm sure you're wanting to see these actions. But, I'm not sharing them right now. Not because I'm trying to be mean and withhold them, but they change very frequently; I'm tweaking them so often that during the time I started writing to the time I'm going to hit publish on this post, it will have changed no less than 4 times.[^7] These actions are pretty simple to create, aside from the JavaScript I already shared. The image below will help guide you through some of the Shortcuts. I'm thinking about sharing them at some point,[^8] but for now you'll just have to steal inspiration and create them yourself.
 
-[![](/images/Journaling-File-Saving-Shortcuts.png)](https://www.nahumck.me/wp-content/uploads/2020/06/Journaling-File-Saving-Shortcuts.png)
+[![](/images/Journaling-File-Saving-Shortcuts.png)](/images/Journaling-File-Saving-Shortcuts.png)
 
 Compared to what I originally started with and even my "upgraded" solution along the way, this new solution is so much better for me and the way I want to keep my journal. I'm even going back through my journal entries, fixing some image and file links, and will be saving those out as a PDF as well.
 

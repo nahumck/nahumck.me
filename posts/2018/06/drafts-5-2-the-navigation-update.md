@@ -11,7 +11,7 @@ permalink: "drafts-5-2-the-navigation-update/index.html"
 layout: "post"
 ---
 
-[![](/images/D5-Nav-Hero.png)](https://www.nahumck.me/wp-content/uploads/2018/06/D5-Nav-Hero.png)
+[![](/images/D5-Nav-Hero.png)](/images/D5-Nav-Hero.png)
 
 I really like seeing the pace of [Drafts](https://itunes.apple.com/us/app/id1236254471?at=1001l4VZ) development. I can't remember exactly where I heard [Greg](https://twitter.com/agiletortoise) talk about it, but with the subscription model, he no longer has to wait a long period of time for big updates to drop new features; the releases can be done quickly, with focused changes in each one. This is great for him, and even better for users. Like the [previous point release](https://www.nahumck.me/drafts-5-dot-1-update/), the [5.2](https://forums.getdrafts.com/t/drafts-5-2-released/1539) update includes updates that provide better functionality within the app.
 
@@ -23,7 +23,7 @@ Well, I'm happy to say that I have been [Sherlocked](https://www.urbandictionary
 
 In the upper right corner of the editor, there is a small triangle icon; when you tap the icon, you are presented with a navigation menu. Not only does this navigate headers in Markdown, but it also navigates projects in TaskPaper, and code blocks in JavaScript. It also include a top and bottom button, as well as a select all button.
 
-[![](/images/Syntax-Navigation-1024x673.png "Syntax navigation in Markdown, JavaScript, and TaskPaper")](https://www.nahumck.me/wp-content/uploads/2018/06/Syntax-Navigation.png) 
+[![](/images/Syntax-Navigation-1024x673.png "Syntax navigation in Markdown, JavaScript, and TaskPaper")](/images/Syntax-Navigation.png) 
 
 Additionally, using the keyboard shortcut `⌘\`, you can use your external keyboard now to navigate your way through longer writing, coding, or task management projects. This implementation is much better than I could have ever programmed in an action, and it's great to see this type of behavior built into the application itself. As more syntax highlights come in the future, it will be nice to have [navigation](http://getdrafts.com/editor/navigation) along with them.[^1]
 
@@ -66,7 +66,7 @@ I have even created some additional options in each one: if I'm on my iPad, my d
 
 ### Other Improvements
 
-[![](/images/Trusted_Tested-Action-Directory-450x310.png)](https://www.nahumck.me/wp-content/uploads/2018/06/Trusted_Tested-Action-Directory.png)
+[![](/images/Trusted_Tested-Action-Directory-450x310.png)](/images/Trusted_Tested-Action-Directory.png)
 
 Speaking of sharing actions, there have been a few new elements added in the [Action Directory](http://actions.getdrafts.com/). There are two new visual indicators: trusted member and tested action. These indications give users confidence that the actions listed have come from trusted sources and that they do not contain any errors. When I refer to errors here, I am not speaking about programming knowledge and efficiencies. It specifically refers to the result of the action and that it won't damage any of your data. This will be handled by the developer on a case-by-case basis: after all, this is Agile Tortoise's app, and they need to make these decisions for their app and business.
 

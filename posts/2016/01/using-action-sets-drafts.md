@@ -64,7 +64,7 @@ I currently have 4 Action Lists in my current Drafts setup. I don’t have Actio
 
 ![Action Lists](/images/Drafts-Action-Lists.png)
 
-If you need another reason to set up Action Lists & Sets: look at [this picture](https://www.nahumck.me/wp-content/uploads/2016/01/Drafts-Mega-Action-List.png) for the individual actions I have in Drafts in one long list. (Warning: it’s a long list.) It’s a lot to scroll through, and I much prefer the lists I have set up.
+If you need another reason to set up Action Lists & Sets: look at [this picture](/images/Drafts-Mega-Action-List.png) for the individual actions I have in Drafts in one long list. (Warning: it’s a long list.) It’s a lot to scroll through, and I much prefer the lists I have set up.
 
 The application of the Action Set is just one more example of how the most simple looking text editors available is really one of the most powerful automation apps on iOS.
 
