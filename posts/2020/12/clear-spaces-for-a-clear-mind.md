@@ -37,7 +37,7 @@ My widget layout has changed a little since the summer betas. I use 4 small widg
 
 **Health**: I'm doing my best to be better, I really am. To help me improve, I'm using [FoodNoms](https://apps.apple.com/us/app/foodnoms-food-tracker/id1479461686?uo=4&at=1001l4VZ) for food tracking, [Fitbod](https://apps.apple.com/us/app/fitbod-workout-fitness-plans/id1041517543?uo=4&at=1001l4VZ) for my workouts, monitoring my rings with Activity, and keeping my diet steady in a shared note with my girlfriend for our meal plan.
 
-**Productivity**: I have 2 different Drafts widgets and 2 Shortcuts widgets. For Drafts, the first widget is for my workspaces and a few quick actions for adding tasks/drafts or searching. The second widget is a few of the same actions, but adds a few additional actions I use from the widget. I've been set on these for a while, but I have some plans to change them.[1](#fn-1950-later)
+**Productivity**: I have 2 different Drafts widgets and 2 Shortcuts widgets. For Drafts, the first widget is for my workspaces and a few quick actions for adding tasks/drafts or searching. The second widget is a few of the same actions, but adds a few additional actions I use from the widget. I've been set on these for a while, but I have some plans to change them.[^1]
 
 With all of the widgets, they center around an idea of having a clean Home Screen. It's something that I've always enjoyed. But I also like having a productive screen as well, and this method gives me the best of both worlds. In all of the widgets, Clear Spaces is at or near the center of the stack to allow for quick swiping up and down to get to a different layout. As I go through my day, I may change the app that's there to give me a visual cue to focus. I might keep my task manager on work rather than my personal when I need to focus up on work things. I might keep FoodNoms on the screen to make sure I'm keeping track of my food intake, but I'm a quick swipe away to my meal plan so I can know what's ahead for dinner. But as I get through different aspects of my day, I always swipe to the Clear Spaces widget in the stack to have a clear Home Screen, almost like checking off a task. When I'm done with that particular area of focus for the day, it can simply go away. And the next day, I wake up and swipe my widget back in like it's March 294th.
 
@@ -47,6 +47,4 @@ I'm sure that there will be changes over time, but I'm really happy with my curr
 
 But for now, I'm using widgets and Home Screen shortcuts to have more power when I need it. And when I don't, I can simply swipe away widgets to create a clear space for my clear mind. I've been more mindful of my day, and I think this new Home Screen layout has something to do with it. It just might work for you too.
 
-* * *
-
-1. More on that in a different post. [↩](#fnref-1950-later)
+[^1]: More on that in a different post.

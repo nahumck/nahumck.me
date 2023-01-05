@@ -11,7 +11,7 @@ layout: "post"
 
 Today is a day that will change my life forever. It's a culmination of a bunch of events that have happened to me over the past few years. And for all that is going wrong with the world on a macro level, my micro-world has been full of great things. But I'm getting ahead of myself. To tell you where things are and where they're going, I have to take you back…
 
-Several years ago, things weren't going well in my life; it was a mess, and everything was stressful in all the wrong ways. **Life needed to change**. So, I started making changes to improve things for my family and myself. It was a difficult path,[1](#fn-2002-divorce) and something I thought I'd never recover from. Of course, those around me – specifically my family – would often remind me that things would get better with time; the pain that I was feeling and had been feeling would be temporary, and life would improve for me. At the time, I was in a deep dark hole and didn't know how life would get better.
+Several years ago, things weren't going well in my life; it was a mess, and everything was stressful in all the wrong ways. **Life needed to change**. So, I started making changes to improve things for my family and myself. It was a difficult path,[^1] and something I thought I'd never recover from. Of course, those around me – specifically my family – would often remind me that things would get better with time; the pain that I was feeling and had been feeling would be temporary, and life would improve for me. At the time, I was in a deep dark hole and didn't know how life would get better.
 
 But through patience and therapy, I started getting out of this hole and seeing how much of life was improving. As part of the coping and then healing process, I had buried myself in my work when I could while focusing on being a single father. And that effort with work started to bear fruit. I started to get recognized for my abilities and was given chances for more responsibilities that others in my position had not been offered. And recently, for the second time in a year-and-a-half, I have been promoted. I'm responsible for a lot, and I even have a new and exciting challenge at work ahead. Things with work couldn't be better.
 
@@ -25,4 +25,4 @@ This is 40…
 
 * * *
 
-2. Divorce often is, but sometimes it is the necessary path. [↩](#fnref-2002-divorce)
+[^1]: Divorce often is, but sometimes it is the necessary path.

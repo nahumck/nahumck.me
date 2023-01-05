@@ -19,17 +19,17 @@ Then, in the midst of a pandemic, I started looking at a lot of the things in my
 
 Inevitably, as often these ear worms do, it sent me down a new path. How could I take my journaling solution and simplify it to use the apps and services I want to use so that I can streamline my process, or at the very least, make it easier to use and review later? _Just use a dedicated app_.
 
-I've been down this road. In the past, I used a dedicated journaling app. And while it was good at what it did, there were aspects that didn't appeal to me: security breaches and a subscription price isn't worth it for me.[1](#fn-1866-subscription) I can roll my own solution here utilizing apps I already have, and save myself the cost. And, for the most part, I'm not missing a lot from some of the full-featured apps.
+I've been down this road. In the past, I used a dedicated journaling app. And while it was good at what it did, there were aspects that didn't appeal to me: security breaches and a subscription price isn't worth it for me.[^1] I can roll my own solution here utilizing apps I already have, and save myself the cost. And, for the most part, I'm not missing a lot from some of the full-featured apps.
 
-Another reason for not doing this is that most use their own syncing solution, which has me uncomfortable. I like to control where my data is going. I trust Apple more than most, even if it's not a fully secure thing.[2](#fn-1866-really) Having that control feels right to me, and having my data stored in iCloud Drive will be better for me in the long run anyway.
+Another reason for not doing this is that most use their own syncing solution, which has me uncomfortable. I like to control where my data is going. I trust Apple more than most, even if it's not a fully secure thing.[^2] Having that control feels right to me, and having my data stored in iCloud Drive will be better for me in the long run anyway.
 
 Moving from Dropbox to iCloud Drive has allowed me to purge my subscription to Dropbox entirely, and I increased my 200GB iCloud Drive plan to 1TB. Now I pay far less for the same storage I was using. I still have my Dropbox account and still use the 7GB free that I have, but I don't use it in the same way; it is for shared or temporary files. I don't need to have DEVONthink installed, thus clearing up some clutter from my life.
 
 _So, now on to how I threw this together…_
 
-I start my journal by tapping a shortcut in the widget or tapping the shortcut notification, which in turn kicks of an automation; the automation actually calls the shortcut, so the process of them is the same, but how I get there can be different.[3](#fn-1866-fails) This shortcut asks me a few questions, all of which can be run in the widget and is my preferred method, to start off my journal. From there, it adds my sleep duration and resting heart rate, along with aspects of the weather forecast for the day, all formatted how I like them.
+I start my journal by tapping a shortcut in the widget or tapping the shortcut notification, which in turn kicks of an automation; the automation actually calls the shortcut, so the process of them is the same, but how I get there can be different.[^3] This shortcut asks me a few questions, all of which can be run in the widget and is my preferred method, to start off my journal. From there, it adds my sleep duration and resting heart rate, along with aspects of the weather forecast for the day, all formatted how I like them.
 
-All of that text goes into Drafts, along with the proper tags to make sure it gets into my Journal workspace. This is where all of my thoughts go. I have it broken into a couple of categories: quick hits and entries.[4](#fn-1866-podcast) Quick hits are just that: quick little thoughts. I found that adding quick hits has allowed me to just write instead of feeling like I need to say anything profound. Just gets it out of my head and on to the pa… screen. Entries are for more long-form writing. I don't do them every day, but when I do, I like to make sure I know what time of the day I was writing it. Over time, I've even seen patterns just knowing the time of day I was writing, which has been interesting.
+All of that text goes into Drafts, along with the proper tags to make sure it gets into my Journal workspace. This is where all of my thoughts go. I have it broken into a couple of categories: quick hits and entries.[^4] Quick hits are just that: quick little thoughts. I found that adding quick hits has allowed me to just write instead of feeling like I need to say anything profound. Just gets it out of my head and on to the pa… screen. Entries are for more long-form writing. I don't do them every day, but when I do, I like to make sure I know what time of the day I was writing it. Over time, I've even seen patterns just knowing the time of day I was writing, which has been interesting.
 
 For entries or even quick hits, I have several shortcuts which can add data to my journal: weather, location, health, and music. Each of those adds pertinent data to my entries at any given time; they start in Drafts, kick over to Shortcuts, gets the data back, and sends a block of text back into my journal entry. For the health shortcut, it needs to be run from the phone. It is also limited to move ring numbers, as exercise minutes and stand hours aren't available via Shortcuts right now. My hope was to recreate activity rings, but I'll wait on that until more support come to both the Shortcuts and Health apps.
 
@@ -39,9 +39,9 @@ Along with the data, I can add a few other file types that might be relevant for
 
 Now that I have everything in place, rather than save the text, I realized I just want to be able to view the final product after it's completed for the day. For a while, I was saving plain text and viewing it later via a quick look action, but I ultimately just want the rendered journal entry. This sent me down the path to creating a way to save a PDF of the document, along with rendered images and links to the audio recordings and files for later consumption.
 
-This might sound complex, but what it forced me to do was focus on what I really wanted to ever put in a journal, and develop those solutions. Now that they are there, assuming Drafts, Shortcuts, and [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188?at=1001l4VZ) don't go away, I'll be able to have this solution for a long time. In fact, if improvements come to Shortcuts which provide certain features, I might not even need all three to make this happen.[5](#fn-1866-room)
+This might sound complex, but what it forced me to do was focus on what I really wanted to ever put in a journal, and develop those solutions. Now that they are there, assuming Drafts, Shortcuts, and [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188?at=1001l4VZ) don't go away, I'll be able to have this solution for a long time. In fact, if improvements come to Shortcuts which provide certain features, I might not even need all three to make this happen.[^5]
 
-The trickiest part of all of this was saving the photos, files, recordings, and the final PDF where I wanted them to go. This is where Scriptable comes in. Scriptable provides the ability to create File Bookmarks, something highlighted by [Federico](https://www.twitter.com/viticci/) in his [FS Bookmarks post](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/). In simple terms, the File Bookmark enables me to have saved locations to send data into. Scriptable is able to manipulate files in a way that Shortcuts simply can't: if I want to move a file from one location in iCloud Drive to another, I can't do that natively in Shortcuts. But with a little JavaScript and some help,[6](#fn-1866-Rosemary) I'm able to do just that.
+The trickiest part of all of this was saving the photos, files, recordings, and the final PDF where I wanted them to go. This is where Scriptable comes in. Scriptable provides the ability to create File Bookmarks, something highlighted by [Federico](https://www.twitter.com/viticci/) in his [FS Bookmarks post](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/). In simple terms, the File Bookmark enables me to have saved locations to send data into. Scriptable is able to manipulate files in a way that Shortcuts simply can't: if I want to move a file from one location in iCloud Drive to another, I can't do that natively in Shortcuts. But with a little JavaScript and some help,[^6] I'm able to do just that.
 
 For each one of the different document types – photos, recordings, files, and entries – I have a file bookmark to a folder. They all run generally in the same way, with some exceptions in each. The main point of all of these was I could save them into the `/iCloud Drive/Shortcuts/` folder in an automated way, but would have to manually select where to put it if I wanted the file anywhere else. This is less than ideal from an automation perspective. It can be done, but if there's a way to automate it, I'd much rather.
 
@@ -67,7 +67,7 @@ This works extremely well and means I don't have to create a file bookmark for e
 
 To save my entires, I have a shortcut that is kicked off from Drafts. It accepts the Markdown-formatted text from Drafts, converts it to HTML, and then uses a customized HTML formatting I created to generate a PDF. Once I view the PDF and hit 'OK' to proceed, the PDF is then saved to iCloud Drive in the Shortcuts folder; from there, I'm sent over to Scriptable where the script moves it from the folder to the Journal bookmarked folder, similar to how I do with the other files.
 
-So, I'm sure you're wanting to see these actions. But, I'm not sharing them right now. Not because I'm trying to be mean and withhold them, but they change very frequently; I'm tweaking them so often that during the time I started writing to the time I'm going to hit publish on this post, it will have changed no less than 4 times.[7](#fn-1866-nine) These actions are pretty simple to create, aside from the JavaScript I already shared. The image below will help guide you through some of the Shortcuts. I'm thinking about sharing them at some point,[8](#fn-1866-newsletter) but for now you'll just have to steal inspiration and create them yourself.
+So, I'm sure you're wanting to see these actions. But, I'm not sharing them right now. Not because I'm trying to be mean and withhold them, but they change very frequently; I'm tweaking them so often that during the time I started writing to the time I'm going to hit publish on this post, it will have changed no less than 4 times.[^7] These actions are pretty simple to create, aside from the JavaScript I already shared. The image below will help guide you through some of the Shortcuts. I'm thinking about sharing them at some point,[^8] but for now you'll just have to steal inspiration and create them yourself.
 
 [![](/images/Journaling-File-Saving-Shortcuts.png)](https://www.nahumck.me/wp-content/uploads/2020/06/Journaling-File-Saving-Shortcuts.png)
 
@@ -77,20 +77,18 @@ In the future, I hope that I can do a couple of things to improve all of it: mov
 
 The end result of this has paid off for me: I've built a complete journaling system over time, built on the foundation of common formats and apps I use on a daily basis, to create the best system for me. As with a lot of things surrounding Drafts and the way I work, I can see this workflow sticking for a long time. It's evolved from a text based solution to a PDF solution. The PDF format has been around for ages, and I don't see that going away for a while. It will allow me to keep a lot of the historical record intact for at least my lifetime. Will I ever share it with anyone? Probably not. But I can rest easy that if I really wanted to do it, I now have the ability to do so.
 
-* * *
+[^1]: I believe that certain apps are good for a subscription model. But I also don't want to pay for a subscription when I can make something like this on my own. I'm frugal like that.
 
-2. I believe that certain apps are good for a subscription model. But I also don't want to pay for a subscription when I can make something like this on my own. I'm frugal like that. [↩](#fnref-1866-subscription)
+[^2]: Is anything really?
 
-4. Is anything really? [↩](#fnref-1866-really)
+[^3]: Sometimes the automation fails to run as well. I tap on the notification, it opens shortcuts, and… nothing. I'm hoping there will be a change in iOS14 with how all of this works. Not going to hold my breath.↩](#fnref-1866-fails)
 
-6. Sometimes the automation fails to run as well. I tap on the notification, it opens shortcuts, and… nothing. I'm hoping there will be a change in iOS14 with how all of this works. Not going to hold my breath. [↩](#fnref-1866-fails)
+[^4]: I grabbed the "Quick Hits" name of this from the [Sam and Ross Like Things](http://www.samandrosslikethings.com/) podcast because I liked the name. And I like the podcast. You should check it out.
 
-8. I grabbed the "Quick Hits" name of this from the [Sam and Ross Like Things](http://www.samandrosslikethings.com/) podcast because I liked the name. And I like the podcast. You should check it out. [↩](#fnref-1866-podcast)
+[^5]: If you're unsure which one, read the room. You know which one is for sure staying…
 
-10. If you're unsure which one, read the room. You know which one is for sure staying… [↩](#fnref-1866-room)
+[^6]: Thanks Rosemary Orchard!
 
-12. Thanks Rosemary Orchard! [↩](#fnref-1866-Rosemary)
+[^7]: Ok, actually it was more. _Nine_ times.
 
-14. Ok, actually it was more. _Nine_ times. [↩](#fnref-1866-nine)
-
-16. I'm pondering the idea of producing a newsletter. Still in an initial stage. More to come, maybe. Would you have an interest in this? Drop me a line on [Twitter](https://www.twitter.com/nahumck) or shoot me an [email](mailto:tim@nahumck.me) [↩](#fnref-1866-newsletter)
+[^8]: I'm pondering the idea of producing a newsletter. Still in an initial stage. More to come, maybe. Would you have an interest in this? Drop me a line on [Twitter](https://www.twitter.com/nahumck) or shoot me an [email](mailto:tim@nahumck.me)

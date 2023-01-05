@@ -21,7 +21,7 @@ Blue is fine. Blue is ok. But blue is used by so many others. Just take a look a
 
 **_Dragon Fruit._**
 
-I have had a dragon fruit sport loop band since Christmas. It is my favorite Apple Watch band that I own because it was a gift from my partner (she's amazing) and it's just a solid color choice.[1](#fn-1843-pride) I cannot tell you how often I wear this because it pairs so well with the grayscale pallet, from white to gray to charcoal to black. So I put that color against a light and dark background that came from some [Drafts](https://apps.apple.com/us/app/drafts/id1236254471?uo=4&at=1001l4VZ) theme colors, and was instantly in love. Pair that with a nice mid-gray which works for both, and I had my palette.
+I have had a dragon fruit sport loop band since Christmas. It is my favorite Apple Watch band that I own because it was a gift from my partner (she's amazing) and it's just a solid color choice.[^1] I cannot tell you how often I wear this because it pairs so well with the grayscale pallet, from white to gray to charcoal to black. So I put that color against a light and dark background that came from some [Drafts](https://apps.apple.com/us/app/drafts/id1236254471?uo=4&at=1001l4VZ) theme colors, and was instantly in love. Pair that with a nice mid-gray which works for both, and I had my palette.
 
 [![](/images/site_color_palette-450x90.png "My site's color palette.")](https://www.nahumck.me/wp-content/uploads/2020/06/site_color_palette.png) 
 
@@ -53,6 +53,4 @@ It was a process to get this done. Working with the Jeffs was easy, even if I wa
 
 I'm happy that this has all worked out for the better. I hope that you enjoy it as much as I do. And who knows: maybe there are some stickers and shirts in the future…
 
-* * *
-
-1. The Nike Pride band is a close second. [↩](#fnref-1843-pride)
+[^1]: The Nike Pride band is a close second.
