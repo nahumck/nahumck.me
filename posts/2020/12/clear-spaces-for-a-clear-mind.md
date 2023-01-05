@@ -41,7 +41,10 @@ My widget layout has changed a little since the summer betas. I use 4 small widg
 
 With all of the widgets, they center around an idea of having a clean Home Screen. It's something that I've always enjoyed. But I also like having a productive screen as well, and this method gives me the best of both worlds. In all of the widgets, Clear Spaces is at or near the center of the stack to allow for quick swiping up and down to get to a different layout. As I go through my day, I may change the app that's there to give me a visual cue to focus. I might keep my task manager on work rather than my personal when I need to focus up on work things. I might keep FoodNoms on the screen to make sure I'm keeping track of my food intake, but I'm a quick swipe away to my meal plan so I can know what's ahead for dinner. But as I get through different aspects of my day, I always swipe to the Clear Spaces widget in the stack to have a clear Home Screen, almost like checking off a task. When I'm done with that particular area of focus for the day, it can simply go away. And the next day, I wake up and swipe my widget back in like it's March 294th.
 
-\[video width="480" height="1039" autoplay="true" playsinline="true" mp4="/images/iOS-14\_3-Home-Screen-Video.mp4"\]\[/video\]
+<video width="480" height="1039" controls>
+  <source src="/images/iOS-14_3-Home-Screen-Video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 I'm sure that there will be changes over time, but I'm really happy with my current setup. Of course, there are a few apps that are missing from widgets that I'd love. I'm getting more into photography, and I'd love to see an app like [Halide](https://apps.apple.com/us/app/halide-mark-ii-pro-camera/id885697368?uo=4&at=1001l4VZ) develop a widget to open the camera into different modes for quicker access. I wish I could have a task management app where I could check off the tasks from the widget itself, like the old Today widgets used to be. And I wish that Apple would allow for a 4x4 small widget for Shortcuts and Drafts so that I can have more combinations and possibilities. I'll remind myself that this is just the first iteration of this, but it's something that I still don't understand 6 months into this OS.
 

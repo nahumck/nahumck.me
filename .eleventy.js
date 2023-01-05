@@ -22,7 +22,6 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`)
 
     eleventyConfig.addPassthroughCopy("assets")
-    eleventyConfig.addPassthroughCopy("posts/images")
     eleventyConfig.addPassthroughCopy({ "posts/images": "images" })
 
     eleventyConfig.addPlugin(pluginRss);
