@@ -31,7 +31,7 @@ What I ended up creating was an action containing multiple prompt steps that rec
 
 In addition to creating a draft with the information, I can use an [action](https://drafts4-actions.agiletortoise.com/a/1vm "Add Beer Photo(s) - Drafts Action Directory") that I tweaked from my [daily journaling](https://www.nahumck.me/rolling-your-own) that utilizes [Workflow](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=1001l4VZ&ct=ntwitter) to take an image, upload it to Dropbox, and save the link into Drafts. [This workflow](https://workflow.is/workflows/093d7e3c77a64c82a00c35426a0065bc "TapCellar • Photo(s)") allows me to add images and keep it all in the same space.[2](#fn2) I can [preview the entry](https://drafts4-actions.agiletortoise.com/a/1vk "Journal Preview - Drafts Action Directory") if I wish in HTML, which will give me the text along with an inline image.
 
-[![](/images/IMG_1244-173x300.jpg)](https://www.nahumck.me/wp-content/uploads/2016/12/IMG_1244-e1483238765978.jpg)
+[![](/images/IMG_1244-173x300.jpg)](/images/IMG_1244-e1483238765978.jpg)
 
 I did also work to create a workflow that will do all of this, however, the preview of it is not as good. As a person who uses Drafts every day, I'd prefer using the separate actions. Additionally, if you keep the entries in Drafts and apply a filter, you can search within Drafts for them, rather than having to view them in Dropbox, which won't give you the preview. If you are interested in the workflow I created, you can find it [here](https://workflow.is/workflows/3f7e93ef16904118b87425a95113496a "TapCellar").
 

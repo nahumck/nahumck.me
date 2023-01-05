@@ -11,7 +11,7 @@ permalink: "using-simple-dictionaries-in-workflow/index.html"
 layout: "post"
 ---
 
-[![](/images/Workflow-Array-Feature.jpeg)](https://www.nahumck.me/wp-content/uploads/2017/01/Workflow-Array-Feature.jpeg)
+[![](/images/Workflow-Array-Feature.jpeg)](/images/Workflow-Array-Feature.jpeg)
 
 Normally when I have an idea, I'll write about it. This past time, I decided to do something a bit different, and write more about [how I felt](https://www.nahumck.me/gaining-experience/ "Gaining Experience") rather than explain it. But, I also realize that this new-to-me idea might need a bit of help and guidance for those that aren't well versed in the subject, like me. So I'll do my best here to explain.
 

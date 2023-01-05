@@ -11,7 +11,7 @@ layout: "post"
 
 ## Apple TV
 
-[![](/images/IMG_0065.png)](https://www.nahumck.me/wp-content/uploads/2017/05/IMG_0065.png)
+[![](/images/IMG_0065.png)](/images/IMG_0065.png)
 
 We recently decided to get a [fourth-generation Apple TV](https://store.apple.com/xc/product/APPLETV2 "Apple TV - Apple Store"). My entire family uses Apple products, from iOS to Mac. And given that we recently cut cable, we needed something better to watch shows and movies with. Prior to now, we'd have to watch either via the smart TV built-in apps, or through plugging something in. Not ideal at all.
 
