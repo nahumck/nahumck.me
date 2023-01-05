@@ -1,0 +1,21 @@
+---
+permalink: feed.json
+eleventyExcludeFromCollections: true
+---
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Tim Nahumck",
+    "home_page_url": "https://nahumck.me/",
+    "feed_url": "https://nahumck.me/feed.json",
+    "items" : [
+    {%- for post in collections.posts %}
+    {
+        "id" : "{{ post.data.permalink }}",
+        "title": "{{ post.data.title }}",
+        "url": "https://nahumck.me{{ post.data.permalink }}",
+        "content_text": "{{ post.data.excerpt }}",
+        "date_published": "{{ post.data.date | isoDateOnly }}T00:00:00+00:00"
+    }{% if not loop.last %},{% else %}{%- endif -%}
+    {%- endfor -%}
+]}

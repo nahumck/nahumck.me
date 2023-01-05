@@ -1,0 +1,27 @@
+---
+permalink: feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tim Nahumck</title>
+  <subtitle></subtitle>
+  <link href="https://nahumck.me/feed.xml" rel="self"/>
+  <link href="https://nahumck.me"/>
+  <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
+  <id>nahumck.me</id>
+  <author>
+    <name>Tim Nahumck</name>
+    <email></email>
+  </author>
+  {%- for post in collections.posts %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="https://nahumck.me{{ post.url }}"/>
+    <updated>{{ post.date | rssDate }}</updated>
+    <id>{{ post.url }}</id>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
+  {%- endfor %}
+</feed>
