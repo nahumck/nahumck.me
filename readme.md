@@ -12,8 +12,12 @@ title: A Title
 permalink: a-title/index.html
 date: 2023-01-05
 layout: post
+tags: 
+  - "drafts"
 ---
 ```
+
+`tags` are optional.
 
 Same with standalone pages, but set the layout to `base` instead of `post`. Standalone pages don't need `date`.
 
