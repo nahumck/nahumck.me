@@ -6,9 +6,13 @@ layout: base
 {% set postList = collections.posts | limit(4) %}
 
 {%- for post in postList %}
-    <header class="entry-header">
-        <h1 class="entry-title"><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></h1>
-    </header>
+    <article class="home-post">
+        <header class="entry-header">
+            <h1 class="entry-title"><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></h1>
+        </header>
 
-    {{ post.templateContent | safe }}
+        {{ post.templateContent | safe }}
+    </article>
+
+    <hr class="home-divider">
 {% endfor %}
