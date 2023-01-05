@@ -458,3 +458,7 @@ figcaption {
 .widget.widget_search input {
     background-color: white;
 }
+
+.content-area video {
+    max-width: 100%;
+}
