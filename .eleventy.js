@@ -2,6 +2,7 @@ const markdownIt = require("markdown-it")
 const markdownItFootnote = require("markdown-it-footnote")
 const markdownItFigCaptions = require('markdown-it-image-figures')
 const { execSync } = require('child_process')
+const pluginRss = require("@11ty/eleventy-plugin-rss")
 
 module.exports = function(eleventyConfig) {
     const options = {
@@ -23,6 +24,20 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets")
     eleventyConfig.addPassthroughCopy("posts/images")
     eleventyConfig.addPassthroughCopy({ "posts/images": "images" })
+
+    eleventyConfig.addPlugin(pluginRss);
+
+    eleventyConfig.addFilter("isoDateOnly", function(date) {
+        var d = new Date(date),
+            month = '' + (d.getMonth() + 1),
+            day = '' + d.getDate(),
+            year = d.getFullYear();
+
+        if (month.length < 2) month = '0' + month;
+        if (day.length < 2) day = '0' + day;
+
+        return [year, month, day].join('-');
+    })
 
     eleventyConfig.addCollection("posts", function(collection) {
         return collection.getFilteredByGlob("posts/**/*.md").reverse().map(p => {
