@@ -429,3 +429,22 @@ twitter-widget {
     width: 30%;
     margin: 20px auto 30px auto;
 }
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    clear: both;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    color: #939393;
+    width: 100%;
+}
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+}

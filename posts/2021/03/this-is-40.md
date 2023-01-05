@@ -23,6 +23,4 @@ This is also significant because today is also my 40th birthday. If I'm being ho
 
 This is 40…
 
-* * *
-
 [^1]: Divorce often is, but sometimes it is the necessary path.

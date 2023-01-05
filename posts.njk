@@ -1,0 +1,25 @@
+---
+pagination:
+  data: collections.posts
+  size: 5
+  alias: post
+permalink: /posts/page/{{ pagination.pageNumber + 1 }}/
+layout: base
+---
+
+{%- for post in pagination.items %}
+    <article class="home-post">
+        <header class="entry-header">
+            <h1 class="entry-title"><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></h1>
+        </header>
+
+        {{ post.templateContent | safe }}
+    </article>
+
+    <hr class="home-divider">
+{% endfor %}
+
+<div class="pagination">
+    <div>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Newer Posts</a>{% else %}Newer Posts{% endif %}</div>
+    <div>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts</a>{% else %}Older Posts{% endif %}</div>
+</div>
