@@ -1,4 +1,4 @@
-# nahamck.me
+# nahumck.me
 
 ## Creating a post
 
