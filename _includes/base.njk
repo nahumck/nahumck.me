@@ -113,5 +113,19 @@
             </footer>
         </div>
 
+        <script>
+            (function() {
+                document.getElementById('primary-menu-button').addEventListener("click", function () {
+                    var nav = document.getElementById('site-navigation')
+                    if (nav.className.includes('toggled'))
+                    {
+                        nav.className = nav.className.replace('toggled', '')
+                    } else {
+                        nav.className += ' toggled'
+                    }
+                })
+            })();
+        </script>
+
 	</body>
 </html>
