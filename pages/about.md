@@ -25,8 +25,6 @@ I am a husband to the most [wonderful wife](https://www.nahumck.me/this-is-40/),
 * [highlightjs](http://highlightjs.org/); Copyright © 2006, Ivan Sagalaev – [License](https://raw.githubusercontent.com/isagalaev/highlight.js/master/LICENSE)
 * [Sometype Mono](https://monospacedfont.com/) font – [License](http://scripts.sil.org/OFL)
 
-**Icon:** a collaboration with [Jeff Perry](http://jeffperry.work/)
-
 More on the theme and icon design [here](https://www.nahumck.me/the-new-site-design/).
 
 **Hosting:** This site is hosted on [DreamHost](https://www.dreamhost.com/) using [DreamPress](https://www.dreamhost.com/wordpress/managed-wp-hosting/).
