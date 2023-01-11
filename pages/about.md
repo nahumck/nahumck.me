@@ -27,8 +27,6 @@ I am a husband to the most [wonderful wife](https://www.nahumck.me/this-is-40/),
 
 More on the theme and icon design [here](https://www.nahumck.me/the-new-site-design/).
 
-**Hosting:** This site is hosted on [DreamHost](https://www.dreamhost.com/) using [DreamPress](https://www.dreamhost.com/wordpress/managed-wp-hosting/).
-
 * * *
 
 Gear
