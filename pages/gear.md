@@ -9,7 +9,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 [^missed]: This should be all of it, but I might have missed some things…
 
 ### Devices
-- [iPhone 14 Pro, Deep Purpole, 512GB](https://www.apple.com/iphone-14-pro/) in a [Moment case](https://www.shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe/14-pro-max-black) with the [Drop-in Lens Mount](https://www.shopmoment.com/products/moment-drop-in-lens-mount-for-iphone-14/iphone14pro-and-iphone14promax)and a [CineClear Snap-On Protection Filter](https://www.shopmoment.com/products/moment-cineclear-snap-on-filter-for-iphone-14-pro-pro-max/) when not using Moment's lenses
+- [iPhone 14 Pro, Deep Purple, 512GB](https://www.apple.com/iphone-14-pro/) in a [Moment case](https://www.shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe/14-pro-max-black) with the [Drop-in Lens Mount](https://www.shopmoment.com/products/moment-drop-in-lens-mount-for-iphone-14/iphone14pro-and-iphone14promax)and a [CineClear Snap-On Protection Filter](https://www.shopmoment.com/products/moment-cineclear-snap-on-filter-for-iphone-14-pro-pro-max/) when not using Moment's lenses
 - [Apple Watch Ultra](https://amzn.to/3YMnoUg) with [many watch bands](https://www.nahumck.me/watch-band-collection/)
 - [iPad Pro 12.9" with the M1 chip, 1TB, silver, cellular](https://amzn.to/3CMJTww)
 - [Magic Keyboard](https://amzn.to/3obahMx) in a [dBrand matte black skin](https://dbrand.com/shop/magic-keyboard-for-ipad-pro-12.9-2021-skins-gen-5)
