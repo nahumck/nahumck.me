@@ -1,7 +1,7 @@
 ---
 title: Action Health – A Shortcut for the Ultra
 permalink: action-health-a-shortcut-for-the-ultra/index.html
-date: 2023-04-05
+date: "2023-04-05"
 layout: post
 tags: 
   - "shortcuts"
