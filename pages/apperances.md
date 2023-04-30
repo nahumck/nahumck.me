@@ -17,6 +17,7 @@ This is a running list of podcasts that I have appeared on (in no particular ord
 #### Automators
 
 * [Automators 23: Diving into Drafts Automation with Tim “The Drafts Man” Nahumck](https://www.relay.fm/automators/23)
+* [Automators 73: Custom Drafts Themes, Syntax, and more with Tim Nahumck](https://www.relay.fm/automators/73)
 
 #### Connected
 
