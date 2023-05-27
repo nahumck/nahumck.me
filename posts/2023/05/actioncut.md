@@ -1,7 +1,7 @@
 ---
 title: ActionCut
 permalink: actioncut/index.html
-date: 2023-05-27
+date: "2023-05-27"
 layout: post
 tags: 
   - "shortcuts"
