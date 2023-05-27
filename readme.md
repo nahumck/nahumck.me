@@ -10,7 +10,7 @@ Posts go in `/posts` and need the following at the top:
 ---
 title: A Title
 permalink: a-title/index.html
-date: 2023-01-05
+date: "2023-01-05"
 layout: post
 tags: 
   - "drafts"
