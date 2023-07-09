@@ -13,7 +13,7 @@ Here is a table of the current watch bands I own:
 | 02                    | Yellow (2016)             | Spring / 2016 |
 | 03                    | Hermès Orange             |   Fall / 2016 |
 | 04                    | Ultraviolet               |   Fall / 2016 |
-| 05                    | Azure                      | Spring / 2017 |
+| 05                    | Azure                     | Spring / 2017 |
 | 06                    | Gray                      |   Fall / 2017 |
 | 07                    | Soft White                |   Fall / 2017 |
 | 08                    | Lavender Gray             |   Fall / 2018 |
@@ -62,17 +62,19 @@ Here is a table of the current watch bands I own:
 | **Ultra**             |||
 | 48                    | Orange Alpine Loop        |   Fall / 2022 |
 | 49                    | Green Alpine Loop         |   Fall / 2022 |
-| 50                    | White Ocean Band          |   Fall / 2022 |
-| 51                    | Midnight Ocean Band       |   Fall / 2022 |
-| 52                    | Black / Gray Trail Loop   |   Fall / 2022 |
-| 53                    | Gray / Blue Trail Loop    |   Fall / 2022 |
+| 50                    | Starlight Alpine Loop     |   Fall / 2022 |
+| 51                    | White Ocean Band          |   Fall / 2022 |
+| 52                    | Midnight Ocean Band       |   Fall / 2022 |
+| 53                    | Yellow Ocean Band         |   Fall / 2022 |
+| 54                    | Black / Gray Trail Loop   |   Fall / 2022 |
+| 55                    | Gray / Blue Trail Loop    |   Fall / 2022 |
 | **Leather**           |||
-| 54                    | Saddle Brown Leather Link |   Fall / 2020 |
-| 55                    | Chalk Leather Link        | Spring / 2021 |
+| 56                    | Saddle Brown Leather Link |   Fall / 2020 |
+| 57                    | Chalk Leather Link        | Spring / 2021 |
 | **Metal**             |||
-| 56                    | Space Gray Milanese       | Spring / 2016 |
+| 58                    | Space Gray Milanese       | Spring / 2016 |
 | **Nomad**             |||
-| 57                    | Lunar Gray Sport Band     | Spring / 2021 |
-| 58                    | Ultra Orange Sport Band   |   Fall / 2022 |
+| 59                    | Lunar Gray Sport Band     | Spring / 2021 |
+| 60                    | Ultra Orange Sport Band   |   Fall / 2022 |
 | **Shinola**           |||
-| 59                    | Brown Leather Strap 24mm  |   Fall / 2022 |
+| 61                    | Brown Leather Strap 24mm  |   Fall / 2022 |
