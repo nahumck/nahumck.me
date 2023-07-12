@@ -20,6 +20,11 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [AirPods Pro 2](https://amzn.to/3juJfzi)
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
+### EDC
+- [MagSafe Wallet (with Find My Support), midnight](https://amzn.to/43CLsKJ)
+- [Kershaw Analyst Tanto Pocket Knife](https://amzn.to/3DawPmV)
+- [Kershaw Cryo Knife](https://amzn.to/43lgJBG)
+
 ### Bags
 - [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) with the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
 - [Peak Design Everyday Sling 10L](https://www.peakdesign.com/products/everyday-sling)
