@@ -11,12 +11,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Devices
 - [iPhone 14 Pro, Deep Purple, 512GB](https://www.apple.com/iphone-14-pro/) in a [Moment case](https://www.shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe/14-pro-black) with the [Drop-in Lens Mount](https://www.shopmoment.com/products/moment-drop-in-lens-mount-for-iphone-14/iphone14pro-and-iphone14promax)and a [CineClear Snap-On Protection Filter](https://www.shopmoment.com/products/moment-cineclear-snap-on-filter-for-iphone-14-pro-pro-max/) when not using Moment's lenses
 - [Apple Watch Ultra](https://amzn.to/3YMnoUg) with [many watch bands](https://www.nahumck.me/watch-band-collection/)
-- [iPad Pro 12.9" with the M1 chip, 1TB, silver, cellular](https://amzn.to/3CMJTww)
-- [Magic Keyboard](https://amzn.to/3obahMx) in a [dBrand matte black skin](https://dbrand.com/shop/magic-keyboard-for-ipad-pro-12.9-2021-skins-gen-5)
-- [Apple Pencil](https://amzn.to/3kKeQeD)
-- [CoverBuddy](https://amzn.to/3lW9Ena) 
-- [Moko Smart Folio](https://amzn.to/3zF8AJq)
-- [Moshi iVisor AG](https://www.moshi.com/en/product/ivisor-ag-anti-glare-screen-protector/black-clear-matte-for-ipad-pro-129-inch-5th-3rd-gen/)
+- [iPad Pro 12.9" with the M1 chip, 1TB, silver, cellular](https://amzn.to/3CMJTww) with [Apple Pencil](https://amzn.to/3kKeQeD), [CoverBuddy](https://amzn.to/3lW9Ena) and [Moshi iVisor AG](https://www.moshi.com/en/product/ivisor-ag-anti-glare-screen-protector/black-clear-matte-for-ipad-pro-129-inch-5th-3rd-gen/), in the [Magic Keyboard](https://amzn.to/3obahMx) in a [dBrand matte black skin](https://dbrand.com/shop/magic-keyboard-for-ipad-pro-12.9-2021-skins-gen-5) or  [Moko Smart Folio](https://amzn.to/3zF8AJq)
 - [AirPods Pro 2](https://amzn.to/3juJfzi)
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
