@@ -23,7 +23,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Bags
 - [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) with the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
 - [Peak Design Everyday Sling 10L](https://www.peakdesign.com/products/everyday-sling)
-- [Field Pouch V2](https://www.peakdesign.com/products/field-pouch/?variant=39360874741837) with the [Slide Camera Sling Strap](https://www.peakdesign.com/products/slide)
+- [Peak Design Field Pouch V2](https://www.peakdesign.com/products/field-pouch/?variant=39360874741837) with the [Slide Camera Sling Strap](https://www.peakdesign.com/products/slide)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch)
 - [Peak Design Packable Tote](https://www.peakdesign.com/products/packable-tote)
 - [Peak Design Travel Duffelpack (45-65L)](https://www.peakdesign.com/products/travel-duffelpack)
