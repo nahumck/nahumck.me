@@ -29,7 +29,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Peak Design Travel Duffelpack (45-65L)](https://www.peakdesign.com/products/travel-duffelpack)
 
 ### Charging and Travel
-- [Studio Neat Material Dock](https://www.studioneat.com/products/materialdock) - Upright Duo version
+- [Studio Neat Material Dock](https://www.studioneat.com/products/materialdock) - Upright Duo version, with custom 3D-printed Apple Watch charging cable holder
 - [Anker MagSafe Battery](https://amzn.to/3x8e5As)
 - [Anker 735 Charger](https://amzn.to/3hW4Znj)
 - [Anker 715 Charger](https://amzn.to/3ObSQYX)
