@@ -23,7 +23,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Bags
 - [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) with the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
 - [Peak Design Everyday Sling 10L](https://www.peakdesign.com/products/everyday-sling)
-- [Field Pouch V2](https://www.peakdesign.com/products/field-pouch/?variant=39360874741837) with a custom made strap made from a [utility strap](https://amzn.to/3mWLbSX) and a [MOLLE shoulder pad](https://amzn.to/3TvUPIq)
+- [Field Pouch V2](https://www.peakdesign.com/products/field-pouch/?variant=39360874741837) with the [Slide Camera Sling Strap](https://www.peakdesign.com/products/slide)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch)
 - [Peak Design Packable Tote](https://www.peakdesign.com/products/packable-tote)
 - [Peak Design Travel Duffelpack (45-65L)](https://www.peakdesign.com/products/travel-duffelpack)
@@ -31,11 +31,12 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Charging and Travel
 - [Studio Neat Material Dock](https://www.studioneat.com/products/materialdock) - Upright Duo version
 - [Anker MagSafe Battery](https://amzn.to/3x8e5As)
-- [Anker 735 Charger (Nano II 65W)](https://amzn.to/3hW4Znj)
+- [Anker 735 Charger](https://amzn.to/3hW4Znj)
+- [Anker 715 Charger](https://amzn.to/3ObSQYX)
 - [UGREEN Portable Charger for Apple Watch](https://amzn.to/3PP4qZc)
 - [90-degree USB-C connector](https://amzn.to/3BZnFJV)
 - [Anker USB-C Cable](https://amzn.to/30warjD) 
-- Apple USB-C to Lightning cable (black, braided – came with the Magic Trackpad)
+- Apple USB-C to Lightning cable (black, braided – came with the [Magic Trackpad 2](https://amzn.to/3zP56Ea))
 - [USB-C/A to USB-C/Lightning Cable](https://amzn.to/3YLVd7Q)
 - [HyperDrive USB-C Hub 6-in-1 Adapter](https://amzn.to/2G1f388)
 - [Aukey 10000mAh Slimline Battery](https://www.aukey.com/products/aukey-usb-c-power-bank-with-18w-pd-quick-charge-3-0-10000mah)
