@@ -33,13 +33,11 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Anker MagSafe Battery](https://amzn.to/3x8e5As)
 - [Anker 735 Charger](https://amzn.to/3hW4Znj)
 - [Anker 715 Charger](https://amzn.to/3ObSQYX)
-- [UGREEN Portable Charger for Apple Watch](https://amzn.to/3PP4qZc)
-- [90-degree USB-C connector](https://amzn.to/3BZnFJV)
-- [Anker USB-C Cable](https://amzn.to/30warjD) 
+- [OtterBox 2-in-1 Power Bank with MagSafe](https://store.apple.com/xc/product/HQ322ZM/A)
+- [Anker USB-C to USB-C Cable](https://amzn.to/30warjD) 
 - Apple USB-C to Lightning cable (black, braided – came with the [Magic Trackpad 2](https://amzn.to/3zP56Ea))
 - [USB-C/A to USB-C/Lightning Cable](https://amzn.to/3YLVd7Q)
 - [HyperDrive USB-C Hub 6-in-1 Adapter](https://amzn.to/2G1f388)
-- [Aukey 10000mAh Slimline Battery](https://www.aukey.com/products/aukey-usb-c-power-bank-with-18w-pd-quick-charge-3-0-10000mah)
 - [Tactical LED Flashlight](https://amzn.to/3WlBt9N)
 
 ### Mobile Photo & Video
@@ -69,6 +67,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 #### Tripods, mounts, and video gear
 - [Peak Design Capture](https://www.peakdesign.com/products/capture)
 - [SmallRig multitool](https://amzn.to/3VolB4P)
+- [Moment Bluetooth Remote](https://www.shopmoment.com/products/moment-bluetooth-remote/v2)
 - [Ulanzi ST-27 Metal Phone Tripod Mount Clip](https://www.ulanzi.com/collections/phone-tripod-mount/products/ulanzi-st-27-metal-phone-clip)
 - [Moment Pro Tripod Mount for MagSafe](https://www.shopmoment.com/products/moment-pro-tripod-mount-for-magsafe/pro-portrait-landscape)
 - [PGYTECH MantisPod Pro](https://www.bhphotovideo.com/c/product/1645235-REG/pgytech_p_cg_020_mantispod_pro_vlogging_tripod.html)
