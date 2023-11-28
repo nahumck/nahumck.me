@@ -39,38 +39,38 @@ Here is a table of the current watch bands I own:
 | 27                    | Hasta / Light Silver        | Spring / 2021 |
 | **Sport Loop**        |||
 | 28                    | Black                       |   Fall / 2017 | 
-| 29                    | Seashell                    |   Fall / 2017 | 
-| 30                    | Storm Gray                  |   Fall / 2018 | 
-| 31                    | (Product) Red (1st gen)     |   Fall / 2018 | 
-| 32                    | Alaska Blue                 |   Fall / 2019 |
-| 33                    | Cornflower                  | Summer / 2019 |
-| 34                    | Dragonfruit                 | Summer / 2019 |
-| 35                    | Charcoal                    |   Fall / 2020 |
-| 36                    | Inverness Green             |   Fall / 2020 |
-| 37                    | Nike Purple Pulse           |   Fall / 2020 |
-| 38                    | Vitamin C                   | Spring / 2020 |
-| 39                    | Germany                     | Summer / 2021 |
-| 40                    | Great Britain               | Summer / 2021 |
-| 41                    | Netherlands                 | Summer / 2021 |
-| 42                    | New Zealand                 | Summer / 2021 |
-| 43                    | Sea Salt                    | Spring / 2021 | 
-| 44                    | Sunflower                   | Spring / 2021 |
-| 45                    | Midnight                    |   Fall / 2022 |
+| 29                    | Storm Gray                  |   Fall / 2018 | 
+| 30                    | Alaska Blue                 |   Fall / 2019 |
+| 31                    | Dragonfruit                 | Summer / 2019 |
+| 32                    | Charcoal                    |   Fall / 2020 |
+| 33                    | Inverness Green             |   Fall / 2020 |
+| 34                    | Nike Purple Pulse           |   Fall / 2020 |
+| 35                    | Vitamin C                   | Spring / 2020 |
+| 36                    | Germany                     | Summer / 2021 |
+| 37                    | Great Britain               | Summer / 2021 |
+| 38                    | Netherlands                 | Summer / 2021 |
+| 39                    | New Zealand                 | Summer / 2021 |
+| 40                    | Sea Salt                    | Spring / 2021 | 
+| 41                    | Sunflower                   | Spring / 2021 |
+| 42                    | Midnight                    |   Fall / 2022 |
 | **Braided Solo Loop** |||
-| 46                    | Charcoal                    |   Fall / 2020 |
-| 47                    | Pride (2021)                | Summer / 2021 |
-| 48                    | Maize                       |   Fall / 2021 |
+| 43                    | Charcoal                    |   Fall / 2020 |
+| 44                    | Pride (2021)                | Summer / 2021 |
+| 45                    | Maize                       |   Fall / 2021 |
 | **Alpine Loop**             |||
-| 49                    | Orange                      |   Fall / 2022 |
-| 50                    | Green                       |   Fall / 2022 |
-| 51                    | Starlight                   |   Fall / 2022 |
+| 46                    | Orange                      |   Fall / 2022 |
+| 47                    | Green                       |   Fall / 2022 |
+| 48                    | Starlight                   |   Fall / 2022 |
+| 49                    | Blue                        |   Fall / 2023 |
 | **Ocean Band**             |||
-| 52                    | White                       |   Fall / 2022 |
-| 53                    | Midnight                    |   Fall / 2022 |
-| 54                    | Yellow                      |   Fall / 2022 |
+| 50                    | White                       |   Fall / 2022 |
+| 51                    | Midnight                    |   Fall / 2022 |
+| 52                    | Yellow                      |   Fall / 2022 |
+| 53                    | Orange                      |   Fall / 2023 |
 | **Trail Loop**             |||
-| 55                    | Black / Gray                |   Fall / 2022 |
-| 56                    | Gray / Blue                 |   Fall / 2022 |
+| 54                    | Black / Gray                |   Fall / 2022 |
+| 55                    | Gray / Blue                 |   Fall / 2022 |
+| 56                    | Orange / Beige              |   Fall / 2023 |
 | **Leather Link**           |||
 | 57                    | Saddle Brown                |   Fall / 2020 |
 | 58                    | Chalk Leather               | Spring / 2021 |
