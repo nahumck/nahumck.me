@@ -99,6 +99,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Monitor Lamp](https://amzn.to/3CYyk5b)
 - [Vornado Personal Air Circulator](https://amzn.to/3C2pG8a)
 - [Sonos Roam Speaker](https://amzn.to/3POPkmp)
+- [elago MS3 Charging Stand Compatible with MagSafe Charger](https://amzn.to/3SZTvzq) with MagSafe Charger
 
 ### Software
 
