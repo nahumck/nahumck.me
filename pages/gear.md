@@ -70,6 +70,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Moment Bluetooth Remote](https://www.shopmoment.com/products/moment-bluetooth-remote/v2)
 - [Ulanzi ST-27 Metal Phone Tripod Mount Clip](https://www.ulanzi.com/collections/phone-tripod-mount/products/ulanzi-st-27-metal-phone-clip)
 - [Moment Pro Tripod Mount for MagSafe](https://www.shopmoment.com/products/moment-pro-tripod-mount-for-magsafe/pro-portrait-landscape)
+- [JOBY GripTight ONE Micro Stand](https://a.co/d/eWip7ZU)
 - [PGYTECH MantisPod Pro](https://www.bhphotovideo.com/c/product/1645235-REG/pgytech_p_cg_020_mantispod_pro_vlogging_tripod.html)
 - [Ulanzi Zero Y Lightweight Travel Tripod](https://www.ulanzi.com/collections/best-seller/products/ulanzi-coman-lightweight-travel-tripod)
 - [Moment Filmmaker's Cage](https://www.shopmoment.com/products/moment-mobile-filmmaker-cage-for-magsafe/)
