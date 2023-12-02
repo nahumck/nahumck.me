@@ -15,7 +15,7 @@ Inspired by the collection of [posts gathered by Robb Knight](https://defaults.r
 	- Hover
 	- Gmail
 - 📝 Notes: 
-	- [Drafts](https://apps.apple.com/us/app/drafts/id1236254471?uo=4&at=1001l4VZ) everything
+	- [Drafts](https://apps.apple.com/us/app/drafts/id1236254471?uo=4&at=1001l4VZ) for everything
 	- Notes.app - for items which need attachments or sharing
 - ✅ Task Management:
 	- Reminders.app
@@ -24,7 +24,7 @@ Inspired by the collection of [posts gathered by Robb Knight](https://defaults.r
 	- Camera.app
 	- [Halide](https://apps.apple.com/us/app/halide-mark-ii-pro-camera/id885697368?uo=4&at=1001l4VZ) 
 	- [Pro Camera by Moment](https://apps.apple.com/us/app/pro-camera-by-moment/id927098908?uo=4&at=1001l4VZ)
-- 🌅 Photo Management: 
+- 🌅 Photo Editing / Management: 
 	- Photos.app
 	- [Photomator](https://apps.apple.com/us/app/photomator-photo-editor/id1444636541?uo=4&at=1001l4VZ)
 	- [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746?uo=4&at=1001l4VZ)
