@@ -38,6 +38,11 @@ module.exports = function(eleventyConfig) {
         return [year, month, day].join('-');
     })
 
+    eleventyConfig.addFilter('getPostYear', function(date) {
+        var d = new Date(date)
+        return d.getFullYear()
+    })
+
     eleventyConfig.addCollection("posts", function(collection) {
         return collection.getFilteredByGlob("posts/**/*.md").reverse().map(p => {
             // apply docId to make footnotes unique when showing multiple posts

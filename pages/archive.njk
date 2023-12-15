@@ -9,7 +9,7 @@ permalink: archives/index.html
 {% set started = false %}
 
 {%- for post in collections.posts %}
-    {% set postYear = post.data.date.split('-')[0] %}
+    {% set postYear = post.data.date | getPostYear %}
 
     {% if postYear != currentYear %}
         {% if started %}
