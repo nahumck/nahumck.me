@@ -1,6 +1,6 @@
 ---
 title: Function by a Thousand 'Cuts
-permalink: function-by-a-thousand-'cuts/index.html
+permalink: function-by-a-thousand-cuts/index.html
 date: 2023-12-15
 layout: post
 tags: 
