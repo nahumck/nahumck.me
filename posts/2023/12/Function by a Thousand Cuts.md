@@ -30,7 +30,7 @@ Going all the way back to the original ActionCut, I had started this idea that e
 
 ![](/images/Function-Cuts-main.png)
 
-One of the more difficult parts of all this was having an aesthetic that worked well with the widgets and choosing the right icon for each 'Cut. I've used icons from the [echoes](https://timeloop.gumroad.com/l/echoes) icon pack before, but I really appreciate the design of these and feel that I can make them work better than having regular app icons or other icon sets. Some of these have been heavily modified by using [Pixelmator](https://apps.apple.com/us/app/pixelmator/id924695435?uo=4&at=1001l4VZ) to change colors and tweak backgrounds. This adds to the customization for me and makes this even more unique. And I did have unique colors for a bit, but I like the overall feel of the monochromatic theme here. Keeps me focused.
+One of the more difficult parts of all this was having an aesthetic that worked well with the widgets and choosing the right icon for each 'Cut. I've used icons from the [echoes](https://eleveight.gumroad.com/l/echoes) icon pack before, but I really appreciate the design of these and feel that I can make them work better than having regular app icons or other icon sets. Some of these have been heavily modified by using [Pixelmator](https://apps.apple.com/us/app/pixelmator/id924695435?uo=4&at=1001l4VZ) to change colors and tweak backgrounds. This adds to the customization for me and makes this even more unique. And I did have unique colors for a bit, but I like the overall feel of the monochromatic theme here. Keeps me focused.
 
 ![](/images/Cuts-with-Submenus.png "Submenus give me more at my fingertips, but for less-used shortcuts.")
 
