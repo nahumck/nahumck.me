@@ -4,8 +4,8 @@ permalink: function-by-a-thousand-cuts/index.html
 date: 2023-12-15
 layout: post
 tags: 
-  - shortcuts
-  - homescreens
+  - "shortcuts"
+  - "homescreens"
 ---
 
 I recently shared my home screen setup in the [Club MacStories](https://club.macstories.net/) newsletter. As is tradition with me, I changed it about 3 days after publication. And then again. And again. But rather than just mixing it up, I sat down and totally re-thought the functionality of my home screen, from what I'm using to the placement of the icons & widgets. Whereas I started and ended with a single home screen, the functionality I've gained in this new setup is far greater than I had hoped.
