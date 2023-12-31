@@ -11,7 +11,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Devices
 - [iPhone 14 Pro, Deep Purple, 512GB](https://www.apple.com/iphone-14-pro/) in a [Moment case](https://www.shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe/14-pro-black) with the [Drop-in Lens Mount](https://www.shopmoment.com/products/moment-drop-in-lens-mount-for-iphone-14/iphone14pro-and-iphone14promax)and a [CineClear Snap-On Protection Filter](https://www.shopmoment.com/products/moment-cineclear-snap-on-filter-for-iphone-14-pro-pro-max/) when not using Moment's lenses
 - [Apple Watch Ultra](https://amzn.to/3YMnoUg) with [many watch bands](https://www.nahumck.me/watch-band-collection/)
-- [iPad Pro 12.9" with the M1 chip, 1TB, silver, cellular](https://amzn.to/3CMJTww) with [Apple Pencil](https://amzn.to/3kKeQeD), [CoverBuddy](https://amzn.to/3lW9Ena) and [Moshi iVisor AG](https://www.moshi.com/en/product/ivisor-ag-anti-glare-screen-protector/black-clear-matte-for-ipad-pro-129-inch-5th-3rd-gen/), in the [Magic Keyboard](https://amzn.to/3obahMx) in a [dBrand matte black skin](https://dbrand.com/shop/magic-keyboard-for-ipad-pro-12.9-2021-skins-gen-5) or  [Moko Smart Folio](https://amzn.to/3zF8AJq)
+- [iPad Pro 12.9" with the M1 chip, 1TB, silver, cellular](https://amzn.to/3CMJTww) with [Apple Pencil](https://amzn.to/3kKeQeD), [CoverBuddy](https://amzn.to/3NCNODY) and [Moshi iVisor AG](https://www.moshi.com/en/product/ivisor-ag-anti-glare-screen-protector/black-clear-matte-for-ipad-pro-129-inch-5th-3rd-gen/), in the [Magic Keyboard](https://amzn.to/3obahMx) in a [dBrand matte black skin](https://dbrand.com/shop/magic-keyboard-for-ipad-pro-12.9-2021-skins-gen-5) or  [ESR Smart Folio](https://amzn.to/3GSLh4L)
 - [AirPods Pro 2](https://amzn.to/3juJfzi)
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
@@ -19,6 +19,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [MagSafe Wallet (with Find My Support), midnight](https://amzn.to/43CLsKJ)
 - [Kershaw Analyst Tanto Pocket Knife](https://amzn.to/3DawPmV)
 - [Kershaw Cryo Knife](https://amzn.to/43lgJBG)
+- [Tactical LED Flashlight](https://amzn.to/3WlBt9N)
 
 ### Bags
 - [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) with the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
@@ -28,17 +29,20 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Peak Design Packable Tote](https://www.peakdesign.com/products/packable-tote)
 - [Peak Design Travel Duffelpack (45-65L)](https://www.peakdesign.com/products/travel-duffelpack)
 
-### Charging and Travel
+### Charging 
+#### Bedside
 - [Studio Neat Material Dock](https://www.studioneat.com/products/materialdock) - Upright Duo version, with custom 3D-printed Apple Watch charging cable holder
-- [Anker MagSafe Battery](https://amzn.to/3x8e5As)
 - [Anker 735 Charger](https://amzn.to/3hW4Znj)
-- [Anker 715 Charger](https://amzn.to/3ObSQYX)
+- Apple MagSafe Charger, Apple Watch Charger, and Braided USB-C to USB-C Cable
+
+#### Scalable Travel
+- [Anker Prime 67W charger](https://amzn.to/3FenwDx)
 - [OtterBox 2-in-1 Power Bank with MagSafe](https://store.apple.com/xc/product/HQ322ZM/A)
-- [Anker USB-C to USB-C Cable](https://amzn.to/30warjD) 
+- [USB-C/A to USB-C/Lightning Cables](https://amzn.to/3YLVd7Q)
+- [UGreen USB-C to USB-C Cable](https://amzn.to/3ZPizur) 
+- [Anker MagSafe Battery](https://amzn.to/3x8e5As)
 - Apple USB-C to Lightning cable (black, braided – came with the [Magic Trackpad 2](https://amzn.to/3zP56Ea))
-- [USB-C/A to USB-C/Lightning Cable](https://amzn.to/3YLVd7Q)
-- [HyperDrive USB-C Hub 6-in-1 Adapter](https://amzn.to/2G1f388)
-- [Tactical LED Flashlight](https://amzn.to/3WlBt9N)
+- [Anker 715 charger](https://amzn.to/46KhCph)
 
 ### Mobile Photo & Video
 #### Filters
@@ -76,6 +80,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Moment Filmmaker's Cage](https://www.shopmoment.com/products/moment-mobile-filmmaker-cage-for-magsafe/)
 - [Apurture Amaran MC RGBWW Mini On-Camera Video Light](https://amzn.to/3hS18rw)
 - [Rode VideoMic Go II](https://www.bhphotovideo.com/c/product/1679915-REG/rode_vmgoii_videomic_go_ii_ultracompact.html) with [SC15 cable Lightning to USB-C](https://www.bhphotovideo.com/c/product/1602040-REG/rode_sc15_300mm_lightning_to_usb_c.html)
+- [HyperDrive 6-in-1 USB-C Media Hub](https://amzn.to/48DRihQ)
 
 ### Drone
 - [DJI Mini 3 Pro with RC remote](https://amzn.to/3GdZ4Dv)
@@ -99,7 +104,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Monitor Lamp](https://amzn.to/3CYyk5b)
 - [Vornado Personal Air Circulator](https://amzn.to/3C2pG8a)
 - [Sonos Roam Speaker](https://amzn.to/3POPkmp)
-- [elago MS3 Charging Stand Compatible with MagSafe Charger](https://amzn.to/3SZTvzq) with MagSafe Charger
+- [elago MS3 Charging Stand Compatible with MagSafe Charger](https://amzn.to/3SZTvzq)
 
 ### Software
 
