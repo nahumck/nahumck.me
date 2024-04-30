@@ -70,17 +70,19 @@ Here is a table of the current watch bands I own:
 | 54                    | White                                    | Fall / 2022   |
 | 55                    | Midnight                                 | Fall / 2022   |
 | 56                    | Yellow                                   | Fall / 2022   |
-| 57                    | Orange                                   | Fall / 2023   |
+| 57                    | Blue                                     | Fall / 2023   |
+| 58                    | Orange                                   | Fall / 2023   |
 | **Trail Loop**        |                                          |               |
-| 58                    | Black / Gray                             | Fall / 2022   |
-| 59                    | Gray / Blue                              | Fall / 2022   |
-| 60                    | Orange / Beige                           | Fall / 2023   |
-| 61                    | Green / Gray                             | Fall / 2023   |
+| 59                    | Black / Gray                             | Fall / 2022   |
+| 60                    | Gray / Blue                              | Fall / 2022   |
+| 61                    | Orange / Beige                           | Fall / 2023   |
+| 62                    | Green / Gray                             | Fall / 2023   |
 | **Leather Link**      |                                          |               |
-| 62                    | Saddle Brown                             | Fall / 2020   |
-| 63                    | Chalk Leather                            | Spring / 2021 |
+| 63                    | Saddle Brown                             | Fall / 2020   |
+| 64                    | Chalk Leather                            | Spring / 2021 |
 | **Others**            |                                          |               |
-| 64                    | Nomad Lunar Gray Sport Band              | Spring / 2021 |
-| 65                    | Nomad Ultra Orange Sport Band            | Fall / 2022   |
-| 66                    | Spigen DuraPro Flex Black Ultra Band     | Fall / 2022   |
-| 67                    | Shinola Brown Leather Strap 24mm         | Fall / 2022   |
+| 65                    | Nomad Lunar Gray Sport Band              | Spring / 2021 |
+| 66                    | Nomad Ultra Orange Sport Band            | Fall / 2022   |
+| 67                    | Nomad Ultra Glow 2.0 Sport Band          | Spring / 2023 |
+| 68                    | Spigen DuraPro Flex Black Ultra Band     | Fall / 2022   |
+| 69                    | Shinola Brown Leather Strap 24mm         | Fall / 2022   |
