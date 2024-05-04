@@ -9,7 +9,7 @@ tags:
 
 This morning when I couldn't sleep in the middle of the night for whatever stupid reason, I thought about how I've been using some of my shortcuts and trying to figure out how to improve them. As one does at 3:30am. And in my sleepless productivity, I created a couple of simple shortcuts that are going to improve capture for me. Both of these have the same basic blocks, so I'll show them side by side below. 
 
-Sometimes I want to enter tasks as part of a brain dump. I'll grab my phone, use my one of my [versitile shortcuts](https://nahumck.me/function-by-a-thousand-cuts/) – like LockCut or CaptureCut – and enter the single task. But what about multiple tasks? What if I want to continue to add items until I can't anymore? 
+Sometimes I want to enter tasks as part of a brain dump. I'll grab my phone, use my one of my [versatile shortcuts](https://nahumck.me/function-by-a-thousand-cuts/) – like LockCut or CaptureCut – and enter the single task. But what about multiple tasks? What if I want to continue to add items until I can't anymore? 
 
 ![](/images/Capture-on-Repeat-Shortcuts.png "Clearly the right answer.")
 
