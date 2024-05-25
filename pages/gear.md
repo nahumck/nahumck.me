@@ -96,7 +96,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Home Office
 
 - [IKEA Adjustable Height Desk frame](https://www.ikea.com/us/en/p/idasen-sit-stand-underframe-for-table-top-dark-gray-20412175/) with a [butcher block top](https://www.lowes.com/pd/Sparrow-Peak-Acacia-5-ft-x-30-in-Ebony/5001792701).
-- [LG 24" UltraFine 4K display](https://amzn.to/2ZCzVQ8)
+- [Dell U2723QE 27" 4K UHD Monitor](https://amzn.to/3QZCTWA)
 - [HyperDrive Gen 2](https://www.indiegogo.com/projects/hyperdrive-gen2-next-generation-usb-c-hub) (connected & mounted directly to the display)
 - [Magic Trackpad 2](https://amzn.to/3zP56Ea)
 - [Keychron K2](https://amzn.to/3rbbmpf) mechanical keyboard, connected to the display via a usb-c cable
