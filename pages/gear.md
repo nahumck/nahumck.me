@@ -11,7 +11,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Devices
 - [iPhone 14 Pro, Deep Purple, 512GB](https://www.apple.com/iphone-14-pro/) in a [Moment case](https://www.shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe/14-pro-black) with the [Drop-in Lens Mount](https://www.shopmoment.com/products/moment-drop-in-lens-mount-for-iphone-14/iphone14pro-and-iphone14promax)and a [CineClear Snap-On Protection Filter](https://www.shopmoment.com/products/moment-cineclear-snap-on-filter-for-iphone-14-pro-pro-max/) when not using Moment's lenses
 - [Apple Watch Ultra](https://amzn.to/3YMnoUg) with [many watch bands](https://www.nahumck.me/watch-band-collection/)
-- [iPad Pro 12.9" with the M1 chip, 1TB, silver, cellular](https://amzn.to/3CMJTww) with [Apple Pencil](https://amzn.to/3kKeQeD), [CoverBuddy](https://amzn.to/3NCNODY) and [Moshi iVisor AG](https://www.moshi.com/en/product/ivisor-ag-anti-glare-screen-protector/black-clear-matte-for-ipad-pro-129-inch-5th-3rd-gen/), in the [Magic Keyboard](https://amzn.to/3obahMx) in a [dBrand matte black skin](https://dbrand.com/shop/magic-keyboard-for-ipad-pro-12.9-2021-skins-gen-5) or  [ESR Smart Folio](https://amzn.to/3GSLh4L)
+- [11" iPad Pro M4 (2024, 1TB/Space Black/Cellular/nano texture glass)](https://store.apple.com/xc/product/MWRP3LL/A) with [Apple Pencil Pro](https://store.apple.com/xc/product/MX2D3AM/A), in the [Black Magic Keyboard](https://store.apple.com/xc/product/MWR23LL/A) in a [dBrand matte black skin](https://dbrand.com/shop/skins/magic-keyboard-for-ipad-pro-11-m4-skins) or [ESR Smart Folio](https://amzn.to/44Vbtqy)
 - [AirPods Pro 2](https://amzn.to/3juJfzi)
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
@@ -100,7 +100,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [HyperDrive Gen 2](https://www.indiegogo.com/projects/hyperdrive-gen2-next-generation-usb-c-hub) (connected & mounted directly to the display)
 - [Magic Trackpad 2](https://amzn.to/3zP56Ea)
 - [Keychron K2](https://amzn.to/3rbbmpf) mechanical keyboard, connected to the display via a usb-c cable
-- [VIVO Dual Monitor VESA Mount](https://amzn.to/33Gbgfm) with a magnetic [iPad Pro VESA Mount](https://zelal.pro/en-us/products/magnetic-vesa-mount-for-ipad-pro)
+- [VIVO Dual Monitor VESA Mount](https://amzn.to/33Gbgfm) with a homemade magnetic iPad Pro VESA Mount
 - [Monitor Lamp](https://amzn.to/3CYyk5b)
 - [Vornado Personal Air Circulator](https://amzn.to/3C2pG8a)
 - [Sonos Roam Speaker](https://amzn.to/3POPkmp)
