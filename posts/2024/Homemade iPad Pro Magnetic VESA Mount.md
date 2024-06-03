@@ -29,6 +29,6 @@ Then, I found a scrap piece of 1" x 8" pine. You don't have to use pine: you cou
 
 With the board painted black, the threaded inserts installed, the back of the folio case super glued, and everything fully dried, all I needed to do was attach the mount plate and put it on the arm. I ended up adding some [cable management](https://amzn.to/4bwiyAs) for the USB-C cable to make it super clean.
 
-![](/images/Magnetic-VESA-Mount-Fully-Installed.jpg)
+![](/images/Magnetic-VESA-Mount-Installed.jpg)
 
 I think this is just about the most simplistic build that could be done for this, and what most people would be best served by. I could have done a few things differently to allow for a super-slick hidden cable management system, but in practice it's perfectly fine. I'm sure that there are other material options here instead of using wood based on your own aesthetic - like 3D printing – so use what you think might be best. Fun little project, and it saved me a bunch of time and money waiting on someone to make it for me.
