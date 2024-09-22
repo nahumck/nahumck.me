@@ -8,7 +8,7 @@ Here is a table of the current watch bands I own:
 
 | Band Type             | Color                                    | Release       |
 |-----------------------|:----------------------------------------:|:-------------:|
-| **Sport**             |                                          |               |
+| **Sport**             |||
 | 01 | Black (1st gen)                          | Spring / 2015 |
 | 02 | Yellow (2016)                            | Spring / 2016 |
 | 03 | Hermès Orange                            | Fall / 2016   |
@@ -27,7 +27,7 @@ Here is a table of the current watch bands I own:
 | 16 | Clover                                   | Fall / 2021   |
 | 17 | Starlight                                | Fall / 2021   |
 | 18 | Sunshine                                 | Spring / 2024 |
-| **Nike Sport**        |                                          |               |
+| **Nike Sport**        |||
 | 19 | Anthracite / Black                       | Spring / 2017 |
 | 20 | Pure Platinum / Black                    | Fall / 2017   |
 | 21 | Olive Flak / Black                       | Fall / 2018   |
@@ -39,7 +39,7 @@ Here is a table of the current watch bands I own:
 | 27 | Spruce Aura / Vapor Green                | Fall / 2020   |
 | 28 | Ironstone / Black                        | Spring / 2021 |
 | 29 | Hasta / Light Silver                     | Spring / 2021 |
-| **Sport Loop**        |                                          |               |
+| **Sport Loop**        |||
 | 30 | Black                                    | Fall / 2017   |
 | 31 | Storm Gray                               | Fall / 2018   |
 | 32 | Alaska Blue                              | Fall / 2019   |
@@ -55,12 +55,12 @@ Here is a table of the current watch bands I own:
 | 42 | Sea Salt                                 | Spring / 2021 |
 | 43 | Sunflower                                | Spring / 2021 |
 | 44 | Midnight                                 | Fall / 2022   |
-| **Braided Solo Loop** |                                          |               |
+| **Braided Solo Loop** |||
 | 45 | Charcoal                                 | Fall / 2020   |
 | 46 | Pride (2021)                             | Summer / 2021 |
 | 47 | Maize                                    | Fall / 2021   |
 | 48 | Clay                                     | Fall / 2023   |
-| **Alpine Loop**       |                                          |               |
+| **Alpine Loop**       |||
 | 49 | Orange                                   | Fall / 2022   |
 | 50 | Green                                    | Fall / 2022   |
 | 51 | Starlight                                | Fall / 2022   |
@@ -69,21 +69,21 @@ Here is a table of the current watch bands I own:
 | 54 | Indigo                                   | Fall / 2023   |
 | 55 | Olive                                    | Fall / 2023   |
 | 56 | Tan                                    | Fall / 2024   |
-| **Ocean Band**        |                                          |               |
+| **Ocean Band**        |||
 | 57 | White                                    | Fall / 2022   |
 | 58 | Midnight                                 | Fall / 2022   |
 | 59 | Yellow                                   | Fall / 2022   |
 | 60 | Blue                                     | Fall / 2023   |
 | 61 | Orange                                   | Fall / 2023   |
 | 62 | Black                                   | Fall / 2024   |
-| **Trail Loop**        |                                          |               |
+| **Trail Loop**        |||
 | 63 | Black / Gray                             | Fall / 2022   |
 | 64 | Gray / Blue                              | Fall / 2022   |
 | 65 | Orange / Beige                           | Fall / 2023   |
 | 66 | Green / Gray                             | Fall / 2023   |
-| **Leather Link**      |                                          |               |
+| **Leather Link**      |||
 | 67 | Chalk Leather                            | Spring / 2021 |
-| **Others**            |                                          |               |
+| **Others**            |||
 | 68 | Nomad Lunar Gray Sport Band              | Spring / 2021 |
 | 69 | Nomad Ultra Orange Sport Band            | Fall / 2022   |
 | 70 | Nomad Ultra Glow 2.0 Sport Band          | Spring / 2023 |
