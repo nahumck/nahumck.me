@@ -9,9 +9,9 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 [^missed]: This should be all of it, but I might have missed some things…
 
 ### Devices
-- [iPhone 14 Pro, Deep Purple, 512GB](https://www.apple.com/iphone-14-pro/) in a [Moment case](https://www.shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe/14-pro-black) with the [Drop-in Lens Mount](https://www.shopmoment.com/products/moment-drop-in-lens-mount-for-iphone-14/iphone14pro-and-iphone14promax)and a [CineClear Snap-On Protection Filter](https://www.shopmoment.com/products/moment-cineclear-snap-on-filter-for-iphone-14-pro-pro-max/) when not using Moment's lenses
+- [iPhone 16 Pro 512GB Natural Titanium](https://store.apple.com/xc/product/MYMP3LL/A) in either a [Moment case](https://www.shopmoment.com/products/moment-case-for-iphone-16-compatible-with-magsafe?variant=49383505396027) or a [PITAKA case](https://amzn.to/40mh8Wy) 
 - [Apple Watch Ultra](https://amzn.to/3YMnoUg) with [many watch bands](https://www.nahumck.me/watch-band-collection/)
-- [11" iPad Pro M4 (2024, 1TB/Space Black/Cellular/nano texture glass)](https://store.apple.com/xc/product/MWRP3LL/A) with [Apple Pencil Pro](https://store.apple.com/xc/product/MX2D3AM/A), with the [Spigen DA20 Pencil Holder](https://amzn.to/3LXIDNH) in the [Black Magic Keyboard](https://store.apple.com/xc/product/MWR23LL/A) covered with a [dBrand matte black skin](https://dbrand.com/shop/skins/magic-keyboard-for-ipad-pro-11-m4-skins) or [ESR Smart Folio](https://amzn.to/44Vbtqy)
+- [11" iPad Pro M4 (2024, 1TB/Space Black/Cellular/nano texture glass)](https://store.apple.com/xc/product/MWRP3LL/A) with [Apple Pencil Pro](https://store.apple.com/xc/product/MX2D3AM/A), with the [Spigen DA20 Pencil Holder](https://amzn.to/3LXIDNH) in the [Black Magic Keyboard](https://store.apple.com/xc/product/MWR23LL/A) in a [dBrand matte black skin](https://dbrand.com/shop/skins/magic-keyboard-for-ipad-pro-11-m4-skins) or [ESR Smart Folio](https://amzn.to/44Vbtqy)
 - [AirPods Pro 2](https://amzn.to/3juJfzi)
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
@@ -46,40 +46,30 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 
 ### Mobile Photo & Video
 #### Filters
-- [Moment 67mm Snap-On Filter Adapter](https://www.shopmoment.com/products/moment-67mm-snap-on-filter-adapter-for-iphone14-pro-pro-max/)
-- [Moment 67mm Variable ND Filter (2-5 Stops)](https://www.shopmoment.com/products/moment-variable-nd-filters) with a [center-pinch lens cap](https://amzn.to/3o4tWOe)
-- [Moment 67mm Variable ND Filter (6-9 Stops)](https://www.shopmoment.com/products/moment-variable-nd-filters) with a [center-pinch lens cap](https://amzn.to/3o4tWOe)
-- [Moment 67mm CineClear UV Filter](https://www.shopmoment.com/products/cineclear-uv-protection-filter)
-- [Moment 67mm Cinebloom 20% filter](https://www.shopmoment.com/products/moment-cinebloom-diffusion-filters)
-- [Moment 67mm CineFlare Streak Filter - Gold](https://www.shopmoment.com/products/moment-cineflare-streak-filters/)
-- [K&F Concept 67mm UV Filter](https://amzn.to/3oaBfDW)
-- [K&F Concept 67mm Black Mist 1/4 Filter](https://amzn.to/3CNS0Jj)
-- [K&F Concept 67mm CPL Filter](https://amzn.to/3i8Lll3)
-- [Lens filter slim caps](https://amzn.to/3CPoAuc) for all of them
+- [Moment Mobile VND (2-7 Stop) QuickLock Filter](https://www.shopmoment.com/products/vnd-2-7-stop-quicklock-filter-for-iphone-15-pro-pro-max?variant=49452978438459)
+- [Moment Mobile CineBloom QuickLock Filter 10%](https://www.shopmoment.com/products/cinebloom-quicklock-filter-for-iphone-15-pro-pro-max?variant=49452977815867)
+- [Moment Mobile AntiGlare CPL QuickLock Filter](https://www.shopmoment.com/products/moment-antiglare-cpl-quick-lock-filter-for-iphone-15-16?variant=49452976472379)
+- [Moment Mobile CineClear UV Protection QuickLock Filter](https://www.shopmoment.com/products/moment-cineclear-uv-quick-lock-filter-for-iphone-15-16-pro?variant=49452977979707)
+> I have other 67mm filters too, but it seems excessive to list them. I'm using these mainly because they are super compact and easy to use.
+
 #### Lenses
-- [Anamorphic - Blue](https://www.shopmoment.com/products/anamorphic-lens)
-- [Anamorphic - Gold](https://www.shopmoment.com/products/anamorphic-lens-gold-flare)
-- [Wide](https://www.shopmoment.com/products/wide-18-mm-lens)
-- [Tele 58mm](https://www.shopmoment.com/products/tele-58-mm-lens)
-- [Macro](https://www.shopmoment.com/products/macro-lens)
-- [Moment Lens Filter Mount](https://www.shopmoment.com/products/67mm-lens-filter-mount/67mm)
-- a [rear](https://www.shopmoment.com/products/rear-lens-cap) lens cap for each
+- [Moment Tele 58mm Mobile Lens - T-Series](https://www.shopmoment.com/products/58mm-tele-lens?variant=48040445182267)
+- [Moment Macro 75mm Mobile Lens | T-Series](https://www.shopmoment.com/products/75mm-macro-mobile-lens-t-series)
 #### Cleaning Items
 - [Moment Mobile Camera Lens Cleaning Pen](https://www.shopmoment.com/products/lens-pen/lens-pen)
 - the official [Apple Polishing Cloth](https://amzn.to/3YPbjOg) and some [knock-off polishing cloths](https://amzn.to/3GhJ97f)
 - small bottle of lens cleaner
 #### Tripods, mounts, and video gear
-- [Peak Design Capture](https://www.peakdesign.com/products/capture)
-- [SmallRig multitool](https://amzn.to/3VolB4P)
-- [Moment Bluetooth Remote](https://www.shopmoment.com/products/moment-bluetooth-remote/v2)
-- [Ulanzi ST-27 Metal Phone Tripod Mount Clip](https://www.ulanzi.com/collections/phone-tripod-mount/products/ulanzi-st-27-metal-phone-clip)
+- [Ulanzi MagSafe Shutter Grip](https://amzn.to/3Ur8Dpv)
+- [Ulanzi MagSafe Fill Light](https://amzn.to/40kBAqD)
 - [Moment Pro Tripod Mount for MagSafe](https://www.shopmoment.com/products/moment-pro-tripod-mount-for-magsafe/pro-portrait-landscape)
-- [JOBY GripTight ONE Micro Stand](https://a.co/d/eWip7ZU)
 - [PGYTECH MantisPod Pro](https://www.bhphotovideo.com/c/product/1645235-REG/pgytech_p_cg_020_mantispod_pro_vlogging_tripod.html)
 - [Ulanzi Zero Y Lightweight Travel Tripod](https://www.ulanzi.com/collections/best-seller/products/ulanzi-coman-lightweight-travel-tripod)
-- [Moment Filmmaker's Cage](https://www.shopmoment.com/products/moment-mobile-filmmaker-cage-for-magsafe/)
+- [SmallRig multitool](https://amzn.to/3VolB4P)
+- [Moment Bluetooth Remote](https://www.shopmoment.com/products/moment-bluetooth-remote/v2)
+- [Ulanzi Metal Phone Tripod Mount Clip](https://www.ulanzi.com/collections/phone-tripod-mount/products/ulanzi-st-27-metal-phone-clip)
+- [Rode VideoMic Go II](https://www.bhphotovideo.com/c/product/1679915-REG/rode_vmgoii_videomic_go_ii_ultracompact.html) with [SC22 USB-C to USB-C cable](https://amzn.to/3YBxIAu)
 - [Apurture Amaran MC RGBWW Mini On-Camera Video Light](https://amzn.to/3hS18rw)
-- [Rode VideoMic Go II](https://www.bhphotovideo.com/c/product/1679915-REG/rode_vmgoii_videomic_go_ii_ultracompact.html) with [SC15 cable Lightning to USB-C](https://www.bhphotovideo.com/c/product/1602040-REG/rode_sc15_300mm_lightning_to_usb_c.html)
 - [HyperDrive 6-in-1 USB-C Media Hub](https://amzn.to/48DRihQ)
 
 ### Drone
@@ -110,9 +100,9 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 
 All of my writing is done in [Drafts](https://apps.apple.com/us/app/drafts/id1236254471?uo=4&at=1001l4VZ) on iOS/iPadOS. If you're here, you knew this already. 
 
-Photos are edited using the following apps in addition to Apple's built-in editor: [Darkroom](https://apps.apple.com/app/id953286746), [Photomator](https://apps.apple.com/us/app/photomator-photo-editor/id1444636541), or [Pixelmator](https://apps.apple.com/us/app/pixelmator/id924695435).
+Photos are edited using [Lightroom](https://apps.apple.com/us/app/adobe-lightroom-for-ipad/id804177739) in addition to Apple's built-in editor.
 
-All of my podcasting – when I do it – is recorded and edited using [Ferrite Recording Studio](https://apps.apple.com/us/app/ferrite-recording-studio/id1018780185?uo=4&at=1001l4VZ) on iOS/iPadOS.
+All of my podcasting – when I actually do it – is recorded and edited using [Ferrite Recording Studio](https://apps.apple.com/us/app/ferrite-recording-studio/id1018780185) on iOS/iPadOS.
 
 
 <em>I use affiliate linking and occasionally get money from this. So thanks for clicking these links.</em>
