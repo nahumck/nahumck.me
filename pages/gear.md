@@ -11,7 +11,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 ### Devices
 - [iPhone 16 Pro 512GB Natural Titanium](https://store.apple.com/xc/product/MYMP3LL/A) in either a [Moment case](https://www.shopmoment.com/products/moment-case-for-iphone-16-compatible-with-magsafe?variant=49383505396027) or a [PITAKA case](https://amzn.to/40mh8Wy) 
 - [Apple Watch Ultra](https://amzn.to/3YMnoUg) with [many watch bands](https://www.nahumck.me/watch-band-collection/)
-- [11" iPad Pro M4 (2024, 1TB/Space Black/Cellular/nano texture glass)](https://store.apple.com/xc/product/MWRP3LL/A) with [Apple Pencil Pro](https://store.apple.com/xc/product/MX2D3AM/A), with the [Spigen DA20 Pencil Holder](https://amzn.to/3LXIDNH) in the [Black Magic Keyboard](https://store.apple.com/xc/product/MWR23LL/A) in a [dBrand matte black skin](https://dbrand.com/shop/skins/magic-keyboard-for-ipad-pro-11-m4-skins) or [ESR Smart Folio](https://amzn.to/44Vbtqy)
+- [11" iPad Pro M4 (2024, 1TB/Space Black/Cellular/nano texture glass)](https://store.apple.com/xc/product/MWRP3LL/A) with [Apple Pencil Pro](https://store.apple.com/xc/product/MX2D3AM/A), with the [Spigen DA20 Pencil Holder](https://amzn.to/3LXIDNH) in the [Black Magic Keyboard](https://store.apple.com/xc/product/MWR23LL/A) covered with a [dBrand matte black skin](https://dbrand.com/shop/skins/magic-keyboard-for-ipad-pro-11-m4-skins) or [ESR Smart Folio](https://amzn.to/44Vbtqy)
 - [AirPods Pro 2](https://amzn.to/3juJfzi)
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
