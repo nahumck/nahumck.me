@@ -16,14 +16,14 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
 ### EDC
-- [MagSafe Wallet (with Find My Support), midnight](https://amzn.to/43CLsKJ)
+- [MagSafe FineWoven Wallet, Black](https://amzn.to/41CEl7r)
 - [Kershaw Analyst Tanto Pocket Knife](https://amzn.to/3DawPmV)
 - [Kershaw Cryo Knife](https://amzn.to/43lgJBG)
 - [Tactical LED Flashlight](https://amzn.to/3WlBt9N)
 
 ### Bags
 - [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) with the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
-- [Peak Design Everyday Sling 10L](https://www.peakdesign.com/products/everyday-sling)
+- [5.11 Tactical LVC10 Sling Pack](https://www.511tactical.com/lvc10-sling-pack-2-0.html)
 - [Peak Design Field Pouch V2](https://www.peakdesign.com/products/field-pouch/?variant=39360874741837) with the [Slide Camera Sling Strap](https://www.peakdesign.com/products/slide)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch)
 - [Peak Design Packable Tote](https://www.peakdesign.com/products/packable-tote)
@@ -31,31 +31,27 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 
 ### Charging 
 #### Bedside
-- [Studio Neat Material Dock](https://www.studioneat.com/products/materialdock) - Upright Duo version, with custom 3D-printed Apple Watch charging cable holder
+- [Studio Neat Material Dock](https://www.studioneat.com/products/materialdock) - Upright Duo version, with custom 3D-printed Apple Watch charging cable holder, using the standard Apple MagSafe and Watch Chargers
+- [Anker 2-in-1 Cable](https://amzn.to/4gjcXQp) for charging my iPad and Kindle
 - [Anker 735 Charger](https://amzn.to/3hW4Znj)
-- Apple MagSafe Charger, Apple Watch Charger, and Braided USB-C to USB-C Cable
 
 #### Scalable Travel
-- [Anker Prime 67W charger](https://amzn.to/3FenwDx)
+- [UGreen 5-Port 100W Charger](https://amzn.to/49G0Ha6)
+- [Anker MagGo 3-in-1 Charger](https://amzn.to/4gxhoaF)
+- [USB-C/A to USB-C Cable](https://amzn.to/41BThCY)
+- [USB-C to USB-C Cables](https://amzn.to/3ZPizur) 
+- [Anker Qi2 MagSafe Battery](https://amzn.to/3Zx9fLK)
 - [OtterBox 2-in-1 Power Bank with MagSafe](https://store.apple.com/xc/product/HQ322ZM/A)
-- [USB-C/A to USB-C/Lightning Cables](https://amzn.to/3YLVd7Q)
-- [UGreen USB-C to USB-C Cable](https://amzn.to/3ZPizur) 
-- [Anker MagSafe Battery](https://amzn.to/3x8e5As)
-- Apple USB-C to Lightning cable (black, braided – came with the [Magic Trackpad 2](https://amzn.to/3zP56Ea))
-- [Anker 715 charger](https://amzn.to/46KhCph)
 
 ### Mobile Photo & Video
-#### Filters
+#### Lenses & Filters
 - [Moment Mobile VND (2-7 Stop) QuickLock Filter](https://www.shopmoment.com/products/vnd-2-7-stop-quicklock-filter-for-iphone-15-pro-pro-max?variant=49452978438459)
 - [Moment Mobile CineBloom QuickLock Filter 10%](https://www.shopmoment.com/products/cinebloom-quicklock-filter-for-iphone-15-pro-pro-max?variant=49452977815867)
 - [Moment Mobile AntiGlare CPL QuickLock Filter](https://www.shopmoment.com/products/moment-antiglare-cpl-quick-lock-filter-for-iphone-15-16?variant=49452976472379)
 - [Moment Mobile CineClear UV Protection QuickLock Filter](https://www.shopmoment.com/products/moment-cineclear-uv-quick-lock-filter-for-iphone-15-16-pro?variant=49452977979707)
 > I have other 67mm filters too, but it seems excessive to list them. I'm using these mainly because they are super compact and easy to use.
-
-#### Lenses
 - [Moment Tele 58mm Mobile Lens - T-Series](https://www.shopmoment.com/products/58mm-tele-lens?variant=48040445182267)
 - [Moment Macro 75mm Mobile Lens | T-Series](https://www.shopmoment.com/products/75mm-macro-mobile-lens-t-series)
-#### Cleaning Items
 - [Moment Mobile Camera Lens Cleaning Pen](https://www.shopmoment.com/products/lens-pen/lens-pen)
 - the official [Apple Polishing Cloth](https://amzn.to/3YPbjOg) and some [knock-off polishing cloths](https://amzn.to/3GhJ97f)
 - small bottle of lens cleaner
@@ -68,8 +64,9 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [SmallRig multitool](https://amzn.to/3VolB4P)
 - [Moment Bluetooth Remote](https://www.shopmoment.com/products/moment-bluetooth-remote/v2)
 - [Ulanzi Metal Phone Tripod Mount Clip](https://www.ulanzi.com/collections/phone-tripod-mount/products/ulanzi-st-27-metal-phone-clip)
-- [Rode VideoMic Go II](https://www.bhphotovideo.com/c/product/1679915-REG/rode_vmgoii_videomic_go_ii_ultracompact.html) with [SC22 USB-C to USB-C cable](https://amzn.to/3YBxIAu)
-- [Apurture Amaran MC RGBWW Mini On-Camera Video Light](https://amzn.to/3hS18rw)
+- [Hollyland Lark M2 Lavalier Microphone](https://amzn.to/49FwLed)
+- [Ulanzi Inflatable Tube Light](https://amzn.to/3P5AyId)
+- [Lexar Pro Go 2TB SDD with Hub](https://amzn.to/49HSVgb)
 - [HyperDrive 6-in-1 USB-C Media Hub](https://amzn.to/48DRihQ)
 
 ### Drone
