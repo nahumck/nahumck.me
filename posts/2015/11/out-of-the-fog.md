@@ -35,7 +35,7 @@ I remember being in a peaceful dream, surrounded by warmth, feeling happiness an
 
 It is then they tell me what happened, about the events that had just transpired: _my heart had stopped._ Stopped, flatlined, no pulse for 30 seconds. The nurse who asked if I was ok was also the one who had thumped her fist on my chest to get the heart going again. The doctors were looking for something specific in the monitor: the [p-wave](https://en.wikipedia.org/wiki/Electrocardiography) that precedes the normal heart rhythm that wasn’t showing. It’s basically your internal pacemaker that sets off the normal sinus rhythm, and I didn’t have it. So there I sat, waiting for the machine in the hallway, with nothing but my thoughts and a lot of tears.
 
-!["Typical EKG with a flatline](/images/EKG-Flatline.jpg)
+![Typical EKG with a flatline](/images/EKG-Flatline.jpg)
 
 What do you do with that news? How do you even process that without knowing what is wrong? It seemed almost surreal, until I thought that I wouldn’t see my wife & son again. Even though the experience was peaceful for me, the thought of what it would do to family & friends was overwhelming. The technician was very understanding of my current state and started the scan when I wasn’t a crying mess. The scan wasn’t conclusive.
 
