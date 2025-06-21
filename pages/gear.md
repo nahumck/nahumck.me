@@ -47,12 +47,11 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 
 ### Mobile Photo & Video
 #### Lenses & Filters
-- In the [Moment Soft Filter Case](https://amzn.to/4edswsz)
+- In the [Moment Soft Filter Case](https://amzn.to/4edswsz)[^filters]
 	- [Moment Mobile VND (2-7 Stop) QuickLock Filter](https://www.shopmoment.com/products/vnd-2-7-stop-quicklock-filter-for-iphone-15-pro-pro-max?variant=49452978438459)
 	- [Moment Mobile CineBloom QuickLock Filter 10%](https://www.shopmoment.com/products/cinebloom-quicklock-filter-for-iphone-15-pro-pro-max?variant=49452977815867)
 	- [Moment Mobile AntiGlare CPL QuickLock Filter](https://www.shopmoment.com/products/moment-antiglare-cpl-quick-lock-filter-for-iphone-15-16?variant=49452976472379)
 	- [Moment Mobile CineClear UV Protection QuickLock Filter](https://www.shopmoment.com/products/moment-cineclear-uv-quick-lock-filter-for-iphone-15-16-pro?variant=49452977979707)
-	> I have other 67mm filters too, but it seems excessive to list them. I'm using these mainly because they are super compact and easy to use.
 - In the [Moment Lens Carry Case](https://amzn.to/4kUhQBV)
 	- A custom made phone grip using a [mount](https://amzn.to/4eeg9g6) and the [G-Grip](https://ggrip.com)
 	- [Moment Tele 58mm Mobile Lens - T-Series](https://www.shopmoment.com/products/58mm-tele-lens?variant=48040445182267)
@@ -72,6 +71,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [DJI Osmo Mobile 7P Gimbal](https://amzn.to/4jXEjg9) with [Magnetic Quick Release Mount](https://amzn.to/44mLklX), [mini tripod (for extra stability)](https://amzn.to/4kRLTKx), and a [DJI Mic Mini](https://amzn.to/4narB0c)
 - [Ulanzi MagSafe Fill Light](https://amzn.to/40kBAqD)
 - [HyperDrive 6-in-1 USB-C Media Hub](https://amzn.to/48DRihQ)
+[^filters]: I have other 67mm filters too, but it seems excessive to list them. I'm using these mainly because they are super compact and easy to use.
 
 ### Drone
 - [DJI Mini 3 Pro with RC remote](https://amzn.to/3GdZ4Dv)
