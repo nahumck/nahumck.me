@@ -48,7 +48,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 
 ### Mobile Photo & Video
 #### Lenses & Filters
-- In the [Moment Soft Filter Case](https://amzn.to/4edswsz)[^filters]
+- In the [Moment Soft Filter Case](https://amzn.to/4edswsz)
 	- [Moment Mobile CineBloom QuickLock Filter 10%](https://www.shopmoment.com/products/cinebloom-quicklock-filter-for-iphone-15-pro-pro-max)
 	- [Moment Mobile 67mm QuickLock Filter Mount](https://www.shopmoment.com/products/67mm-quicklock-filter-mount-for-iphone-17)
 	- Various 67mm VND, CPL, and UV Filters depending on the activity
