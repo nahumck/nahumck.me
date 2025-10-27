@@ -36,7 +36,7 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 #### Bedside
 - [Studio Neat Material Dock](https://www.studioneat.com/products/materialdock) - Upright Duo version, with custom 3D-printed Apple Watch charging cable holder, using the standard Apple MagSafe and Watch Chargers
 - [Anker 2-in-1 Cable](https://amzn.to/4gjcXQp) for charging my iPad and Kindle
-- [Anker 735 Charger](https://amzn.to/3hW4Znj)
+- [Anker 67W Charger](https://amzn.to/4nqN4B1)
 
 #### Scalable Travel
 - [Anker 160W 3-Port Charger](https://amzn.to/4hyyDtk)
