@@ -20,11 +20,13 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Kershaw Cryo Knife](https://amzn.to/43lgJBG)
 - [Tactical LED Flashlight](https://amzn.to/3WlBt9N)
 - [WUBEN G5 Rechargeable EDC Flashlight](https://amzn.to/4ejjBGo)
+- [Keychain Flashlight](https://amzn.to/47sDEyX)
 - [Heroclip ](https://amzn.to/43UhDIT)
+- [Carabiner Multitool](https://amzn.to/4oCygQF)
 
 ### Bags
 - [WANDRD ROGUE 9L Sling](https://amzn.to/3ZIp17E) with [locking zipper pulls](https://amzn.to/3G9bmQg) and a [FALCAM F38 Backpack Clip](https://amzn.to/4lfAvaS) – **by far my favorite bag**
-- [Peak Design Field Pouch V2](https://www.peakdesign.com/products/field-pouch/?variant=39360874741837) with the [Slide Camera Sling Strap](https://www.peakdesign.com/products/slide)
+- [WANDRD D1 Sling](https://amzn.to/43lDcS3) with [locking zipper pulls](https://amzn.to/3G9bmQg)
 - [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) with the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch)
 - [Peak Design Packable Tote](https://www.peakdesign.com/products/packable-tote)
@@ -37,14 +39,12 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Anker 735 Charger](https://amzn.to/3hW4Znj)
 
 #### Scalable Travel
-- [UGreen 5-Port 100W Charger](https://amzn.to/49G0Ha6)
+- [Anker 160W 3-Port Charger](https://amzn.to/4hyyDtk)
 - [KUXIU 3-in-1 Charging Stand - Cosmic Orange](https://kuxiu.co/products/kuxiu-x40-turbo-stand-cosmic-orange)
 - [KUXIU Foldable Charging Bank ](https://amzn.to/4875K4R)
 - [ChubbyCable 2m USB-C Cable - Cosmic Orange](https://chubbycable.com/products/new-fashion-240w-anodizing-new-color-fast-charging-cable-for-new-iphone-17)
-- [USB-C/A to USB-C Cable](https://amzn.to/41BThCY)
-- [USB-C to USB-C Cables](https://amzn.to/3ZPizur) 
+- [USB-C to USB-C Cables](https://amzn.to/47a2IMf)
 - [Anker Qi2 MagSafe Battery](https://amzn.to/3Zx9fLK)
-
 
 ### Mobile Photo & Video
 #### Lenses & Filters
