@@ -20,9 +20,10 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Kershaw Cryo Knife](https://amzn.to/43lgJBG)
 - [Tactical LED Flashlight](https://amzn.to/3WlBt9N)
 - [WUBEN G5 Rechargeable EDC Flashlight](https://amzn.to/4ejjBGo)
-- [Keychain Flashlight](https://amzn.to/47sDEyX)
+- [Nitecore Orange Keychain Flashlight](https://amzn.to/4oWPSqy)
 - [Heroclip ](https://amzn.to/43UhDIT)
 - [Carabiner Multitool](https://amzn.to/4oCygQF)
+- [Multitool with Pliers](https://amzn.to/4oAgpui) – this one accepts hex heads, like ones from [this kit](https://amzn.to/3LOvLfT) (which is good)
 
 ### Bags
 - [WANDRD ROGUE 9L Sling](https://amzn.to/3ZIp17E) with [locking zipper pulls](https://amzn.to/3G9bmQg) and a [FALCAM F38 Backpack Clip](https://amzn.to/4lfAvaS) – **by far my favorite bag**
