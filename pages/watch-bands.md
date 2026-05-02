@@ -4,6 +4,8 @@ layout: base
 permalink: watch-band-collection/index.html
 ---
 
+Here is a table of the current watch bands I own:
+
 | Band Type               | Color                                         | Release         |
 | :---------------------: | :-------------------------------------------: | :-------------: |
 | **Alpine Loop**         |                                               |                 |
@@ -34,7 +36,7 @@ permalink: watch-band-collection/index.html
 | 23                      | Blue / Bright Blue                            | Fall / 2025     |
 
 | **Ultra Milanese Loop** |                                               |                 |
-| 30                      | Natural Titanium[^1]                              | Fall / 2024     |
+| 30                      | Natural Titanium (purchased at Apple Park)    | Fall / 2024     |
 | **Sport**               |                                               |                 |
 | 32                      | Hermès Orange                                 | Fall / 2016     |
 | 32                      | Ultraviolet                                   | Fall / 2016     |
@@ -74,5 +76,3 @@ permalink: watch-band-collection/index.html
 | 61                      | Nomad Sol Rocky Point Band (Ti Hardware)      | Fall / 2024     |
 | 62                      | Nomad Forest Rocky Point Band (Ti Hardware)   | Spring / 2025   |
 | 63                      | Shinola Brown Leather Strap 24mm              | Fall / 2022     |
-
-[^1]: Purchased at Apple Park
