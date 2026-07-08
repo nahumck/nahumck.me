@@ -4,32 +4,34 @@ layout: base
 permalink: gear/index.html
 ---
 
-Here's a list of the main gear I use.[^missed] These items not be for everyone, but it's what I use and it makes what I do better.
+Here's a list of the main gear I use.[^missed] These items not be for everyone, but it's what I use and it makes what I do better. 
+
 [^missed]: This should be all of it, but I might have missed some things…
 
 ### Devices
-- [iPhone 17 Pro 512GB Cosmic Orange](https://store.apple.com/xc/product/MG7P4LL/A) in either a [green TechWoven case](https://store.apple.com/xc/product/MGF74LL/A), a green [Moment case](https://www.shopmoment.com/products/camera-case-for-iphone-17) or a sunset [PITAKA case](https://amzn.to/4gQFqOs) 
+- [iPhone 17 Pro 512GB Cosmic Orange](https://store.apple.com/xc/product/MG7P4LL/A) in either a [green TechWoven case](https://store.apple.com/xc/product/MGF74LL/A), a green [Moment case](https://www.shopmoment.com/products/camera-case-for-iphone-17), or a [PITAKA case](https://amzn.to/4gQFqOs) with a [matte screen protector](https://amzn.to/4yas3Bd)
 - [Apple Watch Ultra 3](https://www.apple.com/shop/product/Z0YQ?option.watch_cases=MF1V4LW/A&option.watch_bands=MFTD4AM/A&preSelect=true) with [many watch bands](https://www.nahumck.me/watch-band-collection/)
-- [11" iPad Pro M4 (2024, 1TB/Space Black/Cellular/nano texture glass)](https://store.apple.com/xc/product/MWRP3LL/A) with [Apple Pencil Pro](https://store.apple.com/xc/product/MX2D3AM/A), with the [Spigen DA20 Pencil Holder](https://amzn.to/3LXIDNH) in the [Black Magic Keyboard](https://store.apple.com/xc/product/MWR23LL/A) covered with a [dBrand matte black skin](https://dbrand.com/shop/skins/magic-keyboard-for-ipad-pro-11-m4-skins) or [Dynamic Folio with modular pen holder](https://www.moft.us/products/dynamic-folio?variant=41648184164439)
+- [11" iPad Pro M4 (2024, 1TB/Space Black/Cellular/nano texture glass)](https://store.apple.com/xc/product/MWRP3LL/A) with [Apple Pencil Pro](https://store.apple.com/xc/product/MX2D3AM/A), in the [Magic Keyboard](https://store.apple.com/xc/product/MWR23LL/A) covered with a [dBrand skin](https://dbrand.com/shop/skins/magic-keyboard-for-ipad-pro-11-m4-skins) or [Moft Dynamic Folio with modular pen holder](https://www.moft.us/products/dynamic-folio?variant=41648184164439)
 - [AirPods Pro 2](https://amzn.to/3BzHlXI)
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
 ### EDC
 - [Nomad Leather Mag Wallet with Find My Tracking](https://nomadgoods.com/products/slim-wallet-horween-rustic-brown)
-- [Kershaw Analyst Tanto Pocket Knife](https://amzn.to/3DawPmV)
-- [Kershaw Cryo Knife](https://amzn.to/43lgJBG)
-- [Tactical LED Flashlight](https://amzn.to/3WlBt9N)
-- [WUBEN G5 Rechargeable EDC Flashlight](https://amzn.to/4ejjBGo)
+- [Satechi FindAll Smart Glasses Case](https://amzn.to/3QKrKMJ)
+- Kershaw Pocket Knives: [Cryo ii](https://amzn.to/43lgJBG) and [Analyst Tanto](https://amzn.to/3DawPmV)
+- Wuben Flashlights: [G5 EDC](https://amzn.to/4wBfX2v), [E8 EDC](https://amzn.to/44fo3BJ), and [C3 Tactical](https://amzn.to/3WlBt9N)
 - [Nitecore Orange Keychain Flashlight](https://amzn.to/4oWPSqy)
 - [Heroclip ](https://amzn.to/43UhDIT)
 - [Carabiner Multitool](https://amzn.to/4oCygQF)
 - [Multitool with Pliers](https://amzn.to/4oAgpui) – this one accepts hex heads, like ones from [this kit](https://amzn.to/3LOvLfT) (which is good)
 
 ### Bags
-- [WANDRD ROGUE 9L Sling](https://amzn.to/3ZIp17E) with [locking zipper pulls](https://amzn.to/3G9bmQg) and a [FALCAM F38 Backpack Clip](https://amzn.to/4lfAvaS) – **by far my favorite bag**
-- [WANDRD D1 Sling](https://amzn.to/43lDcS3) with [locking zipper pulls](https://amzn.to/3G9bmQg)
-- [TomToc 40L Travel Backpack](https://amzn.to/48UdxBA)
-- [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) with the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
+> with tracking devices like the [Nomad Tracker Card Pro](https://amzn.to/4gtEqBT) or [AirTags](https://amzn.to/4y8dRZm)
+- [WANDRD ROGUE 9L Sling](https://amzn.to/3ZIp17E) with [locking zipper pulls](https://amzn.to/3G9bmQg)
+- [tomtoc 3.5L XPAC Sling](https://amzn.to/4yiOVyz)
+- [WANDRD D1 Sling](https://amzn.to/43lDcS3)
+- [tomtoc 40L Travel Backpack](https://amzn.to/48UdxBA)
+- [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) including the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch)
 - [Peak Design Packable Tote](https://www.peakdesign.com/products/packable-tote)
 - [Peak Design Travel Duffelpack (45-65L)](https://www.peakdesign.com/products/travel-duffelpack)
@@ -42,37 +44,36 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 
 #### Scalable Travel
 - [Anker 160W 3-Port Charger](https://amzn.to/4hyyDtk)
-- [KUXIU 3-in-1 Charging Stand - Cosmic Orange](https://amzn.to/48CqTnj)
-- [KUXIU Foldable Charging Bank ](https://amzn.to/4aN2lcv)
+- [KUXIU S4 Charging Bank - Cosmic Orange](https://kuxiu.co/products/kuxiu-s4-power-bank-orange)
+- [KUXIU S3 Charging Bank](https://kuxiu.co/products/kuxiu-s3-power-bank)
+- [Nomad ChargeKey - Stellar Orange](https://nomadgoods.com/products/chargekey-v2-stellar-orange)
+- [Baseus Retractable USB-C Cable for Apple Watch](https://amzn.to/44iLBpq)
 - [ChubbyCable 2m USB-C Cable - Cosmic Orange](https://chubbycable.com/products/new-fashion-240w-anodizing-new-color-fast-charging-cable-for-new-iphone-17)
-- [USB-C to USB-C Cables](https://amzn.to/47a2IMf)
-- [Anker Qi2 MagSafe Battery](https://amzn.to/3Zx9fLK)
+- [ChubbyCable Duo-Flex USB-C Cable](https://chubbycable.com/products/chubbycable-duo-flex-100w-60w-2-in-1-fast-charging-data-transfer-cable-with-soft-silicone)
+- [USB-C to USB-C Cable](https://amzn.to/47a2IMf)
 
 ### Mobile Photo & Video
 #### Lenses & Filters
-- In the [Moment Soft Filter Case](https://amzn.to/4edswsz)
-	- [Moment Mobile CineBloom QuickLock Filter 10%](https://www.shopmoment.com/products/cinebloom-quicklock-filter-for-iphone-15-pro-pro-max)
-	- [Moment Mobile 67mm QuickLock Filter Mount](https://www.shopmoment.com/products/67mm-quicklock-filter-mount-for-iphone-17)
-	- Various 67mm VND, CPL, and UV Filters depending on the activity
-- In the [Moment Lens Carry Case](https://amzn.to/4kUhQBV)
-	- A custom made phone grip using a [mount](https://amzn.to/4eeg9g6) and the [G-Grip](https://ggrip.com)
-	- [Moment Tele 58mm Mobile Lens - T-Series](https://www.shopmoment.com/products/58mm-tele-lens?variant=48040445182267)
-	- [Moment Macro 75mm Mobile Lens | T-Series](https://www.shopmoment.com/products/75mm-macro-mobile-lens-t-series)
+- Moment QuickLock Filters in a custom 3D-printed case: [CineBloom 10%](https://www.shopmoment.com/products/moment-cinebloom-quicklock-filter), [VND 2-7 Stop](https://www.shopmoment.com/products/moment-vnd-2-7-stop-quicklock-filter), [CPL](https://www.shopmoment.com/products/moment-antiglare-cpl-quicklock-filter), and [CineClear](https://www.shopmoment.com/products/moment-cineclear-uv-quicklock-filter)
+- A custom-made, 3D-printed MagSafe grip using the [G-Grip](https://ggrip.com) for a shutter button
+- Moment T-Series Lenses: [Tele 58mm](https://www.shopmoment.com/products/58mm-tele-lens?variant=48040445182267), [SuperTele 240mm](https://www.shopmoment.com/products/supertele-240mm-mobile-lens-ii-t-series), and [Macro 75mm](https://www.shopmoment.com/products/75mm-macro-mobile-lens-t-series)
 - [Moment Mobile Camera Lens Cleaning Pen](https://www.shopmoment.com/products/lens-pen/lens-pen)
 - the official [Apple Polishing Cloth](https://amzn.to/3YPbjOg) and some [knock-off polishing cloths](https://amzn.to/3GhJ97f)
 - small bottle of lens cleaner
 #### Tripods, mounts, and video gear
 - [Ulanzi MA38 Magnetic Carabiner Tripod Mount](https://amzn.to/4nwbhql)
+- [FALCAM F38 Backpack Clip](https://amzn.to/4lfAvaS)
+- [JOBY PodZilla](https://amzn.to/4fq9dhV)
 - [PGYTECH MantisPod Pro](https://www.bhphotovideo.com/c/product/1645235-REG/pgytech_p_cg_020_mantispod_pro_vlogging_tripod.html)
 - [Ulanzi Zero Y Lightweight Travel Tripod](https://www.ulanzi.com/collections/best-seller/products/ulanzi-coman-lightweight-travel-tripod)
 - [SmallRig multitool](https://amzn.to/3VolB4P)
-- [Moment Bluetooth Remote](https://www.shopmoment.com/products/moment-bluetooth-remote/v2)
 - [Ulanzi Inflatable Tube Light](https://amzn.to/3P5AyId)
 - [Lexar Pro Go 2TB SDD with Hub](https://amzn.to/49HSVgb)
 - [DJI Osmo Mobile 7P Gimbal](https://amzn.to/4jXEjg9) with [Magnetic Quick Release Mount](https://amzn.to/44mLklX), [mini tripod (for extra stability)](https://amzn.to/4kRLTKx), and a [DJI Mic Mini](https://amzn.to/4narB0c)
 - [HyperDrive 6-in-1 USB-C Media Hub](https://amzn.to/48DRihQ)
 
 ### Drone
+> All carried in the [Moment Rugged 6L Sling](https://www.shopmoment.com/products/moment-rugged-camera-sling)
 - [DJI Mini 3 Pro with RC remote](https://amzn.to/3GdZ4Dv)
 - [DJI Mini 3 Fly More Kit](https://amzn.to/3YRikOn)
 - [Freewell ND filters](https://amzn.to/3YFzDls)
@@ -92,8 +93,9 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Magic Trackpad 2](https://amzn.to/3zP56Ea)
 - [Logitech MX Keys Combo](https://amzn.to/44oRoKB)
 - [Vornado Personal Air Circulator](https://amzn.to/40c4sk6)
-- [Sonos Roam Speaker](https://amzn.to/3POPkmp)
+- [Sonos One Speaker](https://amzn.to/3TphHxb) in a custom 3D-printed vintage housing
 - [elago MS3 Charging Stand Compatible with MagSafe Charger](https://amzn.to/3SZTvzq)
+- [BambuLabs A1 3D Printer w/ AMS Lite](https://amzn.to/4eNxP44) with a [better build plate](https://amzn.to/4vSZMh3)
 
 ### Software
 
