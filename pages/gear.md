@@ -16,20 +16,21 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [C-FORCE Portable Monitor](https://amzn.to/3WCcnTu) with a travel [cable](https://amzn.to/3C2BHui) and two [90º connectors](https://amzn.to/3BZnFJV)
 
 ### EDC
-- [Nomad Leather Mag Wallet with Find My Tracking](https://nomadgoods.com/products/slim-wallet-horween-rustic-brown)
+- A wallet with Find My tracking - either the [Nomad Leather Mag Wallet](https://nomadgoods.com/products/slim-wallet-horween-rustic-brown) or other the [Moft Tripod Wallet](https://www.moft.com/products/magsafe-tripod-wallet-stand-with-find-my?variant=42702829420631)
 - [Satechi FindAll Smart Glasses Case](https://amzn.to/3QKrKMJ)
 - Kershaw Pocket Knives: [Cryo ii](https://amzn.to/43lgJBG) and [Analyst Tanto](https://amzn.to/3DawPmV)
-- Wuben Flashlights: [G5 EDC](https://amzn.to/4wBfX2v), [E8 EDC](https://amzn.to/44fo3BJ), and [C3 Tactical](https://amzn.to/3WlBt9N)
+- Wuben Flashlights: [G5 EDC](https://amzn.to/4wBfX2v), [C3 Tactical](https://amzn.to/3WlBt9N), and [E8 EDC](https://amzn.to/44fo3BJ)
 - [Nitecore Orange Keychain Flashlight](https://amzn.to/4oWPSqy)
 - [Heroclip ](https://amzn.to/43UhDIT)
-- [Carabiner Multitool](https://amzn.to/4oCygQF)
-- [Multitool with Pliers](https://amzn.to/4oAgpui) – this one accepts hex heads, like ones from [this kit](https://amzn.to/3LOvLfT) (which is good)
+- Multitool: [Carabiner](https://amzn.to/4oCygQF), [photography](https://amzn.to/3VolB4P), or [pliers](https://amzn.to/4oAgpui) – which accepts hex head bits like ones from [this kit](https://amzn.to/3LOvLfT) – depending on the trip
+- [Baseus Picogo Air Magnetic Power Bank](https://www.baseus.com/products/picogo-air-am71-3c-magnetic-power-bank-5000mah-22-5w)
+- [Snap Grip Stand – Ohsnap](https://ohsnap.com/products/snap-grip-stand?variant=45669680709823)
+- [Nomad ChargeKey - Stellar Orange](https://nomadgoods.com/products/chargekey-v2-stellar-orange)
 
 ### Bags
 > with tracking devices like the [Nomad Tracker Card Pro](https://amzn.to/4gtEqBT) or [AirTags](https://amzn.to/4y8dRZm)
 - [WANDRD ROGUE 9L Sling](https://amzn.to/3ZIp17E) with [locking zipper pulls](https://amzn.to/3G9bmQg)
 - [tomtoc 3.5L XPAC Sling](https://amzn.to/4yiOVyz)
-- [WANDRD D1 Sling](https://amzn.to/43lDcS3)
 - [tomtoc 40L Travel Backpack](https://amzn.to/48UdxBA)
 - [Peak Design Everyday Backpack V2 30L](https://www.peakdesign.com/products/everyday-backpack) including the [hip belt](https://www.peakdesign.com/products/everyday-hip-belt)
 - [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch)
@@ -46,7 +47,6 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - [Anker 160W 3-Port Charger](https://amzn.to/4hyyDtk)
 - [KUXIU S4 Charging Bank - Cosmic Orange](https://kuxiu.co/products/kuxiu-s4-power-bank-orange)
 - [KUXIU S3 Charging Bank](https://kuxiu.co/products/kuxiu-s3-power-bank)
-- [Nomad ChargeKey - Stellar Orange](https://nomadgoods.com/products/chargekey-v2-stellar-orange)
 - [Baseus Retractable USB-C Cable for Apple Watch](https://amzn.to/44iLBpq)
 - [ChubbyCable 2m USB-C Cable - Cosmic Orange](https://chubbycable.com/products/new-fashion-240w-anodizing-new-color-fast-charging-cable-for-new-iphone-17)
 - [ChubbyCable Duo-Flex USB-C Cable](https://chubbycable.com/products/chubbycable-duo-flex-100w-60w-2-in-1-fast-charging-data-transfer-cable-with-soft-silicone)
@@ -61,19 +61,18 @@ Here's a list of the main gear I use.[^missed] These items not be for everyone, 
 - the official [Apple Polishing Cloth](https://amzn.to/3YPbjOg) and some [knock-off polishing cloths](https://amzn.to/3GhJ97f)
 - small bottle of lens cleaner
 #### Tripods, mounts, and video gear
-- [Ulanzi MA38 Magnetic Carabiner Tripod Mount](https://amzn.to/4nwbhql)
-- [FALCAM F38 Backpack Clip](https://amzn.to/4lfAvaS)
 - [JOBY PodZilla](https://amzn.to/4fq9dhV)
 - [PGYTECH MantisPod Pro](https://www.bhphotovideo.com/c/product/1645235-REG/pgytech_p_cg_020_mantispod_pro_vlogging_tripod.html)
 - [Ulanzi Zero Y Lightweight Travel Tripod](https://www.ulanzi.com/collections/best-seller/products/ulanzi-coman-lightweight-travel-tripod)
-- [SmallRig multitool](https://amzn.to/3VolB4P)
+- [Ulanzi MA38 Magnetic Carabiner Tripod Mount](https://amzn.to/4nwbhql)
+- [FALCAM F38 Backpack Clip](https://amzn.to/4lfAvaS)
 - [Ulanzi Inflatable Tube Light](https://amzn.to/3P5AyId)
-- [Lexar Pro Go 2TB SDD with Hub](https://amzn.to/49HSVgb)
+- [Lexar Pro Go 2TB SDD with Hub](https://amzn.to/49HSVgb) in a custom 3D printed case
 - [DJI Osmo Mobile 7P Gimbal](https://amzn.to/4jXEjg9) with [Magnetic Quick Release Mount](https://amzn.to/44mLklX), [mini tripod (for extra stability)](https://amzn.to/4kRLTKx), and a [DJI Mic Mini](https://amzn.to/4narB0c)
 - [HyperDrive 6-in-1 USB-C Media Hub](https://amzn.to/48DRihQ)
 
 ### Drone
-> All carried in the [Moment Rugged 6L Sling](https://www.shopmoment.com/products/moment-rugged-camera-sling)
+> All carried in a [Moment Rugged 6L Sling](https://www.shopmoment.com/products/moment-rugged-camera-sling)
 - [DJI Mini 3 Pro with RC remote](https://amzn.to/3GdZ4Dv)
 - [DJI Mini 3 Fly More Kit](https://amzn.to/3YRikOn)
 - [Freewell ND filters](https://amzn.to/3YFzDls)
